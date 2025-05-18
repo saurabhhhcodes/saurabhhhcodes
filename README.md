@@ -41,28 +41,4 @@
 `OOP` `DBMS` `AI/ML` `Bioinformatics` `REST APIs`
 
 ---
-
-## 🌐 Online Profiles
-
-* [GitHub](https://github.com/saurabhhhcodes)
-* [LeetCode](https://leetcode.com/YOUR_USERNAME)
-* [GeeksForGeeks](https://auth.geeksforgeeks.org/user/YOUR_USERNAME)
-* [Codeforces](https://codeforces.com/profile/YOUR_USERNAME)
-
----
-
-## 📊 GitHub Stats
-
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhhhcodes\&show_icons=true\&theme=radical)
-![Saurabh's GitHub Streak](https://streak-stats.demolab.com/?user=saurabhhhcodes\&theme=radical)
-![Saurabh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabhhhcodes\&theme=react-dark)
-
----
-
-## 🏅 Holopin Badges
-
-[![Holopin board](https://holopin.io/api/user/yourusername/badges)](https://holopin.io/@yourusername)
-
----
-
 *Thanks for visiting my profile! Let’s collaborate, connect, and build something impactful 🚀*
