@@ -19,6 +19,11 @@
 * Spring Boot REST APIs 🚀
 * Machine Learning (Scikit-learn, XGBoost) 🤖
 * Bioinformatics and Computational Biology 🧠
+  
+---
+
+# 📊 My Tech Profiles
+- [LeetCode](https://leetcode.com/u/saurabhhhcodes/)
 
 ---
 
