@@ -24,8 +24,8 @@
 
 ## 📫 Get in Touch
 
-* Email: [saurabhkbajpai@gmail.com](mailto:saurabhkbajpai@gmail.com)
-* LinkedIn: [linkedin.com/in/YOUR\_USERNAME](#)
+* Email: [saurabhbajpai03@outlook.com](mailto:saurabhbajpai03@outlook.com)
+* LinkedIn: [www.linkedin.com/in/saurabhbajpai03](#)
 
 ---
 
