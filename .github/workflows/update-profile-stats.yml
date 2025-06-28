@@ -1,0 +1,30 @@
+name: Update Competitive Programming Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # Checks out your repository code
+
+      - name: Regenerate README to force image refresh
+        run: |
+          # This step simply adds an invisible HTML comment with the current timestamp.
+          # This causes the README.md file to be detected as changed by Git,
+          # which then prompts GitHub to re-render the README and fetch fresh images
+          # from the external stats card URLs.
+          echo "" >> README.md
+
+      - name: Commit and push if README changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Automated: Update competitive programming stats" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Special token provided by GitHub for actions
