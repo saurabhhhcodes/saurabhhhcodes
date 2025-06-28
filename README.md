@@ -18,11 +18,17 @@ Hey 👋, I'm Saurabh Kumar Bajpai — a Developer from India 🇮🇳
 
 ---
 
-### 📊 My Tech Profiles & Stats
+### 🏆 My Competitive Programming & Data Science Journey
+
+**LeetCode Profile**
 
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=saurabhhhcodes&theme=dark)](https://leetcode.com/saurabhhhcodes/)
 
+**Codeforces Profile**
+
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=saurabhhhcodes&theme=dark)](https://codeforces.com/profile/saurabhhhcodes)
+
+**Kaggle Profile**
 
 ![Kaggle Stats](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?saurabhbajpai03)
 
