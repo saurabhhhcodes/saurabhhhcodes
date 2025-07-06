@@ -2,7 +2,7 @@
   
 # Hi there, I'm Saurabh Bajpai 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Problem+Solver;Java+%7C+Python+%7C+MySQL+Expert;Always+Learning+New+Technologies!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Data+Scientist;Competitive+Programming+%7C+Machine+Learning;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -33,10 +33,10 @@ const saurabh = {
 ## 📊 GitHub Stats & Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=saurabhhhcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhhhcodes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=saurabhhhcodes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhhhcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhhhcodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhhhcodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Activity Graph" width="48%" />
 
 </div>
 
@@ -53,21 +53,32 @@ const saurabh = {
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,c,sql" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web Technologies
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,docker,firebase" />
-
-### 🔧 Tools & IDEs
-<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,linux,postman" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-
-**Core Libraries:** `pandas` • `numpy` • `scikit-learn` • `matplotlib` • `seaborn` • `jupyter`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -78,8 +89,8 @@ const saurabh = {
 ### 💻 Competitive Programming
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| 🟡 **LeetCode** | [@saurabhhhcodes](https://leetcode.com/saurabhhhcodes) | ![LeetCode Stats](https://leetcard.jacoblin.cool/saurabhhhcodes?theme=dark&font=Fira%20Code&ext=contest) |
-| 🔵 **Codeforces** | [@saurabhhhcodes](https://codeforces.com/profile/saurabhhhcodes) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=saurabhhhcodes&theme=dark) |
+| 🟡 **LeetCode** | [@saurabhhhcodes](https://leetcode.com/saurabhhhcodes) | ![LeetCode](https://img.shields.io/badge/LeetCode-500+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) |
+| 🔵 **Codeforces** | [@saurabhhhcodes](https://codeforces.com/profile/saurabhhhcodes) | ![Codeforces](https://img.shields.io/badge/Codeforces-1400+_Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) |
 
 ### 📊 Data Science & Machine Learning
 <div align="center">
@@ -247,6 +258,6 @@ graph TD
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
