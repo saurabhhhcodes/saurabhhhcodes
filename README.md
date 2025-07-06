@@ -16,14 +16,14 @@
 const saurabh = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "Software Development",
-    languages: ["Java", "Python", "JavaScript", "SQL"],
+    currentFocus: "Competitive Programming & Software Development",
+    languages: ["Java", "Python", "C++", "JavaScript", "SQL"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    frameworks: ["Spring Boot", "Django", "React"],
-    tools: ["Git", "Docker", "AWS", "Linux"],
-    currentlyLearning: ["Cloud Technologies", "Microservices", "DevOps"],
-    lookingFor: "Software Development Opportunities",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    frameworks: ["Spring Boot", "Django", "React", "Node.js"],
+    tools: ["Git", "Docker", "AWS", "Linux", "IntelliJ IDEA", "VS Code"],
+    currentlyLearning: ["Advanced Algorithms", "System Design", "Cloud Technologies"],
+    lookingFor: "Software Development Opportunities & Competitive Programming",
+    funFact: "I solve algorithmic problems faster than I debug them! 🚀"
 };
 ```
 
@@ -52,28 +52,51 @@ const saurabh = {
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,c,sql" />
 
-### 🌐 Web Technologies  
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap" />
+### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring" />
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,docker,firebase" />
 
-### 🔧 Tools & Platforms
+### 🔧 Tools & IDEs
 <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,linux,postman" />
+
+### 📊 Data Science & Analytics
+<img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pandas,numpy,matplotlib" />
 
 </div>
 
-## 🏆 Competitive Programming Profiles
+## 🏆 Competitive Programming & Data Science Profiles
 
 <div align="center">
 
+### 💻 Competitive Programming
 | Platform | Profile | Stats |
 |----------|---------|-------|
 | 🟡 **LeetCode** | [@saurabhhhcodes](https://leetcode.com/saurabhhhcodes) | ![LeetCode Stats](https://leetcard.jacoblin.cool/saurabhhhcodes?theme=dark&font=Fira%20Code&ext=contest) |
 | 🔵 **Codeforces** | [@saurabhhhcodes](https://codeforces.com/profile/saurabhhhcodes) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=saurabhhhcodes&theme=dark) |
-| 🟢 **Kaggle** | [@saurabhbajpai](https://kaggle.com/saurabhbajpai) | ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) |
+
+### 📊 Data Science & Machine Learning
+<div align="center">
+  <a href="https://kaggle.com/saurabhbajpai">
+    <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Expert" />
+  </a>
+  <a href="https://kaggle.com/saurabhbajpai">
+    <img src="https://img.shields.io/badge/Competitions-Participated-FF6B6B?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Competitions" />
+  </a>
+  <a href="https://kaggle.com/saurabhbajpai">
+    <img src="https://img.shields.io/badge/Datasets-Published-00D9FF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Datasets" />
+  </a>
+</div>
+
+### 🎯 Coding Achievements
+<div align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-500+-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved" />
+  <img src="https://img.shields.io/badge/Contest_Rating-1400+-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Contest Rating" />
+  <img src="https://img.shields.io/badge/Daily_Streak-30+_Days-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Coding Streak" />
+</div>
 
 </div>
 
@@ -92,28 +115,34 @@ const saurabh = {
 
 </div>
 
-## 🌟 Current Projects & Learning
+## 🌟 Current Focus & Learning Path
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[🎯 Current Focus] --> B[Software Development]
-    A --> C[Cloud Technologies]
+    A[🎯 Current Focus] --> B[Competitive Programming]
+    A --> C[Software Development]
     A --> D[System Design]
-    
-    B --> E[Java Spring Boot]
-    B --> F[Python Django]
-    B --> G[React.js]
-    
-    C --> H[AWS Services]
-    C --> I[Docker & Kubernetes]
-    C --> J[Microservices]
-    
-    D --> K[Database Design]
-    D --> L[API Architecture]
-    D --> M[Performance Optimization]
+
+    B --> E[Advanced Algorithms]
+    B --> F[Data Structures]
+    B --> G[Contest Participation]
+
+    C --> H[Java Spring Boot]
+    C --> I[Python Development]
+    C --> J[Full Stack Projects]
+
+    D --> K[Scalable Architecture]
+    D --> L[Database Optimization]
+    D --> M[Cloud Technologies]
 ```
+
+### 🚀 Currently Working On
+- 🏆 **Daily LeetCode Practice** - Solving algorithmic challenges
+- 📚 **Advanced Data Structures** - Trees, Graphs, Dynamic Programming
+- 🌐 **Full Stack Projects** - Building end-to-end applications
+- ☁️ **Cloud Learning** - AWS services and deployment strategies
 
 </div>
 
