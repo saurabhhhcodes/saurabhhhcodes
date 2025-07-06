@@ -16,14 +16,15 @@
 const saurabh = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "Competitive Programming & Software Development",
+    currentFocus: "Competitive Programming & Data Science",
     languages: ["Java", "Python", "C++", "JavaScript", "SQL"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
     frameworks: ["Spring Boot", "Django", "React", "Node.js"],
-    tools: ["Git", "Docker", "AWS", "Linux", "IntelliJ IDEA", "VS Code"],
-    currentlyLearning: ["Advanced Algorithms", "System Design", "Cloud Technologies"],
-    lookingFor: "Software Development Opportunities & Competitive Programming",
-    funFact: "I solve algorithmic problems faster than I debug them! 🚀"
+    mlLibraries: ["TensorFlow", "Scikit-Learn", "Pandas", "NumPy"],
+    tools: ["Git", "Docker", "AWS", "Linux", "IntelliJ IDEA", "VS Code", "Jupyter"],
+    currentlyLearning: ["Advanced ML Algorithms", "Deep Learning", "System Design"],
+    lookingFor: "Software Development & Data Science Opportunities",
+    funFact: "I can train neural networks and solve competitive programming problems! 🤖🚀"
 };
 ```
 
@@ -63,8 +64,10 @@ const saurabh = {
 ### 🔧 Tools & IDEs
 <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,linux,postman" />
 
-### 📊 Data Science & Analytics
-<img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pandas,numpy,matplotlib" />
+### 📊 Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+
+**Core Libraries:** `pandas` • `numpy` • `scikit-learn` • `matplotlib` • `seaborn` • `jupyter`
 
 </div>
 
@@ -81,15 +84,29 @@ const saurabh = {
 ### 📊 Data Science & Machine Learning
 <div align="center">
   <a href="https://kaggle.com/saurabhbajpai">
-    <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Expert" />
+    <img src="https://img.shields.io/badge/Kaggle-Data_Scientist-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Data Scientist" />
   </a>
   <a href="https://kaggle.com/saurabhbajpai">
-    <img src="https://img.shields.io/badge/Competitions-Participated-FF6B6B?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Competitions" />
+    <img src="https://img.shields.io/badge/ML_Projects-10+-FF6B6B?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="ML Projects" />
   </a>
   <a href="https://kaggle.com/saurabhbajpai">
-    <img src="https://img.shields.io/badge/Datasets-Published-00D9FF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Datasets" />
+    <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-00D9FF?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Deep Learning" />
   </a>
 </div>
+
+### 🤖 Machine Learning Expertise
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</div>
+
+**ML Specializations:**
+- 🧠 **Deep Learning**: Neural Networks, CNNs, RNNs
+- 📈 **Supervised Learning**: Classification, Regression, Ensemble Methods
+- 🔍 **Unsupervised Learning**: Clustering, Dimensionality Reduction
+- 📊 **Data Analysis**: Statistical Analysis, Feature Engineering, Visualization
 
 ### 🎯 Coding Achievements
 <div align="center">
@@ -122,27 +139,78 @@ const saurabh = {
 ```mermaid
 graph TD
     A[🎯 Current Focus] --> B[Competitive Programming]
-    A --> C[Software Development]
-    A --> D[System Design]
+    A --> C[Machine Learning & AI]
+    A --> D[Software Development]
 
     B --> E[Advanced Algorithms]
     B --> F[Data Structures]
     B --> G[Contest Participation]
 
-    C --> H[Java Spring Boot]
-    C --> I[Python Development]
-    C --> J[Full Stack Projects]
+    C --> H[Deep Learning - TensorFlow]
+    C --> I[Data Science - Pandas/NumPy]
+    C --> J[ML Models - Scikit-Learn]
 
-    D --> K[Scalable Architecture]
-    D --> L[Database Optimization]
+    D --> K[Full Stack Development]
+    D --> L[Bioinformatics Tools]
     D --> M[Cloud Technologies]
 ```
 
 ### 🚀 Currently Working On
 - 🏆 **Daily LeetCode Practice** - Solving algorithmic challenges
-- 📚 **Advanced Data Structures** - Trees, Graphs, Dynamic Programming
-- 🌐 **Full Stack Projects** - Building end-to-end applications
-- ☁️ **Cloud Learning** - AWS services and deployment strategies
+- 🤖 **Machine Learning Projects** - Building predictive models with TensorFlow & Scikit-Learn
+- 🧬 **Bioinformatics Tools** - GeneInsight & Sequence Analysis platforms
+- 📊 **Data Science Pipelines** - End-to-end ML workflows with Pandas & NumPy
+- 🌐 **Full Stack Development** - Modern web applications with React & Spring Boot
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🧬 **GeneInsight** - Bioinformatics Analysis Platform
+<a href="https://github.com/saurabhhhcodes/geneinsigt">
+  <img src="https://img.shields.io/badge/Repository-GeneInsight-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GeneInsight Repo" />
+</a>
+
+**Advanced bioinformatics tool for genetic data analysis and visualization**
+- 🔬 **Tech Stack**: Python, Bioinformatics Libraries, Data Visualization
+- 🎯 **Features**: Gene sequence analysis, mutation detection, phylogenetic analysis
+- 📊 **Impact**: Streamlines genetic research workflows for researchers
+- 🌟 **Highlights**: Interactive visualizations, batch processing, export capabilities
+
+---
+
+### 🧬 **Sequence Analysis Tool** - DNA/RNA Processing Suite
+<a href="https://github.com/saurabhhhcodes/sequence-analysis-tool">
+  <img src="https://img.shields.io/badge/Repository-Sequence_Analysis-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Sequence Analysis Repo" />
+</a>
+
+**Comprehensive toolkit for biological sequence analysis and manipulation**
+- 🔬 **Tech Stack**: Python, BioPython, NumPy, Matplotlib
+- 🎯 **Features**: Sequence alignment, motif finding, GC content analysis
+- 📈 **Capabilities**: Statistical analysis, pattern recognition, format conversion
+- 🌟 **Highlights**: Command-line interface, batch processing, detailed reports
+
+---
+
+### 👥 **DevColabPlatform** - Developer Collaboration Hub
+<a href="https://github.com/saurabhhhcodes/devcolabpaltform">
+  <img src="https://img.shields.io/badge/Repository-DevColabPlatform-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="DevColab Repo" />
+</a>
+
+**Modern platform for developer collaboration and project management**
+- 💻 **Tech Stack**: Full Stack Development, Real-time Communication
+- 🎯 **Features**: Project collaboration, code sharing, team management
+- 🚀 **Capabilities**: Real-time chat, file sharing, version control integration
+- 🌟 **Highlights**: Modern UI/UX, scalable architecture, cross-platform support
+
+### 📊 Project Statistics
+<div align="center">
+  <img src="https://img.shields.io/badge/Total_Projects-15+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Languages_Used-8+-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-20BEFF?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source" />
+</div>
 
 </div>
 
