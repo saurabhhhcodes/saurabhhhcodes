@@ -1,44 +1,35 @@
-Hey 👋, I'm Saurabh Kumar Bajpai — a Developer from India 🇮🇳
+Hi there, I'm Saurabh Bajpai 👋
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and build impactful applications.
 
-🚀 Turning code into solutions, dreams into deploys. 🎓 Final-year B.Tech Biotechnology @ Amity University Lucknow 💡 Aspiring AI/ML Software Engineer | Java & Python Developer
+🚀 About Me
+Skills: I have a strong foundation in Java, Python, and MySQL. I'm always looking to expand my knowledge and pick up new tools.
 
----
+Looking For: I am actively seeking Software Development opportunities where I can apply my problem-solving skills and contribute to innovative projects.
 
-### 🔭 Currently Building
+Currently Learning: Exploring new data structures and algorithms, and diving deeper into cloud technologies.
 
-* **GeneInsight** — AI-Powered Gene-Disease Association Web App 🧬
-* **DeveloperCollabPlatform** — Java console platform for collaborative dev 💬
-* **Migrating E-Commerce System** from Java JDBC to Spring Boot ☕
+📊 Dynamic Stats & 🏆 Competitive Programming Profiles
+My stats below are automatically updated daily using GitHub Actions!
 
-### 🌱 Currently Learning
+LeetCode
+<!-- The 'XXX' above will be replaced by the auto-update script. -->
 
-* Spring Boot REST APIs 🚀
-* Machine Learning (Scikit-learn, XGBoost) 🤖
-* Bioinformatics and Computational Biology 🧠
+Kaggle
+<!-- The 'YourRankTier' above will be replaced by the auto-update script. -->
 
----
+Codeforces
+<!-- The 'XXXX' above will be replaced by the auto-update script. -->
 
-### 🌐 My Online Profiles
+✨ Interactive 3D Badges (Conceptual Demo)
+For a truly futuristic experience, imagine interactive 3D representations of your achievements! Below is a conceptual demo of how a 3D element could look. You would typically host such a component externally and link to it from here.
 
-* **LeetCode:** [saurabhhhcodes](https://leetcode.com/saurabhhhcodes/)
-* **Codeforces:** [saurabhhhcodes](https://codeforces.com/profile/saurabhhhcodes)
-* **Kaggle:** [saurabhbajpai03](https://www.kaggle.com/saurabhbajpai03)
+<!-- Example link to your hosted 3D badge component: -->
 
----
+<!--  -->
 
-### 🧰 Tech Stack
+📫 Let's Connect!
+LinkedIn: www.linkedin.com/in/saurabhbajpai03
 
-**Languages:** Java | Python | SQL | C++
-**Frameworks & Tools:** Spring Boot | JavaFX | JDBC | MySQL | React | HTML | CSS | TailwindCSS | VS Code | Git | GitHub | Linux | Netlify
-**Concepts:** OOP | DBMS | AI/ML | Bioinformatics | REST APIs
+Email:saurabhbajpai03@outlook.com
 
----
-
-### 📫 Get in Touch
-
-* **Email:** saurabhbajpai03@outlook.com
-* **LinkedIn:** [www.linkedin.com/in/saurabhbajpai03](https://www.linkedin.com/in/saurabhbajpai03)
-
----
-
-Thanks for visiting my profile! Let’s collaborate, connect, and build something impactful 🚀
+Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech!
