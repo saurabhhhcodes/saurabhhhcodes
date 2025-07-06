@@ -28,8 +28,8 @@ For a truly futuristic experience, imagine interactive 3D representations of you
 <!--  -->
 
 📫 Let's Connect!
-LinkedIn: www.linkedin.com/in/saurabhbajpai03
+LinkedIn: https://www.linkedin.com/in/saurabhbajpai03
 
-Email:saurabhbajpai03@outlook.com
+Email: saurabhbajpai03@outlook.com
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech!
