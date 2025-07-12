@@ -2,7 +2,7 @@
   
 # Hi there, I'm Saurabh Bajpai 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Data+Scientist;Competitive+Programming+%7C+Machine+Learning;Always+Learning+New+Technologies!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Data+Scientist;Competitive+Programming+%7C+Machine+Learning;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -127,13 +127,13 @@ const saurabh = {
 <div align="center">
 
 ### 🌟 3D Contribution Graph
-<img src="https://github.com/saurabhhhcodes/saurabhhhcodes/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhhhcodes&theme=github-compact&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="3D Contribution Graph" />
 
 ### 📈 Dynamic Activity Metrics
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhhhcodes&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
 
-### 🎯 Skill Progress Visualization
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=saurabhhhcodes&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Wakatime Stats" />
+### 🎯 Programming Activity
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhhhcodes&repo=geneinsigt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Featured Repository" />
 
 </div>
 
@@ -173,10 +173,7 @@ graph TD
 
 <div align="center">
 
-### 🧬 **GeneInsight** - Bioinformatics Analysis Platform
-<a href="https://github.com/saurabhhhcodes/geneinsigt">
-  <img src="https://img.shields.io/badge/Repository-GeneInsight-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GeneInsight Repo" />
-</a>
+### 🧬 **[GeneInsight](https://github.com/saurabhhhcodes/geneinsigt)** - Bioinformatics Analysis Platform
 
 **Advanced bioinformatics tool for genetic data analysis and visualization**
 - 🔬 **Tech Stack**: Python, Bioinformatics Libraries, Data Visualization
@@ -186,10 +183,7 @@ graph TD
 
 ---
 
-### 🧬 **Sequence Analysis Tool** - DNA/RNA Processing Suite
-<a href="https://github.com/saurabhhhcodes/sequence-analysis-tool">
-  <img src="https://img.shields.io/badge/Repository-Sequence_Analysis-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Sequence Analysis Repo" />
-</a>
+### 🧬 **[Sequence Analysis Tool](https://github.com/saurabhhhcodes/sequence-analysis-tool)** - DNA/RNA Processing Suite
 
 **Comprehensive toolkit for biological sequence analysis and manipulation**
 - 🔬 **Tech Stack**: Python, BioPython, NumPy, Matplotlib
@@ -199,10 +193,7 @@ graph TD
 
 ---
 
-### 👥 **DevColabPlatform** - Developer Collaboration Hub
-<a href="https://github.com/saurabhhhcodes/devcolabpaltform">
-  <img src="https://img.shields.io/badge/Repository-DevColabPlatform-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="DevColab Repo" />
-</a>
+### 👥 **[DevColabPlatform](https://github.com/saurabhhhcodes/devcolabpaltform)** - Developer Collaboration Hub
 
 **Modern platform for developer collaboration and project management**
 - 💻 **Tech Stack**: Full Stack Development, Real-time Communication
@@ -250,6 +241,6 @@ graph TD
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+🚀" alt="Typing SVG" />
 
 </div>
