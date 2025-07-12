@@ -1,10 +1,14 @@
 <div align="center">
   
+<div align="center">
+
 # Hi there, I'm Saurabh Bajpai 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Data+Scientist;Competitive+Programming+%7C+Machine+Learning;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 </div>
 
@@ -30,6 +34,8 @@ const saurabh = {
 
 <div align="center">
 
+<div align="center">
+
 ## 📊 GitHub Stats & Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=saurabhhhcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
@@ -37,6 +43,8 @@ const saurabh = {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhhhcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhhhcodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Activity Graph" width="48%" />
+
+</div>
 
 </div>
 
@@ -93,7 +101,6 @@ const saurabh = {
 | 🔵 **Codeforces** | [@saurabhhhcodes](https://codeforces.com/profile/saurabhhhcodes) | ![Codeforces](https://img.shields.io/badge/Codeforces-1400+_Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) |
 
 ### 📊 Data Science & Machine Learning
-<div align="center">
   <a href="https://kaggle.com/saurabhbajpai">
     <img src="https://img.shields.io/badge/Kaggle-Data_Scientist-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Data Scientist" />
   </a>
@@ -103,15 +110,12 @@ const saurabh = {
   <a href="https://kaggle.com/saurabhbajpai">
     <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-00D9FF?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Deep Learning" />
   </a>
-</div>
 
 ### 🤖 Machine Learning Expertise
-<div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</div>
 
 **ML Specializations:**
 - 🧠 **Deep Learning**: Neural Networks, CNNs, RNNs
@@ -120,11 +124,9 @@ const saurabh = {
 - 📊 **Data Analysis**: Statistical Analysis, Feature Engineering, Visualization
 
 ### 🎯 Coding Achievements
-<div align="center">
   <img src="https://img.shields.io/badge/Problems_Solved-500+-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved" />
   <img src="https://img.shields.io/badge/Contest_Rating-1400+-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Contest Rating" />
   <img src="https://img.shields.io/badge/Daily_Streak-30+_Days-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Coding Streak" />
-</div>
 
 </div>
 
@@ -217,11 +219,9 @@ graph TD
 - 🌟 **Highlights**: Modern UI/UX, scalable architecture, cross-platform support
 
 ### 📊 Project Statistics
-<div align="center">
   <img src="https://img.shields.io/badge/Total_Projects-15+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
   <img src="https://img.shields.io/badge/Languages_Used-8+-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
   <img src="https://img.shields.io/badge/Open_Source-Contributor-20BEFF?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source" />
-</div>
 
 </div>
 
