@@ -133,7 +133,7 @@ const saurabh = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhhhcodes&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
 
 ### 🎯 Programming Activity
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhhhcodes&repo=geneinsigt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Featured Repository" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhhhcodes&repo=geneinsight-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Featured Repository" />
 
 </div>
 
@@ -173,7 +173,7 @@ graph TD
 
 <div align="center">
 
-### 🧬 **[GeneInsight](https://github.com/saurabhhhcodes/geneinsigt)** - Bioinformatics Analysis Platform
+### 🧬 **[GeneInsight Platform](https://github.com/saurabhhhcodes/geneinsight-platform)** - Bioinformatics Analysis Platform
 
 **Advanced bioinformatics tool for genetic data analysis and visualization**
 - 🔬 **Tech Stack**: Python, Bioinformatics Libraries, Data Visualization
@@ -183,7 +183,7 @@ graph TD
 
 ---
 
-### 🧬 **[Sequence Analysis Tool](https://github.com/saurabhhhcodes/sequence-analysis-tool)** - DNA/RNA Processing Suite
+### 🧬 **[Sequence Analysis Tool](https://github.com/saurabhhhcodes/SequenceAnalysisTool)** - DNA/RNA Processing Suite
 
 **Comprehensive toolkit for biological sequence analysis and manipulation**
 - 🔬 **Tech Stack**: Python, BioPython, NumPy, Matplotlib
@@ -193,7 +193,7 @@ graph TD
 
 ---
 
-### 👥 **[DevColabPlatform](https://github.com/saurabhhhcodes/devcolabpaltform)** - Developer Collaboration Hub
+### 👥 **[Developer Collaboration Platform](https://github.com/saurabhhhcodes/DeveloperCollabPlatform)** - Developer Collaboration Hub
 
 **Modern platform for developer collaboration and project management**
 - 💻 **Tech Stack**: Full Stack Development, Real-time Communication
