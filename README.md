@@ -1,14 +1,10 @@
 <div align="center">
   
-<div align="center">
-
 # Hi there, I'm Saurabh Bajpai 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Data+Scientist;Competitive+Programming+%7C+Machine+Learning;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
 
 </div>
 
@@ -34,8 +30,6 @@ const saurabh = {
 
 <div align="center">
 
-<div align="center">
-
 ## 📊 GitHub Stats & Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=saurabhhhcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
@@ -43,8 +37,6 @@ const saurabh = {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhhhcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhhhcodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Activity Graph" width="48%" />
-
-</div>
 
 </div>
 
@@ -67,7 +59,7 @@ const saurabh = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Web Technologies
+### 🌐 Web Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -101,21 +93,21 @@ const saurabh = {
 | 🔵 **Codeforces** | [@saurabhhhcodes](https://codeforces.com/profile/saurabhhhcodes) | ![Codeforces](https://img.shields.io/badge/Codeforces-1400+_Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) |
 
 ### 📊 Data Science & Machine Learning
-  <a href="https://kaggle.com/saurabhbajpai">
-    <img src="https://img.shields.io/badge/Kaggle-Data_Scientist-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Data Scientist" />
-  </a>
-  <a href="https://kaggle.com/saurabhbajpai">
-    <img src="https://img.shields.io/badge/ML_Projects-10+-FF6B6B?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="ML Projects" />
-  </a>
-  <a href="https://kaggle.com/saurabhbajpai">
-    <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-00D9FF?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Deep Learning" />
-  </a>
+<a href="https://kaggle.com/saurabhbajpai">
+  <img src="https://img.shields.io/badge/Kaggle-Data_Scientist-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Data Scientist" />
+</a>
+<a href="https://kaggle.com/saurabhbajpai">
+  <img src="https://img.shields.io/badge/ML_Projects-10+-FF6B6B?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="ML Projects" />
+</a>
+<a href="https://kaggle.com/saurabhbajpai">
+  <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-00D9FF?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Deep Learning" />
+</a>
 
 ### 🤖 Machine Learning Expertise
-  <img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 
 **ML Specializations:**
 - 🧠 **Deep Learning**: Neural Networks, CNNs, RNNs
@@ -124,9 +116,9 @@ const saurabh = {
 - 📊 **Data Analysis**: Statistical Analysis, Feature Engineering, Visualization
 
 ### 🎯 Coding Achievements
-  <img src="https://img.shields.io/badge/Problems_Solved-500+-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved" />
-  <img src="https://img.shields.io/badge/Contest_Rating-1400+-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Contest Rating" />
-  <img src="https://img.shields.io/badge/Daily_Streak-30+_Days-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Coding Streak" />
+<img src="https://img.shields.io/badge/Problems_Solved-500+-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved" />
+<img src="https://img.shields.io/badge/Contest_Rating-1400+-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Contest Rating" />
+<img src="https://img.shields.io/badge/Daily_Streak-30+_Days-20BEFF?style=for-the-badge&logo=github&logoColor=white" alt="Coding Streak" />
 
 </div>
 
@@ -154,15 +146,15 @@ graph TD
     A[🎯 Current Focus] --> B[Competitive Programming]
     A --> C[Machine Learning & AI]
     A --> D[Software Development]
-
+    
     B --> E[Advanced Algorithms]
     B --> F[Data Structures]
     B --> G[Contest Participation]
-
+    
     C --> H[Deep Learning - TensorFlow]
     C --> I[Data Science - Pandas/NumPy]
     C --> J[ML Models - Scikit-Learn]
-
+    
     D --> K[Full Stack Development]
     D --> L[Bioinformatics Tools]
     D --> M[Cloud Technologies]
@@ -219,9 +211,9 @@ graph TD
 - 🌟 **Highlights**: Modern UI/UX, scalable architecture, cross-platform support
 
 ### 📊 Project Statistics
-  <img src="https://img.shields.io/badge/Total_Projects-15+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/Languages_Used-8+-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-20BEFF?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source" />
+<img src="https://img.shields.io/badge/Total_Projects-15+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
+<img src="https://img.shields.io/badge/Languages_Used-8+-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
+<img src="https://img.shields.io/badge/Open_Source-Contributor-20BEFF?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source" />
 
 </div>
 
@@ -261,6 +253,3 @@ graph TD
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
-
-
-<!-- Last updated: July 12, 2025 at 01:09 UTC -->
