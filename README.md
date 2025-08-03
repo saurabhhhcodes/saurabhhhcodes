@@ -181,7 +181,6 @@ graph TD
 
 ### 🚀 Currently Working On
 - 🧬 **OpenBioGen-AI Platform** - AI-powered bioinformatics analysis
-- 🤖 **LLM Orchestration Framework** - Advanced multi-LLM management
 - 🧬 **GeneInsight Platform** - Comprehensive genomic analysis tools
 - 📊 **Sequence Analysis Tools** - DNA/RNA processing with AI integration
 - 🏆 **Competitive Programming** - Advanced algorithm practice
@@ -226,34 +225,7 @@ graph TD
 
 ---
 
-### 🤖 **[LLM Orchestration Framework](https://github.com/saurabhhhcodes/llm-orchestration)** - Advanced AI Workflow Management
-**Sophisticated framework for managing and orchestrating multiple LLMs**
-- 🤖 **Tech Stack**: Python, LangChain, OpenAI, Anthropic Claude, FastAPI, Redis
-- 🎯 **Features**: Multi-LLM orchestration, prompt engineering, workflow automation
-- 📊 **Capabilities**: Chain-of-thought reasoning, memory management, context switching
-- 🌟 **Highlights**: Scalable architecture, real-time processing, custom prompt templates
-- 🏆 **Status**: Production-ready with advanced AI workflow capabilities
-- 🔧 **Advanced Features**: Custom agents, memory persistence, multi-modal processing
 
----
-
-### 📊 **[Data Analytics Dashboard](https://github.com/saurabhhhcodes/data-analytics-dashboard)** - Real-time Analytics
-**Comprehensive data visualization and analytics platform**
-- 📊 **Tech Stack**: React, D3.js, Python, FastAPI, PostgreSQL, Redis
-- 🎯 **Features**: Real-time data visualization, interactive charts, custom reports
-- 📈 **Capabilities**: Data filtering, export functionality, scheduled reports
-- 🌟 **Highlights**: Responsive design, real-time updates, customizable dashboards
-- 🚀 **Status**: Production deployment with 500+ daily users
-
----
-
-### 🏥 **[Healthcare Management System](https://github.com/saurabhhhcodes/healthcare-management)** - Medical Records Platform
-**Comprehensive healthcare management and patient records system**
-- 🏥 **Tech Stack**: React, Spring Boot, MySQL, Redis, Docker, AWS
-- 🎯 **Features**: Patient management, appointment scheduling, medical records
-- 📋 **Capabilities**: Electronic health records, billing system, reporting
-- 🌟 **Highlights**: HIPAA compliant, secure data handling, mobile responsive
-- 🏆 **Status**: Pilot program with 3 healthcare facilities
 
 ### 📊 Project Statistics
 <img src="https://img.shields.io/badge/Total_Projects-20+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
