@@ -225,6 +225,23 @@ graph TD
 
 ---
 
+### 🔒 **[Secure Agent Scheduler](https://github.com/saurabhhhcodes/secure-agent-scheduler)** - Secure Task Scheduling
+**A secure and reliable task scheduler for autonomous agents**
+- 💻 **Tech Stack**: Python, FastAPI, Docker, Kubernetes
+- 🎯 **Features**: Secure task scheduling, agent management, encrypted communication
+- 🌟 **Highlights**: JWT-based authentication, role-based access control, scalable architecture
+- 🚀 **Status**: In active development
+
+---
+
+### 🌱 **[Smart Plant Care](https://github.com/saurabhhhcodes/smart-plant-care)** - Automated Plant Monitoring
+**An IoT-based system for monitoring and watering plants automatically**
+- 💻 **Tech Stack**: Python, Flask, Raspberry Pi, Arduino, MQTT
+- 🎯 **Features**: Real-time monitoring of soil moisture, temperature, and humidity
+- 🌟 **Highlights**: Automated watering system, data visualization, mobile notifications
+- 🚀 **Status**: Prototype completed
+
+
 
 
 ### 📊 Project Statistics
@@ -279,4 +296,4 @@ graph TD
 
 </div>
 
-<!-- Last updated: August 31, 2025 at 06:17 UTC -->
+<!-- Last updated: August 31, 2025 at 16:13 UTC -->
