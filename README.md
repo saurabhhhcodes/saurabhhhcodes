@@ -234,7 +234,7 @@ graph TD
 
 ---
 
-### 🌱 **[Smart Plant Care](https://github.com/saurabhhhcodes/smart-plant-care)** - Automated Plant Monitoring
+### 🌱 **[Smart Plant Care Assistant](https://github.com/saurabhhhcodes/smart-plant-care-assistant)** - Automated Plant Monitoring
 **An IoT-based system for monitoring and watering plants automatically**
 - 💻 **Tech Stack**: Python, Flask, Raspberry Pi, Arduino, MQTT
 - 🎯 **Features**: Real-time monitoring of soil moisture, temperature, and humidity
