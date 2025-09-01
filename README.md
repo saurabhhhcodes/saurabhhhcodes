@@ -214,7 +214,7 @@ graph TD
 
 ---
 
-### 🧬 **[Sequence Analysis Tool](https://github.com/saurabhhhcodes/sequence-analysis-tool)** - DNA/RNA Processing Suite
+### 🧬 **[Sequence Analysis Tool](https://github.com/saurabhhhcodes/SequenceAnalysisTool)** - DNA/RNA Processing Suite
 **Comprehensive toolkit for biological sequence analysis and manipulation**
 - 🔬 **Tech Stack**: Python, BioPython, NumPy, Matplotlib, LangChain, OpenAI
 - 🎯 **Features**: Sequence alignment, motif finding, GC content analysis
