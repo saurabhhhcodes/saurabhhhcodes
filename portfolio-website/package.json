@@ -2,6 +2,7 @@
   "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://saurabhhhcodes.github.io/saurabhhhcodes/portfolio-website/",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@testing-library/dom": "^10.4.1",
@@ -31,7 +32,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build --repo git@github.com:saurabhhhcodes/saurabhhhcodes.git"
   },
   "eslintConfig": {
     "extends": [
