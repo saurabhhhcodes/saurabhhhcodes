@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+  background-color: transparent;
+  color: #1d1d1f;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#tsparticles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 120px 20px;
+}
+
+.App-header h1 {
+  font-size: 56px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.App-header p {
+  font-size: 24px;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 80px 20px;
+}
+
+.section-title {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  color: #ffffff; /* White color for contrast */
+  text-shadow: 0 0 10px rgba(255,255,255,0.6); /* Glowing effect */
+}
+
+.card {
+  background-color: #f5f5f7;
+  border: none;
+  border-radius: 18px;
+  padding: 32px;
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.card-text {
+  font-size: 17px;
+  line-height: 1.5;
+  color: #6e6e73;
+}
+
+.btn-primary {
+  background-color: #007aff;
+  border-color: #007aff;
+  font-size: 17px;
+  font-weight: 400;
+  padding: 12px 24px;
+  border-radius: 980px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #0071e3;
+  border-color: #0071e3;
+}
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.7);
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+}
+
+.nav-link {
+  color: #1d1d1f !important;
+  font-size: 17px;
+}
+
+footer {
+  padding: 40px 20px;
+  color: #6e6e73;
+  font-size: 12px;
+}
+
+
+@media (max-width: 768px) {
+  .App-header h1 {
+    font-size: 40px;
+  }
+
+  .App-header p {
+    font-size: 20px;
+  }
+
+  .section-title {
+    font-size: 32px;
+  }
+}
+
+.lead {
+  font-size: 1.25rem; /* Default Bootstrap lead font size */
+  font-weight: 300;
+  color: #c0c0c0; /* Light gray for better visibility */
+  text-shadow: 0 0 3px rgba(255,255,255,0.2); /* Subtle glow */
+}
+
+.contact-info {
+  margin-top: 20px;
+}
+
+.contact-info p {
+  margin-bottom: 10px;
+}
+
+.contact-info a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+.App-header {
+  position: relative;
+  overflow: hidden;
+}
+
+.App-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(45deg, rgba(0,0,0,0.8), rgba(20,20,40,0.8));
+  z-index: -1;
+}
+
+.App-header h1,
+.App-header p {
+  position: relative;
+  z-index: 1;
+}
+
+.App-header h1 {
+  text-shadow: 0 0 10px rgba(255,255,255,0.5);
+}
+
+.App-header p {
+  text-shadow: 0 0 5px rgba(255,255,255,0.3);
+}
+
+.contact-text {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #e0e0e0; /* Lighter color for contrast */
+  text-shadow: 0 0 8px rgba(255,255,255,0.4);
+  margin-bottom: 15px;
+}
+
+.contact-email {
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: #a0a0a0; /* Slightly subdued color */
+  text-shadow: 0 0 5px rgba(255,255,255,0.2);
+}
+
+.contact-button {
+  margin-top: 20px;
+}
