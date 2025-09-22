@@ -1,0 +1,38 @@
+# .github/workflows/update-profile-readme.yml
+
+name: Update Profile README Stats
+
+on:
+  workflow_dispatch: # Allows manual triggering from the GitHub Actions tab
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC (e.g., 5:30 AM IST)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest # The type of machine to run the job on
+    steps:
+      - name: Checkout repository # Step 1: Get your repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Python # Step 2: Configure Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Use the latest Python 3.x
+
+      - name: Install dependencies # Step 3: Install Python libraries like 'requests'
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests # This installs the 'requests' library needed by your Python script
+
+      - name: Run README update script # Step 4: Execute your Python script
+        run: python update_readme.py
+
+      - name: Commit and push changes # Step 5: Commit the updated README back to your repo
+        run: |
+          git config user.name 'github-actions[bot]' # Set Git user for the commit
+          git config user.email 'github-actions[bot]@users.noreply.github.com' # Set Git email
+          git add README.md # Stage the README.md file
+          git commit -m 'Update profile stats [skip ci]' || echo "No changes to commit" # Commit if there are changes
+          git push # Push the changes to your repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub automatically provides this token for actions

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saurabhhhcodes/portfolio-website/static/css/main.6851bdf8.css",
+    "main.js": "/saurabhhhcodes/portfolio-website/static/js/main.fa1a272a.js",
+    "static/js/453.a5b25d5b.chunk.js": "/saurabhhhcodes/portfolio-website/static/js/453.a5b25d5b.chunk.js",
+    "index.html": "/saurabhhhcodes/portfolio-website/index.html",
+    "main.6851bdf8.css.map": "/saurabhhhcodes/portfolio-website/static/css/main.6851bdf8.css.map",
+    "main.fa1a272a.js.map": "/saurabhhhcodes/portfolio-website/static/js/main.fa1a272a.js.map",
+    "453.a5b25d5b.chunk.js.map": "/saurabhhhcodes/portfolio-website/static/js/453.a5b25d5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6851bdf8.css",
+    "static/js/main.fa1a272a.js"
+  ]
+}
