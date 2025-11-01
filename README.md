@@ -15,20 +15,24 @@
 ```javascript
 const saurabh = {
     pronouns: "He/Him",
-    location: "India 🇮🇳",
-    currentFocus: "AI/ML & Bioinformatics Development",
-    languages: ["Java", "Python", "JavaScript", "TypeScript", "C++", "SQL"],
-    frontend: ["React", "Next.js", "Vue.js", "HTML5", "CSS3", "Tailwind CSS"],
+    location: "Lucknow, India 🇮🇳",
+    currentRole: "AI Agent A2A Developer (Freelance)",
+    currentFocus: "Autonomous A2A (Agent-to-Agent) Systems & RAG Applications",
+    languages: ["Python", "Java", "SQL", "JavaScript", "TypeScript", "C++"],
+    frontend: ["React", "Next.js", "Vue.js", "React Native", "HTML5", "CSS3", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "Spring Boot", "Django", "FastAPI"],
     databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Firebase"],
-    cloud: ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes"],
-    mlTools: ["TensorFlow", "PyTorch", "Scikit-Learn", "Pandas", "NumPy"],
-    aiTools: ["LangChain", "OpenAI GPT-4", "Anthropic Claude", "Hugging Face", "Transformers"],
+    cloud: ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "Vercel", "Streamlit"],
+    aiFrameworks: ["LangChain", "CrewAI", "AutoGen", "Langflow"],
+    mlTools: ["PyTorch", "TensorFlow", "Hugging Face", "Scikit-Learn", "Pandas", "NumPy"],
+    aiTools: ["OpenAI GPT-4", "Anthropic Claude", "Hugging Face Transformers"],
     bioinformatics: ["BioPython", "Bioconductor", "BLAST", "SAMtools", "GATK"],
-    tools: ["Git", "VS Code", "IntelliJ IDEA", "Jupyter", "Postman"],
-    currentlyLearning: ["Advanced LLM Orchestration", "Bioinformatics AI", "Genomic Analysis"],
-    lookingFor: "AI/ML & Bioinformatics Engineering Opportunities",
-    funFact: "I can orchestrate LLMs and analyze genomic sequences while solving competitive programming problems! 🤖🧬🚀"
+    tools: ["Git", "Docker", "AWS", "Firebase", "Vercel", "Streamlit", "VS Code", "IntelliJ IDEA"],
+    coreCompetencies: ["System Design", "Data Structures & Algorithms", "A2A Development", "MLOps", "RAG", "Conversational AI"],
+    achievements: ["Candidate Master on Codeforces (Top 5%)", "Top 10% on LeetCode", "Google Summer of Code Contributor"],
+    currentlyLearning: ["Advanced LLM Orchestration", "Multi-Agent Systems", "A2A Development"],
+    lookingFor: "High-impact AI/ML Engineering Opportunities at Leading Tech Companies",
+    funFact: "I build autonomous agent systems that can talk to each other while solving competitive programming problems! 🤖🧬🚀"
 };
 ```
 
@@ -156,35 +160,54 @@ const saurabh = {
 
 </div>
 
+## 💼 Professional Experience
+
+### 🤖 **AI Agent A2A Developer (Freelance)** | Remote | Aug 2025 – Present
+- **Outlook Calendar AI Platform**: Engineered multi-tenant AI platform reducing administrative overhead by 40%
+- **Chatlly Enhancement**: Led full-stack improvements with OAuth/SSO integration and conversational memory
+- **Technologies**: LangChain, CrewAI, AutoGen, Microsoft Graph API, OAuth/SSO
+
+### 🔬 **AI Research Intern** | Amity University | Jul 2025 – Sep 2025
+- **OpenBioGen AI**: Constructed comprehensive bioinformatics system using Langflow for RAG workflows
+- **API Integration**: Enhanced data retrieval with multiple scientific APIs, reducing latency by 40%
+- **Technologies**: Langflow, PubMed API, OMIM, RAG, Scientific Literature Processing
+
+### 💻 **Software Engineer Intern (AI/ML Full Stack)** | Atmohive Biotech Pvt. Ltd. | May 2024 – Jul 2024
+- **GeneInsight Platform**: Architected scalable bioinformatics SaaS platform
+- **3D Molecular Viewer**: Implemented high-performance viewer increasing engagement by 30%
+- **Multi-tenant Dashboard**: Built dashboard supporting 100+ concurrent research teams
+- **Technologies**: Spring Boot, React, Three.js, Multi-tenant Architecture
+
 ## 🌟 Current Focus & Learning Path
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[🎯 Current Focus] --> B[AI/ML & Bioinformatics]
-    A --> C[LLM Orchestration]
-    A --> D[Genomic Analysis]
+    A[🎯 Current Focus] --> B[Autonomous A2A Systems]
+    A --> C[RAG Applications]
+    A --> D[Multi-Agent Frameworks]
     
-    B --> E[LangChain & OpenAI Integration]
-    B --> F[Bioinformatics AI Tools]
-    B --> G[Drug Discovery Platforms]
+    B --> E[CrewAI & AutoGen Integration]
+    B --> F[Agent-to-Agent Communication]
+    B --> G[Self-Governing Solutions]
     
-    C --> H[Multi-LLM Orchestration]
-    C --> I[Prompt Engineering]
-    C --> J[Chain-of-Thought Reasoning]
+    C --> H[Advanced RAG Workflows]
+    C --> I[Conversational Memory]
+    C --> J[Multi-Modal RAG]
     
-    D --> K[Sequence Analysis]
-    D --> L[Genomic Data Processing]
-    D --> M[Bioinformatics Workflows]
+    D --> K[LangChain Orchestration]
+    D --> L[Langflow Prototyping]
+    D --> M[Production Agent Deployment]
 ```
 
 ### 🚀 Currently Working On
-- 🧬 **OpenBioGen-AI Platform** - AI-powered bioinformatics analysis
-- 🧬 **GeneInsight Platform** - Comprehensive genomic analysis tools
-- 📊 **Sequence Analysis Tools** - DNA/RNA processing with AI integration
-- 🏆 **Competitive Programming** - Advanced algorithm practice
-- 🔬 **Bioinformatics Research** - Genomic data analysis and interpretation
+- 🤖 **Autonomous A2A Systems** - Agent-to-Agent communication platforms with CrewAI/AutoGen
+- 📅 **Outlook Calendar AI** - Multi-tenant platform with Microsoft Graph API integration
+- 💬 **Chatlly Enhancement** - RAG assistant with OAuth/SSO and conversational memory
+- 🔬 **Catalyst Bio Platform** - Next-generation bioinformatics with multi-agent architecture
+- 🏆 **Competitive Programming** - Candidate Master level problem-solving (Top 5% Codeforces)
+- 🎯 **Production RAG Systems** - Scalable retrieval-augmented generation applications
 
 </div>
 
@@ -192,63 +215,89 @@ graph TD
 
 <div align="center">
 
-### 🧬 **[OpenBioGen-AI](https://github.com/saurabhhhcodes/openbiogen-ai)** - AI-Powered Bioinformatics Platform
-**Revolutionary AI-driven platform for genomic analysis and drug discovery**
-- 🤖 **Tech Stack**: Python, LangChain, OpenAI GPT-4, React, FastAPI, PostgreSQL, Redis
-- 🎯 **Features**: AI-powered sequence analysis, drug target prediction, genomic insights
-- 📊 **Capabilities**: Large Language Model orchestration, automated bioinformatics workflows
-- 🌟 **Highlights**: LangChain integration, real-time AI processing, comprehensive genomic database
-- 🏆 **Status**: Active development with cutting-edge AI integration
-- 🔬 **AI/ML**: Advanced LLM orchestration, custom bioinformatics prompts, automated analysis
+### 📅 **[AI Outlook Calendar Agent](https://github.com/saurabhhhcodes/ai-outlook-calendar-agent)** - Multi-Tenant Calendar Management
+**🌐 [LIVE APP](https://ai-outlook-calendar-agent.streamlit.app) - Autonomous NLP agents for Microsoft Outlook calendar automation**
+- 🤖 **Tech Stack**: Microsoft Graph API, LangChain, Multi-tenant Architecture, OAuth
+- 🎯 **Features**: Personal/business email login, automatic event scheduling, NLP processing
+- 📊 **Impact**: 40% reduction in administrative overhead for calendar management
+- 🌟 **Highlights**: Multi-tenant support, autonomous agent deployment, secure authentication
+- 🏆 **Status**: Production deployment with enterprise-grade security
+- 🔐 **Security**: OAuth integration, secure API access, tenant isolation
 
 ---
 
-### 🧬 **[GeneInsight Platform](https://github.com/saurabhhhcodes/geneinsight-platform)** - Advanced Bioinformatics Analysis
-**Comprehensive bioinformatics platform for genetic data analysis and visualization**
-- 🔬 **Tech Stack**: Python, React, FastAPI, PostgreSQL, Docker, LangChain
-- 🎯 **Features**: Gene sequence analysis, mutation detection, phylogenetic analysis
-- 📊 **Impact**: Streamlines genetic research workflows for researchers
-- 🌟 **Highlights**: Interactive visualizations, real-time processing, export capabilities
-- 🏆 **Status**: Production-ready with 100+ active users
-- 🤖 **AI Integration**: LangChain-powered analysis, automated report generation
+### 💬 **[Chatlly RAG Assistant](https://github.com/saurabhhhcodes/chatlly)** - Enterprise RAG Knowledge Assistant
+**🌐 [LIVE PLATFORM](https://pal.chatlly.com) - Production-ready RAG + AgentKit demo for regulated industries**
+- 🤖 **Tech Stack**: FastAPI, Next.js, Chroma, OpenAI, AgentKit, OCR (Tesseract)
+- 🎯 **Features**: Multi-format ingestion (PDF, CSV, DOCX), OAuth/SSO, conversational memory
+- 📊 **Capabilities**: Agentic reasoning, multi-step workflows, secure knowledge retrieval
+- 🌟 **Highlights**: Bearer token auth, citations, metadata tracking, Docker deployment
+- 🏆 **Status**: Client delivery ready with enterprise security features
+- 🔒 **Security**: Regulated industry compliance, secure document processing
 
 ---
 
-### 🧬 **[Sequence Analysis Tool](https://github.com/saurabhhhcodes/SequenceAnalysisTool)** - DNA/RNA Processing Suite
-**Comprehensive toolkit for biological sequence analysis and manipulation**
-- 🔬 **Tech Stack**: Python, BioPython, NumPy, Matplotlib, LangChain, OpenAI
-- 🎯 **Features**: Sequence alignment, motif finding, GC content analysis
-- 📈 **Capabilities**: Statistical analysis, pattern recognition, format conversion
-- 🌟 **Highlights**: Command-line interface, batch processing, detailed reports
-- 🚀 **Status**: Core functionality complete, AI enhancements in progress
-- 🤖 **AI Features**: LangChain integration for intelligent sequence interpretation
+### 🔬 **[Catalyst Bio](https://github.com/saurabhhhcodes/catalyst-bio)** - Next-Generation Bioinformatics Platform
+**Complete rewrite of GeneInsight with multi-agent architecture**
+- 🧬 **Tech Stack**: Streamlit, FastAPI, Multi-Agent System, Machine Learning, Chroma DB
+- 🎯 **Features**: Genomics, Transcriptomics, Proteomics, Drug Discovery, Structural Biology
+- 🤖 **AI Architecture**: Master Agent, Data Collection, Analysis, Modeling, Visualization Agents
+- 🌟 **Highlights**: 24 specialized modules, user authentication, API access, interactive plots
+- 🚀 **Status**: Production-ready with comprehensive bioinformatics workflows
+- 🔬 **Capabilities**: ADMET prediction, molecular docking, phylogenetic analysis, BLAST search
 
 ---
 
-### 🔒 **[Secure Agent Scheduler](https://github.com/saurabhhhcodes/secure-agent-scheduler)** - Secure Task Scheduling
-**A secure and reliable task scheduler for autonomous agents**
-- 💻 **Tech Stack**: Python, FastAPI, Docker, Kubernetes
-- 🎯 **Features**: Secure task scheduling, agent management, encrypted communication
-- 🌟 **Highlights**: JWT-based authentication, role-based access control, scalable architecture
-- 🚀 **Status**: In active development
+### 🧬 **[OpenBioGen-AI](https://github.com/saurabhhhcodes/OpenBioGen-AI)** - Advanced Professional Bioinformatics Platform
+**🌐 [LIVE DEMO](https://openbiogen-ai.streamlit.app/) - Complete AI-powered bioinformatics system**
+- 🤖 **Tech Stack**: Streamlit, LangChain, HuggingFace Transformers, Tavily API, Python
+- 🎯 **Features**: Gene-disease association analysis, clinical decision support, network analysis
+- 📊 **Capabilities**: Multi-database integration (UniProt, KEGG, Reactome, NCBI), batch processing
+- 🌟 **Highlights**: Memory system (semantic, episodic, procedural), performance optimization, security auditing
+- 🏆 **Status**: Production-ready with advanced AI features and clinical applications
+- 🔬 **AI/ML**: Open-source LLMs, scientific literature search, evidence-based recommendations
 
 ---
 
-### 🌱 **[Smart Plant Care Assistant](https://github.com/saurabhhhcodes/smart-plant-care-assistant)** - Automated Plant Monitoring
-**An IoT-based system for monitoring and watering plants automatically**
-- 💻 **Tech Stack**: Python, Flask, Raspberry Pi, Arduino, MQTT
-- 🎯 **Features**: Real-time monitoring of soil moisture, temperature, and humidity
-- 🌟 **Highlights**: Automated watering system, data visualization, mobile notifications
-- 🚀 **Status**: Prototype completed
+### 🧬 **[GeneInsight Platform](https://github.com/saurabhhhcodes/geneinsight-platform)** - AI-Enhanced SaaS Bioinformatics
+**🌐 [LIVE SAAS](https://geneinsight-platform.vercel.app/) - Multi-tenant bioinformatics platform**
+- 🔬 **Tech Stack**: Next.js 15, Spring Boot 3.2, Python Flask, LangChain, PostgreSQL
+- 🎯 **Features**: Conversational AI assistant, molecular docking, 3D visualization, COVID-19 analysis
+- 📊 **Impact**: SaaS platform with subscription billing, multi-tenant architecture
+- 🌟 **Highlights**: LangChain AI chat, automatic sequence detection, real-time 3D molecular viewer
+- 🏆 **Status**: Production SaaS with pricing plans ($0-$199/mo) and enterprise features
+- 🤖 **AI Integration**: DialoGPT-small, context-aware responses, specialized viral protein analysis
+
+---
+
+### 🌱 **[Smart Plant Care Assistant](https://github.com/saurabhhhcodes/smart-plant-care-assistant-1)** - AI Plant Health Monitor
+**🌐 [LIVE APP](https://smart-plant-care-langchain.streamlit.app/) - AI-powered plant care with real LLMs**
+- 🔬 **Tech Stack**: Streamlit, LangChain, OpenCV, Multiple LLM providers (OpenAI, Anthropic, Meta)
+- 🎯 **Features**: Image analysis with confidence scores, AI chat assistant, plant health diagnostics
+- 📈 **Capabilities**: Disease detection, personalized care recommendations, mobile-friendly interface
+- 🌟 **Highlights**: 20 free trials, subscription packages, email notifications, user authentication
+- 🚀 **Status**: Production-ready with multiple LLM provider support
+- 🤖 **AI Features**: Computer vision analysis, confidence scoring, context-aware plant care advice
+
+---
+
+### 📱 **Laundrify Application** - On-Demand Laundry Service
+**Full-stack mobile application for laundry service management**
+- 📱 **Tech Stack**: React Native, Spring Boot, Real-time Tracking, Payment Integration
+- 🎯 **Features**: Order tracking, integrated payments, service scheduling, user management
+- 🌟 **Highlights**: Real-time order updates, secure payment processing, mobile-first design
+- 🚀 **Status**: Complete full-stack implementation with production features
+- 💳 **Payments**: Integrated payment gateway, order management, service tracking
 
 
 
 
 ### 📊 Project Statistics
-<img src="https://img.shields.io/badge/Total_Projects-20+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
-<img src="https://img.shields.io/badge/Languages_Used-10+-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
-<img src="https://img.shields.io/badge/Open_Source-Contributor-20BEFF?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source" />
-<img src="https://img.shields.io/badge/Stars_Earned-50+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Stars Earned" />
+<img src="https://img.shields.io/badge/Total_Projects-25+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
+<img src="https://img.shields.io/badge/Languages_Used-12+-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
+<img src="https://img.shields.io/badge/Live_Deployments-5+-20BEFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Deployments" />
+<img src="https://img.shields.io/badge/SaaS_Platforms-2+-00D9FF?style=for-the-badge&logo=stripe&logoColor=white" alt="SaaS Platforms" />
+<img src="https://img.shields.io/badge/AI_Integrations-8+-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integrations" />
 
 </div>
 

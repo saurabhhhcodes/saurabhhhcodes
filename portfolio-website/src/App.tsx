@@ -29,7 +29,7 @@ function App() {
         <header className="App-header">
           <Fade direction="down">
             <h1 style={{ textShadow: '0 0 10px rgba(255,255,255,0.8)' }}>Saurabh Kumar Bajpai</h1>
-            <p style={{ textShadow: '0 0 5px rgba(255,255,255,0.5)' }}>Agentic AI Developer | RAG Application Developer</p>
+            <p style={{ textShadow: '0 0 5px rgba(255,255,255,0.5)' }}>AI Agent A2A Developer | Autonomous Systems Engineer</p>
           </Fade>
         </header>
 
@@ -38,13 +38,14 @@ function App() {
             <Fade>
               <h2 className="section-title">About Me</h2>
               <p className="lead">
-                I am a B.Tech student from Lucknow, India, specializing in AI/ML and Bioinformatics Development.
-                My core focus lies in building advanced AI agentic applications, developing robust RAG (Retrieval-Augmented Generation) applications, and designing multi-level agentic architectures.
-                I leverage a diverse tech stack including Java, Python, JavaScript, TypeScript, C++, and SQL, with expertise in frontend (React, Next.js, Vue.js) and backend (Node.js, Express.js, Spring Boot, Django, FastAPI) frameworks.
-                I work with databases like MySQL, PostgreSQL, MongoDB, and cloud platforms such as AWS and Docker.
-                My toolkit includes ML frameworks like TensorFlow, PyTorch, and Scikit-Learn, and AI tools like LangChain, OpenAI GPT-4, and Hugging Face.
-                In bioinformatics, I apply BioPython and various genomic analysis tools to solve complex problems.
-                I am continuously expanding my knowledge in Advanced LLM Orchestration, Bioinformatics AI, and Genomic Analysis, and I am actively seeking challenging AI/ML & Bioinformatics Engineering Opportunities.
+                I am a Software Engineer specializing in autonomous A2A (Agent-to-Agent) systems from Lucknow, India.
+                Currently working as an AI Agent A2A Developer (Freelance), I have proven expertise in creating and scaling end-to-end intelligent applications using Retrieval-Augmented Generation (RAG) and multi-agent frameworks like CrewAI and AutoGen.
+                
+                My professional experience includes engineering multi-tenant AI platforms (reducing administrative overhead by 40%), enhancing full-stack applications with OAuth/SSO integration, and constructing comprehensive bioinformatics systems using Langflow for RAG workflows.
+                
+                I leverage a diverse tech stack including Python, Java, SQL, JavaScript/TypeScript, with expertise in AI frameworks (LangChain, CrewAI, AutoGen, Langflow), ML libraries (PyTorch, TensorFlow, Hugging Face, Scikit-learn), and cloud platforms (AWS, Docker, Vercel, Streamlit).
+                
+                My achievements include Candidate Master on Codeforces (Top 5%), Top 10% on LeetCode, Google Summer of Code contributor, and Google Code Jam participant. I am actively seeking high-impact engineering roles to build and deploy robust, self-governing solutions at leading technology companies.
               </p>
             </Fade>
           </section>
