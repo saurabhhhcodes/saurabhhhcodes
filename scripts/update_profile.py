@@ -91,6 +91,10 @@ def process_projects(repos_data):
             if not description and is_highlighted:
                 print(f"Fetching README summary for {repo['name']}...")
                 description = fetch_readme_summary(repo['name'])
+            
+            # Hardcode homepage for You.Fyi
+            if "you.fyi" in repo['name'].lower():
+                repo['homepage'] = "https://you-fyi.onrender.com/ui/"
                 
             projects.append({
                 "id": repo['id'],

@@ -4,7 +4,7 @@
     "name": "You.Fyi",
     "description": "A modern API-first platform for managing workspaces, assets, kits, and retrieval-augmented generation (RAG) with OpenAI LLM integration.",
     "html_url": "https://github.com/saurabhhhcodes/You.Fyi",
-    "homepage": null,
+    "homepage": "https://you-fyi.onrender.com/ui/",
     "language": "Python",
     "stargazers_count": 0,
     "updated_at": "2025-11-26T08:02:53Z",

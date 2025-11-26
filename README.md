@@ -234,7 +234,7 @@ graph TD
 
 <div align="center">
 
-### 💻 **[You.Fyi](https://github.com/saurabhhhcodes/You.Fyi)**
+### 💻 **[You.Fyi](https://you-fyi.onrender.com/ui/)**
 A modern API-first platform for managing workspaces, assets, kits, and retrieval-augmented generation (RAG) with OpenAI LLM integration.
 - 🛠️ **Tech Stack**: Python
 
