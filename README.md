@@ -2,7 +2,7 @@
   
 # Hi there, I'm Saurabh Bajpai 👋
 
-<img src="https://readme-typing-svg.demolab.com?size=30&duration=3000&pause=1000&color=00D9FF&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+FullStack+Developer;LLM+Orchestration+%7C+Genomic+Analysis;Building+AI-Powered+Solutions!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?size=30&duration=3000&pause=1000&color=00D9FF&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Bioinformatics+Developer;LLM+Orchestration+%7C+Genomic+Analysis;Building+AI-Powered+Solutions!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -36,10 +36,9 @@ const saurabh = {
 };
 ```
 
-```
 <div align="center">
 
-## 🚀 Founder & Lead Instructor @ [AxonFlow.in](https://axonflow.in)
+## � Founder & Lead Instructor @ [AxonFlow.in](https://axonflow.in)
 
 **Building the next generation of AI Engineers & Systems**
 
@@ -56,9 +55,7 @@ At **AxonFlow**, we bridge the gap between theoretical AI and production-grade s
 
 </div>
 
-<div align="center">
-
-## 📊 GitHub Stats & Analytics
+## �📊 GitHub Stats & Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=saurabhhhcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=saurabhhhcodes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
@@ -342,4 +339,8 @@ AI-powered biological data generation system with multiple data types support
 
 </div>
 
-<!-- Last updated: November 26, 2025 at 12:12 UTC -->
+<<<<<<< HEAD
+<!-- Last updated: November 26, 2025 at 17:47 UTC -->
+=======
+<!-- Last updated: November 26, 2025 at 17:47 UTC -->
+>>>>>>> 354c9f7 (chore: Restore original README.md)
