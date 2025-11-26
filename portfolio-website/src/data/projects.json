@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1104383970,
+    "name": "You.Fyi",
+    "description": "A modern API-first platform for managing workspaces, assets, kits, and retrieval-augmented generation (RAG) with OpenAI LLM integration.",
+    "html_url": "https://github.com/saurabhhhcodes/You.Fyi",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2025-11-26T08:02:53Z",
+    "topics": []
+  },
+  {
+    "id": 1013373133,
+    "name": "Geneinsight Platform",
+    "description": "**Complete SaaS Bioinformatics Platform with LangChain AI, Multi-Tenant Architecture, and Advanced Molecular Analysis**",
+    "html_url": "https://github.com/saurabhhhcodes/geneinsight-platform",
+    "homepage": null,
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "updated_at": "2025-09-07T20:40:49Z",
+    "topics": []
+  },
+  {
+    "id": 979921359,
+    "name": "Saurabhhhcodes",
+    "description": "Config files for my GitHub profile.",
+    "html_url": "https://github.com/saurabhhhcodes/saurabhhhcodes",
+    "homepage": "https://github.com/8packcoder",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "updated_at": "2025-11-26T06:21:24Z",
+    "topics": [
+      "config",
+      "github-config"
+    ]
+  },
+  {
+    "id": 1085629421,
+    "name": "Chatlly",
+    "description": "This is a Retrieval-Augmented Generation (RAG) + AgentKit demo for regulated industries.",
+    "html_url": "https://github.com/saurabhhhcodes/Chatlly",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2025-10-30T06:33:11Z",
+    "topics": []
+  },
+  {
+    "id": 1081367100,
+    "name": "Ai Outlook Calendar Agent",
+    "description": "Transform your calendar management with natural language! This AI agent connects to your Microsoft Outlook calendar and lets you create, find, update,...",
+    "html_url": "https://github.com/saurabhhhcodes/ai-outlook-calendar-agent",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2025-10-26T14:59:45Z",
+    "topics": []
+  },
+  {
+    "id": 1039435903,
+    "name": "Smart Plant Care Assistant",
+    "description": "AI-powered plant care assistant with computer vision analysis",
+    "html_url": "https://github.com/saurabhhhcodes/smart-plant-care-assistant",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2025-10-07T15:08:59Z",
+    "topics": []
+  },
+  {
+    "id": 1030152061,
+    "name": "Openbiogen Ai",
+    "description": "AI-powered biological data generation system with multiple data types support",
+    "html_url": "https://github.com/saurabhhhcodes/OpenBioGen-AI",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2025-08-03T07:33:40Z",
+    "topics": []
+  }
+]
