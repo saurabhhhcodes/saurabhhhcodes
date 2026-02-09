@@ -13,21 +13,71 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 
 def get_github_data():
     """Fetch user data and repositories from GitHub."""
+    import time
+    
     headers = {}
     if GITHUB_TOKEN:
         headers["Authorization"] = f"token {GITHUB_TOKEN}"
 
-    # Fetch User Data
-    user_url = f"https://api.github.com/users/{GITHUB_USERNAME}"
-    user_res = requests.get(user_url, headers=headers)
-    user_data = user_res.json()
+    max_retries = 3
+    retry_delay = 2  # seconds
+    
+    for attempt in range(max_retries):
+        try:
+            # Fetch User Data
+            user_url = f"https://api.github.com/users/{GITHUB_USERNAME}"
+            user_res = requests.get(user_url, headers=headers, timeout=10)
+            
+            # Check for rate limiting
+            if user_res.status_code == 403:
+                print(f"Rate limited on user data. Waiting {retry_delay} seconds...")
+                time.sleep(retry_delay)
+                retry_delay *= 2
+                continue
+            
+            if user_res.status_code != 200:
+                print(f"User API returned status: {user_res.status_code}")
+                if attempt < max_retries - 1:
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                    continue
+                raise Exception(f"Failed to fetch user data: {user_res.status_code}")
+            
+            user_data = user_res.json()
 
-    # Fetch Repositories
-    repos_url = f"https://api.github.com/users/{GITHUB_USERNAME}/repos?sort=updated&per_page=100"
-    repos_res = requests.get(repos_url, headers=headers)
-    repos_data = repos_res.json()
-
-    return user_data, repos_data
+            # Fetch Repositories
+            repos_url = f"https://api.github.com/users/{GITHUB_USERNAME}/repos?sort=updated&per_page=100"
+            repos_res = requests.get(repos_url, headers=headers, timeout=10)
+            
+            if repos_res.status_code == 403:
+                print(f"Rate limited on repos. Waiting {retry_delay} seconds...")
+                time.sleep(retry_delay)
+                retry_delay *= 2
+                continue
+            
+            if repos_res.status_code != 200:
+                print(f"Repos API returned status: {repos_res.status_code}")
+                if attempt < max_retries - 1:
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                    continue
+                raise Exception(f"Failed to fetch repos: {repos_res.status_code}")
+            
+            repos_data = repos_res.json()
+            return user_data, repos_data
+            
+        except requests.exceptions.Timeout:
+            print(f"Request timeout (attempt {attempt + 1}/{max_retries})")
+            if attempt < max_retries - 1:
+                time.sleep(retry_delay)
+                retry_delay *= 2
+        except Exception as e:
+            print(f"Error fetching GitHub data (attempt {attempt + 1}/{max_retries}): {e}")
+            if attempt < max_retries - 1:
+                time.sleep(retry_delay)
+                retry_delay *= 2
+    
+    raise Exception("Failed to fetch GitHub data after all retries")
 
 def fetch_readme_summary(repo_name):
     """Fetch README content and extract a summary."""

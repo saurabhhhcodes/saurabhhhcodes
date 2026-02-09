@@ -11,23 +11,52 @@ import os
 
 def get_github_stats(username):
     """Fetch GitHub stats for the user"""
-    try:
-        # GitHub API endpoint
-        api_url = f"https://api.github.com/users/{username}"
-        response = requests.get(api_url)
-        
-        if response.status_code == 200:
-            data = response.json()
-            return {
-                'public_repos': data.get('public_repos', 0),
-                'followers': data.get('followers', 0),
-                'following': data.get('following', 0),
-                'created_at': data.get('created_at', ''),
-                'updated_at': data.get('updated_at', '')
-            }
-    except Exception as e:
-        print(f"Error fetching GitHub stats: {e}")
+    import time
     
+    max_retries = 3
+    retry_delay = 2  # seconds
+    
+    for attempt in range(max_retries):
+        try:
+            # GitHub API endpoint
+            api_url = f"https://api.github.com/users/{username}"
+            response = requests.get(api_url, timeout=10)
+            
+            # Check for rate limiting
+            if response.status_code == 403:
+                print(f"Rate limited. Waiting {retry_delay} seconds before retry...")
+                time.sleep(retry_delay)
+                retry_delay *= 2  # Exponential backoff
+                continue
+            
+            if response.status_code == 200:
+                data = response.json()
+                return {
+                    'public_repos': data.get('public_repos', 0),
+                    'followers': data.get('followers', 0),
+                    'following': data.get('following', 0),
+                    'created_at': data.get('created_at', ''),
+                    'updated_at': data.get('updated_at', '')
+                }
+            else:
+                print(f"GitHub API returned status code: {response.status_code}")
+                if attempt < max_retries - 1:
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                    continue
+                    
+        except requests.exceptions.Timeout:
+            print(f"Request timeout (attempt {attempt + 1}/{max_retries})")
+            if attempt < max_retries - 1:
+                time.sleep(retry_delay)
+                retry_delay *= 2
+        except Exception as e:
+            print(f"Error fetching GitHub stats (attempt {attempt + 1}/{max_retries}): {e}")
+            if attempt < max_retries - 1:
+                time.sleep(retry_delay)
+                retry_delay *= 2
+    
+    print("Failed to fetch GitHub stats after all retries")
     return None
 
 def get_leetcode_stats(username):
