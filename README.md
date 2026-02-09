@@ -16,8 +16,8 @@
 const saurabh = {
     pronouns: "He/Him",
     location: "Lucknow, India 🇮🇳",
-    currentRole: "AI Agent A2A Developer (Freelance)",
-    currentFocus: "Autonomous A2A (Agent-to-Agent) Systems & RAG Applications",
+    currentRole: "AI Engineer Intern @Akoode Technologies",
+    currentFocus: "Multimodal AI Systems, LLM/VLM Fine-tuning & Agent Development",
     languages: ["Python", "Java", "SQL", "JavaScript", "TypeScript", "C++"],
     frontend: ["React", "Next.js", "Vue.js", "React Native", "HTML5", "CSS3", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "Spring Boot", "Django", "FastAPI"],
@@ -29,8 +29,8 @@ const saurabh = {
     bioinformatics: ["BioPython", "Bioconductor", "BLAST", "SAMtools", "GATK"],
     tools: ["Git", "Docker", "AWS", "Firebase", "Vercel", "Streamlit", "VS Code", "IntelliJ IDEA"],
     coreCompetencies: ["System Design", "Data Structures & Algorithms", "A2A Development", "MLOps", "RAG", "Conversational AI"],
-    achievements: ["Candidate Master on Codeforces (Top 5%)", "Top 10% on LeetCode", "Google Summer of Code Contributor"],
-    currentlyLearning: ["Advanced LLM Orchestration", "Multi-Agent Systems", "A2A Development"],
+    achievements: ["Agent.AI Global Challenge Winner", "TCS HackerQuest Season 10 Round 2 Qualifier", "Google ADK Contributor", "Candidate Master on Codeforces (Top 5%)", "Top 10% on LeetCode"],
+    currentlyLearning: ["Google Agent Development Kit (ADK)", "Advanced LLM Orchestration", "Multi-Agent Systems", "Multimodal AI"],
     lookingFor: "High-impact AI/ML Engineering Opportunities at Leading Tech Companies",
     funFact: "I build autonomous agent systems that can talk to each other while solving competitive programming problems! 🤖🧬🚀"
 };
@@ -181,21 +181,36 @@ At **AxonFlow**, we bridge the gap between theoretical AI and production-grade s
 
 ## 💼 Professional Experience
 
-### 🤖 **AI Agent A2A Developer (Freelance)** | Remote | Aug 2025 – Present
-- **Outlook Calendar AI Platform**: Engineered multi-tenant AI platform reducing administrative overhead by 40%
-- **Chatlly Enhancement**: Led full-stack improvements with OAuth/SSO integration and conversational memory
-- **Technologies**: LangChain, CrewAI, AutoGen, Microsoft Graph API, OAuth/SSO
+### 🤖 **AI Engineer Intern** | Akoode Technologies Pvt. Ltd. | Jan 2026 – Present
+- **Multimodal AI Systems**: Supporting end-to-end development of AI systems spanning text, image, and audio inputs
+- **Data Pipelines**: Built data curation and preprocessing pipelines for high-quality LLM/VLM training datasets
+- **Fine-tuning & RAG**: Assisted in fine-tuning LLMs/VLMs and implementing RAG pipelines to improve response accuracy
+- **Agentic AI**: Developed agentic AI components enabling intelligent task routing and multimodal reasoning
+- **Technologies**: Python, LangChain, RAG, Multimodal AI, LLM/VLM Fine-tuning
 
-### 🔬 **AI Research Intern** | Amity University | Jul 2025 – Sep 2025
-- **OpenBioGen AI**: Constructed comprehensive bioinformatics system using Langflow for RAG workflows
-- **API Integration**: Enhanced data retrieval with multiple scientific APIs, reducing latency by 40%
-- **Technologies**: Langflow, PubMed API, OMIM, RAG, Scientific Literature Processing
+### 🌟 **Open Source Contributor** | Google Agent Development Kit (ADK) | 2025 – Present
+- **Python & Go Contributions**: Fixed critical runtime errors in RemoteA2aAgent, improving agent communication reliability
+- **Function-Call Handling**: Enhanced function-call handling and reasoning trace consistency in multi-agent workflows
+- **Testing**: Added unit tests in Python and Go, improving stability and code coverage
+- **Technologies**: Python, Go, Agent-to-Agent (A2A) Communication, Multi-Agent Systems
 
-### 💻 **Software Engineer Intern (AI/ML Full Stack)** | Atmohive Biotech Pvt. Ltd. | May 2024 – Jul 2024
-- **GeneInsight Platform**: Architected scalable bioinformatics SaaS platform
-- **3D Molecular Viewer**: Implemented high-performance viewer increasing engagement by 30%
-- **Multi-tenant Dashboard**: Built dashboard supporting 100+ concurrent research teams
-- **Technologies**: Spring Boot, React, Three.js, Multi-tenant Architecture
+### 💻 **Software Engineer (AI + Backend)** | Freelance (Fiverr) | Aug 2025 – Present
+- **Outlook Calendar NLP Assistant**: Built using Microsoft Graph API with 97% intent accuracy
+- **OAuth/SSO Integration**: Implemented Google & Microsoft SSO for enterprise chatbot platform chatlly.com
+- **You.Fyi Platform**: Developed workspace and digital asset management system with shareable kits
+- **Technologies**: Microsoft Graph API, OAuth/SSO, FastAPI, Next.js
+
+### 🔬 **AI/ML Research Intern** | Amity University Bioinformatics Lab | Jul 2025 – Sep 2025
+- **OpenBioGen AI**: Developed gene-disease prediction system using custom RAG pipelines
+- **ETL Pipelines**: Integrated PubMed, OMIM, and UniProt ETL pipelines, reducing compute latency by 40%
+- **Explainability**: Implemented retrieval explainability and reasoning trace modules
+- **Technologies**: Langflow, RAG, PubMed API, OMIM, Scientific Literature Processing
+
+### 💻 **Software Engineer Intern (AI/ML)** | Atmohive Biotech | May 2024 – Jul 2024
+- **GeneInsight SaaS**: Created bioinformatics SaaS reducing DNA analysis time by 80-90%
+- **NLP Modules**: Built conversational NLP modules and 3D molecular visualization tools
+- **Multi-tenant Dashboard**: Delivered RBAC-enabled dashboard used by 100+ researchers
+- **Technologies**: Spring Boot, React, Three.js, NLP, Multi-tenant Architecture
 
 ## 🌟 Current Focus & Learning Path
 
@@ -233,6 +248,28 @@ graph TD
 ## 🚀 Featured Projects
 
 <div align="center">
+
+### 🏆 **[Deal Doctor](https://github.com/saurabhhhcodes/deal-doctor)** - Agent.AI Global Challenge Winner
+**🌐 Autonomous HubSpot CRM Automation System**
+- 🤖 **Tech Stack**: Agent.AI, HubSpot API, Multi-Agent System, Autonomous Workflows
+- 🎯 **Features**: Automated deal pipeline management, intelligent lead scoring, autonomous follow-ups
+- 📊 **Impact**: Winner of Agent.AI Global Challenge for innovative autonomous CRM automation
+- 🌟 **Highlights**: Multi-agent orchestration, real-time CRM updates, intelligent decision-making
+- 🏆 **Status**: Award-winning production-ready autonomous agent system
+- 🔗 **Recognition**: Global Agent.AI Challenge Winner
+
+---
+
+### 🥗 **[NutriSync](https://github.com/saurabhhhcodes/nutrisync)** - AI-Powered Nutrition & Fitness Tracker
+**🌐 [LIVE APP](https://nutrisync.vercel.app) - Comprehensive nutrition and fitness tracking platform**
+- 🤖 **Tech Stack**: React, Node.js, MongoDB, OpenAI API, Nutrition API
+- 🎯 **Features**: AI-powered meal planning, calorie tracking, personalized workout recommendations
+- 📊 **Capabilities**: Barcode scanning, recipe suggestions, progress analytics, macro tracking
+- 🌟 **Highlights**: Real-time nutrition data, custom meal plans, fitness goal tracking
+- 🏆 **Status**: Production-ready with comprehensive health and fitness features
+- 🔬 **AI Integration**: Personalized recommendations, intelligent meal suggestions
+
+---
 
 ### 💻 **[You.Fyi](https://you-fyi.onrender.com/ui/)**
 A modern API-first platform for managing workspaces, assets, kits, and retrieval-augmented generation (RAG) with OpenAI LLM integration.
@@ -330,7 +367,7 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/saurabhbajpai03">
+<a href="https://linkedin.com/in/saurabhbajpai03">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:saurabhbajpai03@outlook.com">
@@ -355,7 +392,7 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 
 </div>
 
-<div align="center">
+<div align="center">https://you-fyi.onrender.com/ui/
 
 ### 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=saurabhhhcodes&color=00D9FF&style=for-the-badge" alt="Profile Views" />
@@ -367,6 +404,8 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 **"The best code is no code at all."** – Jeff Atwood
 
 <img src="https://readme-typing-svg.demolab.com?size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+🚀" alt="Typing SVG" />
+
+</div>
 
 </div>
 

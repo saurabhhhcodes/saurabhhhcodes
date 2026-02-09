@@ -1,0 +1,37 @@
+.project-card {
+    position: relative;
+    perspective: 1000px;
+}
+
+.project-card .card-title {
+    background: linear-gradient(90deg, #00D9FF, #007aff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+}
+
+.project-card .btn {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.project-card .btn::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: translate(-50%, -50%);
+    transition: width 0.6s, height 0.6s;
+    z-index: -1;
+}
+
+.project-card .btn:hover::before {
+    width: 300px;
+    height: 300px;
+}

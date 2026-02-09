@@ -1,0 +1,73 @@
+Saurabh Kumar Bajpai
+saurabhbajpai03@outlook.com • +91 82994 46341 • Lucknow, India
+linkedin.com/in/saurabhbajpai03 • github.com/saurabhhhcodes
+
+PROFESSIONAL SUMMARY
+AI Engineer specializing in autonomous and agentic AI systems, multimodal pipelines, and backend AI infrastructure. Contributor to Google's Agent Development Kit (Python & Go), shipping production-grade fixes improving A2A reliability, function-call handling, and agent orchestration. Hands-on experience with RAG systems, LLM/VLM integration, cloud-native AI deployments, and enterprise automation.
+
+EXPERIENCE
+
+AI Engineer Intern — Akoode Technologies Pvt. Ltd.
+Jan 2026 – Present | Gurugram, Haryana (On-site)
+• Supporting end-to-end development of multimodal AI systems spanning text, image, and audio inputs.
+• Built data curation and preprocessing pipelines for high-quality LLM/VLM training datasets.
+• Assisted in fine-tuning LLMs/VLMs and implementing RAG pipelines to improve response accuracy.
+• Developed agentic AI components enabling intelligent task routing and multimodal reasoning.
+
+Software Engineer (AI + Backend) — Freelance (Fiverr)
+Aug 2025 – Present
+• Built Outlook Calendar NLP Assistant using Microsoft Graph API; achieved 97% intent accuracy.
+• Implemented Google & Microsoft SSO for enterprise chatbot platform chatlly.com.
+• Developed you.fyi, a workspace and digital asset management system with shareable kits.
+
+Software Engineer Intern (AI/ML) — Atmohive Biotech
+May 2024 – Jul 2024
+• Created GeneInsight, a Spring Boot bioinformatics SaaS reducing DNA analysis time by 80–90%.
+• Built conversational NLP modules and 3D molecular visualization tools.
+• Delivered RBAC-enabled multi-tenant dashboard used by 100+ researchers.
+
+AI/ML Research Intern — Amity University Bioinformatics Lab
+Jul 2025 – Sep 2025
+• Developed OpenBioGen AI, a gene–disease prediction system using custom RAG pipelines.
+• Integrated PubMed, OMIM, and UniProt ETL pipelines, reducing compute latency by 40%.
+• Implemented retrieval explainability and reasoning trace modules.
+
+OPEN SOURCE & KEY PROJECTS
+
+Google — Agent Development Kit (ADK) (Python & Go) — Contributor
+• Fixed critical runtime errors in RemoteA2aAgent, improving agent communication reliability.
+• Enhanced function-call handling and reasoning trace consistency in multi-agent workflows.
+• Added unit tests in Python and Go, improving stability and code coverage.
+
+Deal Doctor — Agent.AI Global Challenge Winner
+• Built autonomous HubSpot CRM automation system with intelligent deal pipeline management.
+• Implemented automated lead scoring and autonomous follow-ups using multi-agent orchestration.
+
+Smart Plant Care Assistant
+• AI-powered disease detection using OpenCV and LLM-based reasoning.
+
+Laundrify
+• Mobile laundry platform using React Native and Spring Boot with real-time tracking.
+
+TECHNICAL SKILLS
+
+Programming: Python, Java, Go, SQL, TypeScript
+AI / ML: LLMs, VLMs, RAG, Agentic AI, Multimodal AI, Prompt Engineering, NLP
+Frameworks & Platforms: Google ADK, Agent.AI, Spring Boot, FastAPI, Gin
+Cloud & DevOps: AWS, Google Cloud Console, Microsoft Azure Console, Firebase, Docker
+Databases: PostgreSQL, MySQL, MongoDB, pgvector
+Tools: Git, Linux, REST APIs, OAuth, Microsoft Graph API, OpenCV
+CS Fundamentals: Data Structures, Algorithms, OS, DBMS, Computer Networks
+
+HONORS AND ACHIEVEMENTS
+
+• Global Agent.AI Challenge Winner — Built Deal Doctor, an autonomous HubSpot CRM automation system
+• Qualified Round 2 of TCS HackerQuest CyberSecurity Challenge
+• Candidate Master (Codeforces), LeetCode Top 10%
+• Google Summer of Code Contributor, Google Code Jam Participant
+
+EDUCATION
+
+B.Tech Biotechnology, Amity Institute of Biotechnology, Lucknow
+2022 – 2026
+Relevant Coursework: Data Structures, Algorithms (Java), Operating Systems, DBMS, Distributed Systems
