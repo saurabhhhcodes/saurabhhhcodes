@@ -8,11 +8,11 @@ import json
 import re
 from datetime import datetime
 import os
+import time
+import random
 
 def get_github_stats(username):
     """Fetch GitHub stats for the user"""
-    import time
-    
     max_retries = 3
     retry_delay = 2  # seconds
     
@@ -59,16 +59,6 @@ def get_github_stats(username):
     print("Failed to fetch GitHub stats after all retries")
     return None
 
-def get_leetcode_stats(username):
-    """Fetch LeetCode stats (mock implementation)"""
-    # Note: LeetCode doesn't have a public API, so this is a placeholder
-    # In a real implementation, you might use web scraping or third-party APIs
-    return {
-        'problems_solved': 150,  # Placeholder
-        'ranking': 50000,        # Placeholder
-        'acceptance_rate': 65.5  # Placeholder
-    }
-
 def generate_dynamic_content():
     """Generate dynamic content for README"""
     current_time = datetime.now()
@@ -93,7 +83,6 @@ def generate_dynamic_content():
         "⚡ Optimizing algorithms and life"
     ]
     
-    import random
     current_status = random.choice(status_messages)
     
     return {
@@ -108,37 +97,43 @@ def update_readme():
     
     # Get stats
     github_stats = get_github_stats(username)
-    leetcode_stats = get_leetcode_stats(username)
     dynamic_content = generate_dynamic_content()
     
     # Read current README
     try:
         with open('README.md', 'r', encoding='utf-8') as file:
-            readme_content = file.read()
+            content = file.read()
     except FileNotFoundError:
         print("README.md not found!")
         return
-    
-    # Update dynamic sections if needed
-    # This is a basic implementation - you can expand this to update specific sections
-    
-    # Add a comment with last update time
+
+    # 1. Update Badge-style stats (e.g., Total_Projects-25+)
+    if github_stats:
+        repos = github_stats['public_repos']
+        # Update project count if it's strictly greater than the current badge
+        # Pattern: Total_Projects-([0-9]+)\+
+        match = re.search(r'Total_Projects-([0-9]+)\+', content)
+        if match:
+            current_badge_val = int(match.group(1))
+            if repos > current_badge_val:
+                new_badge = f"Total_Projects-{repos}+"
+                content = content.replace(f"Total_Projects-{current_badge_val}+", new_badge)
+                print(f"Updated Projects Badge: {current_badge_val}+ -> {repos}+")
+
+    # 2. Update Update Comment
     update_comment = f"<!-- Last updated: {dynamic_content['last_updated']} -->"
-    
-    # Check if the comment already exists and update it
-    if "<!-- Last updated:" in readme_content:
-        readme_content = re.sub(
+    if "<!-- Last updated:" in content:
+        content = re.sub(
             r'<!-- Last updated:.*? -->',
             update_comment,
-            readme_content
+            content
         )
     else:
-        # Add the comment at the end
-        readme_content += f"\n\n{update_comment}\n"
+        content += f"\n\n{update_comment}\n"
     
     # Write updated README
     with open('README.md', 'w', encoding='utf-8') as file:
-        file.write(readme_content)
+        file.write(content)
     
     print(f"README updated successfully at {dynamic_content['last_updated']}")
     

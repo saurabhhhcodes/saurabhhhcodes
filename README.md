@@ -38,7 +38,7 @@ const saurabh = {
 
 <div align="center">
 
-## � Founder & Lead Instructor @ [AxonFlow.in](https://axonflow.in)
+## 🚀 Founder & Lead Instructor @ [AxonFlow.in](https://axonflow.in)
 
 **Building the next generation of AI Engineers & Systems**
 
@@ -57,7 +57,7 @@ At **AxonFlow**, we bridge the gap between theoretical AI and production-grade s
 
 <div align="center">
 
-## �📊 GitHub Stats & Analytics
+## 📊 GitHub Stats & Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=saurabhhhcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=saurabhhhcodes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
@@ -355,7 +355,7 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 
 
 ### 📊 Project Statistics
-<img src="https://img.shields.io/badge/Total_Projects-25+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
+<img src="https://img.shields.io/badge/Total_Projects-39+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
 <img src="https://img.shields.io/badge/Languages_Used-12+-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
 <img src="https://img.shields.io/badge/Live_Deployments-5+-20BEFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Deployments" />
 <img src="https://img.shields.io/badge/SaaS_Platforms-2+-00D9FF?style=for-the-badge&logo=stripe&logoColor=white" alt="SaaS Platforms" />
@@ -392,7 +392,7 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 
 </div>
 
-<div align="center">https://you-fyi.onrender.com/ui/
+<div align="center">
 
 ### 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=saurabhhhcodes&color=00D9FF&style=for-the-badge" alt="Profile Views" />
@@ -407,8 +407,4 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 
 </div>
 
-</div>
-
-<!-- Last updated: February 23, 2026 at 06:56 UTC -->
-
-</div>
+<!-- Last updated: February 23, 2026 at 13:51 UTC -->
