@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Saurabh Bajpai 👋
+# Hi there, I'm Saurabh Kumar Bajpai 👋
 
 <img src="https://readme-typing-svg.demolab.com?size=30&duration=3000&pause=1000&color=00D9FF&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+FullStack+Developer;LLM+Orchestration+%7C+Genomic+Analysis;Building+AI-Powered+Solutions!" alt="Typing SVG" />
 
