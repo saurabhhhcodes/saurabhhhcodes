@@ -18,7 +18,7 @@
     "homepage": "https://github.com/saurabhhhcodes",
     "language": "Python",
     "stargazers_count": 1,
-    "updated_at": "2026-03-16T01:47:51Z",
+    "updated_at": "2026-03-17T01:24:56Z",
     "topics": [
       "config",
       "github-config"
@@ -33,6 +33,28 @@
     "language": "TypeScript",
     "stargazers_count": 1,
     "updated_at": "2025-09-07T20:40:49Z",
+    "topics": []
+  },
+  {
+    "id": 1183512983,
+    "name": "Plant Guardian Ai",
+    "description": "Next-gen context-aware plant health assistant powered by Gemini 2.5 Flash and ADK.",
+    "html_url": "https://github.com/saurabhhhcodes/plant-guardian-ai",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2026-03-16T18:54:44Z",
+    "topics": []
+  },
+  {
+    "id": 1039435903,
+    "name": "Smart Plant Care Assistant",
+    "description": "AI-powered plant care assistant with computer vision analysis",
+    "html_url": "https://github.com/saurabhhhcodes/smart-plant-care-assistant",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2026-03-16T15:13:34Z",
     "topics": []
   },
   {
@@ -88,17 +110,6 @@
     "language": "Python",
     "stargazers_count": 0,
     "updated_at": "2025-10-26T14:59:45Z",
-    "topics": []
-  },
-  {
-    "id": 1039435903,
-    "name": "Smart Plant Care Assistant",
-    "description": "AI-powered plant care assistant with computer vision analysis",
-    "html_url": "https://github.com/saurabhhhcodes/smart-plant-care-assistant",
-    "homepage": null,
-    "language": "Python",
-    "stargazers_count": 0,
-    "updated_at": "2025-10-07T15:08:59Z",
     "topics": []
   },
   {
