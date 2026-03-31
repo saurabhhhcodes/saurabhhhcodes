@@ -18,7 +18,7 @@
     "homepage": "https://github.com/saurabhhhcodes",
     "language": "Python",
     "stargazers_count": 1,
-    "updated_at": "2026-03-30T01:50:45Z",
+    "updated_at": "2026-03-31T01:47:39Z",
     "topics": [
       "config",
       "github-config"
@@ -33,6 +33,39 @@
     "language": "TypeScript",
     "stargazers_count": 1,
     "updated_at": "2025-09-07T20:40:49Z",
+    "topics": []
+  },
+  {
+    "id": 1196341555,
+    "name": "Gsoc 2026 Cbioportal Ai Curation",
+    "description": "GSoC 2026 Proposal: AI-Assisted Curation Dashboard for cBioPortal.",
+    "html_url": "https://github.com/saurabhhhcodes/gsoc-2026-cbioportal-ai-curation",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2026-03-30T16:01:33Z",
+    "topics": []
+  },
+  {
+    "id": 1196341525,
+    "name": "Gsoc 2026 Apidash Cli Mcp",
+    "description": "GSoC 2026 Proposal: CLI-first, MCP-enabled, and Agent-ready Ecosystem for API Dash.",
+    "html_url": "https://github.com/saurabhhhcodes/gsoc-2026-apidash-cli-mcp",
+    "homepage": null,
+    "language": "Dart",
+    "stargazers_count": 0,
+    "updated_at": "2026-03-30T16:01:25Z",
+    "topics": []
+  },
+  {
+    "id": 1196343488,
+    "name": "Gsoc 2026 Deepchem Foundation Models",
+    "description": "GSoC 2026 Proposal: Scaling Biological Foundation Models in DeepChem.",
+    "html_url": "https://github.com/saurabhhhcodes/gsoc-2026-deepchem-foundation-models",
+    "homepage": null,
+    "language": null,
+    "stargazers_count": 0,
+    "updated_at": "2026-03-30T15:55:34Z",
     "topics": []
   },
   {
