@@ -8,6 +8,41 @@
 
 </div>
 
+<div align="center">
+
+## 🏅 Open Source Momentum
+
+<a href="https://github.com/saurabhhhcodes?tab=followers">
+  <img src="https://img.shields.io/github/followers/saurabhhhcodes?label=Followers&style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/saurabhhhcodes?tab=repositories">
+  <img src="https://img.shields.io/badge/Open_Source-GSSoC_2026-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026" />
+</a>
+<a href="https://github.com/saurabhhhcodes">
+  <img src="https://komarev.com/ghpvc/?username=saurabhhhcodes&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhhhcodes&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabhhhcodes&theme=tokyonight" alt="Repos per Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabhhhcodes&theme=tokyonight" alt="Most Commit Language" width="48%" />
+
+### 🎯 GitHub Achievement Targets
+
+| Achievement | How I'm Unlocking It |
+|---|---|
+| 🦈 **Pull Shark** | Shipping reviewed pull requests across active open-source repositories |
+| 🧊 **Arctic Code Vault Contributor** | Sustaining public open-source contributions and long-lived repositories |
+| ⭐ **Starstruck** | Building useful projects and contributor-friendly READMEs |
+| 🧑‍💻 **Pair Extraordinaire** | Collaborating through issues, reviews, and co-authored open-source work |
+| 🧭 **Open Source Contributor** | Contributing to GSSoC 2026 projects in AI, backend, testing, and developer tooling |
+
+</div>
+
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
