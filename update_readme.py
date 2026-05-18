@@ -15,12 +15,17 @@ def get_github_stats(username):
     """Fetch GitHub stats for the user"""
     max_retries = 3
     retry_delay = 2  # seconds
+    headers = {}
+    github_token = os.environ.get("GITHUB_TOKEN")
+    if github_token:
+        headers["Authorization"] = f"Bearer {github_token}"
+        headers["X-GitHub-Api-Version"] = "2022-11-28"
     
     for attempt in range(max_retries):
         try:
             # GitHub API endpoint
             api_url = f"https://api.github.com/users/{username}"
-            response = requests.get(api_url, timeout=10)
+            response = requests.get(api_url, headers=headers, timeout=10)
             
             # Check for rate limiting
             if response.status_code == 403:
