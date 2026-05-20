@@ -18,6 +18,12 @@
 <a href="https://github.com/saurabhhhcodes?tab=repositories">
   <img src="https://img.shields.io/badge/Open_Source-GSSoC_2026-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026" />
 </a>
+<a href="https://summerofcode.withgoogle.com/">
+  <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Google Summer of Code 2026 Contributor" />
+</a>
+<a href="https://github.com/saurabhhhcodes?tab=repositories">
+  <img src="https://img.shields.io/badge/NSoC_2026-Contributor-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Nexus Spring of Code 2026 Contributor" />
+</a>
 <a href="https://github.com/saurabhhhcodes">
   <img src="https://komarev.com/ghpvc/?username=saurabhhhcodes&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
@@ -39,7 +45,21 @@
 | 🧊 **Arctic Code Vault Contributor** | Sustaining public open-source contributions and long-lived repositories |
 | ⭐ **Starstruck** | Building useful projects and contributor-friendly READMEs |
 | 🧑‍💻 **Pair Extraordinaire** | Collaborating through issues, reviews, and co-authored open-source work |
-| 🧭 **Open Source Contributor** | Contributing to GSSoC 2026 projects in AI, backend, testing, and developer tooling |
+| 🧭 **Open Source Contributor** | Contributing to GSSoC 2026, GSoC 2026, and NSoC 2026 projects in AI, backend, testing, and developer tooling |
+
+</div>
+
+## 🌐 Open Source Programs 2026
+
+<div align="center">
+
+| Program | Role | Contribution Focus |
+|---|---|---|
+| **GirlScript Summer of Code 2026** | Contributor, Open Source + AI/Agents tracks | Shipping reviewed PRs across approved projects with AI/ML, agentic AI, RAG, backend reliability, security, testing, and documentation work |
+| **Google Summer of Code 2026** | Contributor | Building production-minded open-source systems with clean architecture, tests, and maintainable implementation notes |
+| **Nexus Spring of Code 2026** | Contributor | Contributing fast-moving fixes and features across community projects while keeping PRs useful, tested, and merge-ready |
+
+**Current open-source focus:** agentic AI, RAG systems, NLP, OpenCV/computer vision, security hardening, scalable APIs, CI/testing, and contributor tooling.
 
 </div>
 
@@ -64,7 +84,8 @@ const saurabh = {
     bioinformatics: ["BioPython", "Bioconductor", "BLAST", "SAMtools", "GATK"],
     tools: ["Git", "Docker", "AWS", "Firebase", "Vercel", "Streamlit", "VS Code", "IntelliJ IDEA"],
     coreCompetencies: ["System Design", "Data Structures & Algorithms", "A2A Development", "MLOps", "RAG", "Conversational AI"],
-    achievements: ["Agent.AI Global Challenge Winner", "TCS HackerQuest Season 10 Round 2 Qualifier", "Google ADK Contributor", "Candidate Master on Codeforces (Top 5%)", "Top 10% on LeetCode"],
+    openSourcePrograms: ["GSSoC 2026", "Google Summer of Code 2026", "Nexus Spring of Code 2026"],
+    achievements: ["Agent.AI Global Challenge Winner", "GSSoC 2026 Top Contributor", "GSoC 2026 Contributor", "NSoC 2026 Contributor", "TCS HackerQuest Season 10 Round 2 Qualifier", "Google ADK Contributor", "Candidate Master on Codeforces (Top 5%)", "Top 10% on LeetCode"],
     currentlyLearning: ["Google Agent Development Kit (ADK)", "Advanced LLM Orchestration", "Multi-Agent Systems", "Multimodal AI"],
     lookingFor: "High-impact AI/ML Engineering Opportunities at Leading Tech Companies",
     funFact: "I build autonomous agent systems that can talk to each other while solving competitive programming problems! 🤖🧬🚀"
@@ -229,6 +250,12 @@ At **AxonFlow**, we bridge the gap between theoretical AI and production-grade s
 - **Testing**: Added unit tests in Python and Go, improving stability and code coverage
 - **Technologies**: Python, Go, Agent-to-Agent (A2A) Communication, Multi-Agent Systems
 
+### 🌐 **Open Source Contributor** | GSSoC 2026, GSoC 2026 & NSoC 2026 | 2026 – Present
+- **Program Contributions**: Contributing across GirlScript Summer of Code, Google Summer of Code, and Nexus Spring of Code with production-focused PRs
+- **AI/ML & Agentic Systems**: Building and improving RAG workflows, agent orchestration, NLP features, OpenCV utilities, and multimodal AI components
+- **Security & Reliability**: Shipping security fixes, backend reliability improvements, tests, CI cleanup, documentation, and maintainability upgrades
+- **Contribution Discipline**: Reading project guidelines, working on assigned/non-contested issues, keeping PRs reviewed, tested, labeled, and merge-ready
+
 ### 💻 **Software Engineer (AI + Backend)** | Freelance (Fiverr) | Aug 2025 – Present
 - **Outlook Calendar NLP Assistant**: Built using Microsoft Graph API with 97% intent accuracy
 - **OAuth/SSO Integration**: Implemented Google & Microsoft SSO for enterprise chatbot platform chatlly.com
@@ -275,6 +302,7 @@ graph TD
 - 📅 **Outlook Calendar AI** - Multi-tenant platform with Microsoft Graph API integration
 - 💬 **Chatlly Enhancement** - RAG assistant with OAuth/SSO and conversational memory
 - 🔬 **Catalyst Bio Platform** - Next-generation bioinformatics with multi-agent architecture
+- 🌐 **GSSoC/GSoC/NSoC Contributions** - Merge-ready open-source PRs across AI, security, backend, testing, docs, and developer tooling
 - 🏆 **Competitive Programming** - Candidate Master level problem-solving (Top 5% Codeforces)
 - 🎯 **Production RAG Systems** - Scalable retrieval-augmented generation applications
 
@@ -442,4 +470,4 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 
 </div>
 
-<!-- Last updated: May 20, 2026 at 08:55 UTC -->
+<!-- Last updated: May 20, 2026 at 10:01 UTC -->

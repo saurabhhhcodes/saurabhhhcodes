@@ -8,6 +8,7 @@ import ParticlesBackground from './ParticlesBackground';
 import TypingAnimation from './components/TypingAnimation';
 import SkillsSection from './components/SkillsSection';
 import AchievementBadges from './components/AchievementBadges';
+import OpenSourcePrograms from './components/OpenSourcePrograms';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
               <Nav className="ms-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
                 <Nav.Link href="#about">About</Nav.Link>
+                <Nav.Link href="#opensource">Open Source</Nav.Link>
                 <Nav.Link href="#projects">Projects</Nav.Link>
                 <Nav.Link href="#contact">Contact</Nav.Link>
               </Nav>
@@ -54,6 +56,8 @@ function App() {
               </p>
             </Fade>
           </section>
+
+          <OpenSourcePrograms />
 
           <SkillsSection />
 

@@ -29,6 +29,24 @@ const achievements: Achievement[] = [
         description: 'Open Source Contributor',
         color: '#4285F4',
     },
+    {
+        title: 'GSSoC 2026',
+        icon: '🌐',
+        description: 'Top Contributor Momentum',
+        color: '#FF6B35',
+    },
+    {
+        title: 'GSoC 2026',
+        icon: '🚀',
+        description: 'Contributor',
+        color: '#00D9FF',
+    },
+    {
+        title: 'NSoC 2026',
+        icon: '⚡',
+        description: 'Contributor',
+        color: '#7C3AED',
+    },
 ];
 
 const AchievementBadges: React.FC = () => {
