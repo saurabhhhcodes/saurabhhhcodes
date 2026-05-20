@@ -32,19 +32,19 @@ const achievements: Achievement[] = [
     {
         title: 'GSSoC 2026',
         icon: '🌐',
-        description: 'Top Contributor Momentum',
+        description: 'Open Source + AI/Agents Track',
         color: '#FF6B35',
     },
     {
         title: 'GSoC 2026',
         icon: '🚀',
-        description: 'Contributor',
+        description: 'Selected Contributor',
         color: '#00D9FF',
     },
     {
         title: 'NSoC 2026',
         icon: '⚡',
-        description: 'Contributor',
+        description: 'Merge-Ready Contributor',
         color: '#7C3AED',
     },
 ];

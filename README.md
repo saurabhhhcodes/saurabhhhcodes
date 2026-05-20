@@ -61,6 +61,24 @@
 
 **Current open-source focus:** agentic AI, RAG systems, NLP, OpenCV/computer vision, security hardening, scalable APIs, CI/testing, and contributor tooling.
 
+### 2026 Program Highlights
+
+| Track | Current Signal | Proof / Profile |
+|---|---|---|
+| **GSSoC 2026** | Top contributor push across Open Source and AI/Agents tracks with merged, reviewed, and labeled PRs | [Public GSSoC profile](https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac) |
+| **Google Summer of Code 2026** | Contributor focused on production-grade implementation, tests, documentation, and maintainable architecture | [GSoC program](https://summerofcode.withgoogle.com/) |
+| **NSoC 2026** | Contributor to fast-moving open-source projects with emphasis on real fixes, security, AI tooling, and backend reliability | Nexus Spring of Code 2026 |
+
+<a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
+  <img src="https://img.shields.io/badge/GSSoC_2026-Open_Source_%2B_AI_Agents-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026 Open Source and AI Agents" />
+</a>
+<a href="https://summerofcode.withgoogle.com/">
+  <img src="https://img.shields.io/badge/GSoC_2026-Selected_Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="GSoC 2026 Selected Contributor" />
+</a>
+<a href="https://github.com/saurabhhhcodes">
+  <img src="https://img.shields.io/badge/NSoC_2026-Open_Source_Contributor-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="NSoC 2026 Open Source Contributor" />
+</a>
+
 </div>
 
 ## 🚀 About Me
