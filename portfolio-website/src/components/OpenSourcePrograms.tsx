@@ -11,12 +11,41 @@ interface Program {
     accent: string;
 }
 
+interface ProgramStat {
+    label: string;
+    value: string;
+    detail: string;
+}
+
+const programStats: ProgramStat[] = [
+    {
+        label: 'GSSoC Rank',
+        value: '#1',
+        detail: 'Contributor leaderboard snapshot',
+    },
+    {
+        label: 'Official Points',
+        value: '4,344+',
+        detail: 'Tracked GSSoC score and rising',
+    },
+    {
+        label: 'Merged PR Push',
+        value: '30+',
+        detail: 'Daily merge target across active repos',
+    },
+    {
+        label: 'Repo Breadth',
+        value: '13+',
+        detail: 'Projects contributed across tracks',
+    },
+];
+
 const programs: Program[] = [
     {
         name: 'GSSoC 2026',
         role: 'Contributor · Open Source + AI/Agents',
         detail: 'Shipping reviewed PRs across approved projects in AI/ML, agentic AI, RAG, backend reliability, security, testing, and documentation.',
-        metric: 'Top contributor push with merged, reviewed, and scored PRs',
+        metric: 'Rank #1 snapshot with 4,344+ official points and active label conversion work',
         link: 'https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac',
         accent: '#FF6B35',
     },
@@ -31,8 +60,8 @@ const programs: Program[] = [
     {
         name: 'NSoC 2026',
         role: 'Contributor',
-        detail: 'Contributing merge-ready fixes and features across community projects while keeping changes useful, focused, and tested.',
-        metric: 'Nexus Spring of Code contributor across active community projects',
+        detail: 'Contributing merge-ready fixes and features across Nexus community projects while keeping changes useful, focused, and tested.',
+        metric: 'Nexus Spring of Code contributor focused on production-impact PRs',
         accent: '#7C3AED',
     },
 ];
@@ -47,6 +76,15 @@ const OpenSourcePrograms: React.FC = () => (
                 Active contributor across GSSoC, GSoC, and NSoC, focused on real engineering work that is reviewed,
                 tested, and useful to maintainers.
             </p>
+            <div className="opensource-stats" aria-label="Open source program stats">
+                {programStats.map((stat) => (
+                    <div key={stat.label} className="opensource-stat">
+                        <strong>{stat.value}</strong>
+                        <span>{stat.label}</span>
+                        <small>{stat.detail}</small>
+                    </div>
+                ))}
+            </div>
             <div className="opensource-grid">
                 {programs.map((program) => (
                     <article

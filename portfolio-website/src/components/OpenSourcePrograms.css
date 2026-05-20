@@ -18,6 +18,46 @@
     gap: 24px;
 }
 
+.opensource-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 14px;
+    margin: 0 0 30px;
+}
+
+.opensource-stat {
+    min-height: 118px;
+    padding: 18px;
+    text-align: left;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+}
+
+.opensource-stat strong,
+.opensource-stat span,
+.opensource-stat small {
+    display: block;
+}
+
+.opensource-stat strong {
+    color: #ffffff;
+    font-size: 2rem;
+    line-height: 1;
+    margin-bottom: 10px;
+}
+
+.opensource-stat span {
+    color: #00d9ff;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.opensource-stat small {
+    color: #c7c7d1;
+    line-height: 1.45;
+}
+
 .opensource-card {
     min-height: 260px;
     padding: 28px;
@@ -101,5 +141,9 @@
 
     .opensource-lead {
         font-size: 1rem;
+    }
+
+    .opensource-stat {
+        min-height: auto;
     }
 }

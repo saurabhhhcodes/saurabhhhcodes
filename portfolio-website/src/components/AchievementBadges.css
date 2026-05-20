@@ -46,6 +46,19 @@
     box-shadow: 0 0 30px currentColor;
 }
 
+.achievement-link {
+    position: relative;
+    z-index: 1;
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+.achievement-link:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
 .achievement-icon {
     font-size: 48px;
     margin-bottom: 16px;

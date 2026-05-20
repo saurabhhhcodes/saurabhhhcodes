@@ -53,11 +53,20 @@
 
 <div align="center">
 
+### Live 2026 Open Source Signal
+
+| Signal | Current Snapshot |
+|---|---|
+| **GSSoC 2026 Global Rank** | **Rank #1 on the contributor leaderboard snapshot, 4,344+ official points, 30+ merged PR day in progress** |
+| **GSSoC Tracker Footprint** | 30+ scored/merged PRs across 13+ repositories, with Open Source + AI/Agents track work |
+| **Primary Contribution Areas** | Agentic AI, RAG, NLP, OpenCV, security hardening, backend reliability, API design, CI/testing |
+| **Contribution Standard** | Real code changes, local validation, maintainer-specific follow-up, and score labels requested after merge |
+
 | Program | Role | Contribution Focus |
 |---|---|---|
 | **GirlScript Summer of Code 2026** | Contributor, Open Source + AI/Agents tracks | Shipping reviewed PRs across approved projects with AI/ML, agentic AI, RAG, backend reliability, security, testing, and documentation work |
 | **Google Summer of Code 2026** | Contributor | Building production-minded open-source systems with clean architecture, tests, and maintainable implementation notes |
-| **Nexus Spring of Code 2026** | Contributor | Contributing fast-moving fixes and features across community projects while keeping PRs useful, tested, and merge-ready |
+| **Nexus Spring of Code 2026** | Contributor | Contributing fast-moving fixes and features across Nexus community projects while keeping PRs useful, tested, and merge-ready |
 
 **Current open-source focus:** agentic AI, RAG systems, NLP, OpenCV/computer vision, security hardening, scalable APIs, CI/testing, and contributor tooling.
 
@@ -65,18 +74,18 @@
 
 | Track | Current Signal | Proof / Profile |
 |---|---|---|
-| **GSSoC 2026** | Top contributor push across Open Source and AI/Agents tracks with merged, reviewed, and labeled PRs | [Public GSSoC profile](https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac) |
+| **GSSoC 2026** | Rank #1 contributor snapshot with 4,344+ official points and active work to convert merged PRs into scored labels | [Public GSSoC profile](https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac) |
 | **Google Summer of Code 2026** | Contributor focused on production-grade implementation, tests, documentation, and maintainable architecture | [GSoC program](https://summerofcode.withgoogle.com/) |
-| **NSoC 2026** | Contributor to fast-moving open-source projects with emphasis on real fixes, security, AI tooling, and backend reliability | Nexus Spring of Code 2026 |
+| **NSoC 2026** | Contributor to fast-moving Nexus Spring of Code projects with emphasis on real fixes, security, AI tooling, and backend reliability | Nexus Spring of Code 2026 |
 
 <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
-  <img src="https://img.shields.io/badge/GSSoC_2026-Open_Source_%2B_AI_Agents-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026 Open Source and AI Agents" />
+  <img src="https://img.shields.io/badge/GSSoC_2026-Rank_%231_%7C_4344%2B_pts-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026 Rank 1 and 4344+ points" />
 </a>
 <a href="https://summerofcode.withgoogle.com/">
   <img src="https://img.shields.io/badge/GSoC_2026-Selected_Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="GSoC 2026 Selected Contributor" />
 </a>
 <a href="https://github.com/saurabhhhcodes">
-  <img src="https://img.shields.io/badge/NSoC_2026-Open_Source_Contributor-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="NSoC 2026 Open Source Contributor" />
+  <img src="https://img.shields.io/badge/NSoC_2026-Nexus_Contributor-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="NSoC 2026 Nexus Contributor" />
 </a>
 
 </div>

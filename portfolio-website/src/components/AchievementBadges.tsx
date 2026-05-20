@@ -7,6 +7,7 @@ interface Achievement {
     title: string;
     icon: string;
     description: string;
+    link?: string;
     color: string;
 }
 
@@ -32,19 +33,21 @@ const achievements: Achievement[] = [
     {
         title: 'GSSoC 2026',
         icon: '🌐',
-        description: 'Open Source + AI/Agents Track',
+        description: 'Rank #1 Snapshot · 4,344+ Points',
+        link: 'https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac',
         color: '#FF6B35',
     },
     {
         title: 'GSoC 2026',
         icon: '🚀',
         description: 'Selected Contributor',
+        link: 'https://summerofcode.withgoogle.com/',
         color: '#00D9FF',
     },
     {
         title: 'NSoC 2026',
         icon: '⚡',
-        description: 'Merge-Ready Contributor',
+        description: 'Nexus Open Source Contributor',
         color: '#7C3AED',
     },
 ];
@@ -59,7 +62,30 @@ const AchievementBadges: React.FC = () => {
         <section id="achievements" ref={ref} className="achievements-section">
             <h2 className="section-title">Achievements & Recognition</h2>
             <div className="achievements-grid">
-                {achievements.map((achievement, index) => (
+                {achievements.map((achievement, index) => {
+                    const content = (
+                        <>
+                            <motion.div
+                                className="achievement-icon"
+                                animate={{
+                                    scale: [1, 1.2, 1],
+                                }}
+                                transition={{
+                                    duration: 2,
+                                    repeat: Infinity,
+                                    repeatType: 'reverse',
+                                }}
+                            >
+                                {achievement.icon}
+                            </motion.div>
+                            <h3 className="achievement-title" style={{ color: achievement.color }}>
+                                {achievement.title}
+                            </h3>
+                            <p className="achievement-description">{achievement.description}</p>
+                        </>
+                    );
+
+                    return (
                     <motion.div
                         key={achievement.title}
                         className="achievement-badge"
@@ -69,25 +95,22 @@ const AchievementBadges: React.FC = () => {
                         whileHover={{ scale: 1.1, rotate: 5 }}
                         style={{ borderColor: achievement.color }}
                     >
-                        <motion.div
-                            className="achievement-icon"
-                            animate={{
-                                scale: [1, 1.2, 1],
-                            }}
-                            transition={{
-                                duration: 2,
-                                repeat: Infinity,
-                                repeatType: 'reverse',
-                            }}
-                        >
-                            {achievement.icon}
-                        </motion.div>
-                        <h3 className="achievement-title" style={{ color: achievement.color }}>
-                            {achievement.title}
-                        </h3>
-                        <p className="achievement-description">{achievement.description}</p>
+                        {achievement.link ? (
+                            <a
+                                className="achievement-link"
+                                href={achievement.link}
+                                target="_blank"
+                                rel="noreferrer"
+                                aria-label={`${achievement.title} profile`}
+                            >
+                                {content}
+                            </a>
+                        ) : (
+                            content
+                        )}
                     </motion.div>
-                ))}
+                    );
+                })}
             </div>
         </section>
     );
