@@ -30,8 +30,8 @@ const programStats: ProgramStat[] = [
     },
     {
         label: 'Merged PR Push',
-        value: '30+',
-        detail: 'Daily merge target across active repos',
+        value: '40',
+        detail: 'Balanced daily PR pipeline by difficulty',
     },
     {
         label: 'Repo Breadth',
@@ -45,7 +45,7 @@ const programs: Program[] = [
         name: 'GSSoC 2026',
         role: 'Contributor · Open Source + AI/Agents',
         detail: 'Shipping reviewed PRs across approved projects in AI/ML, agentic AI, RAG, backend reliability, security, testing, and documentation.',
-        metric: '7,600+ official points with active label conversion and top-rank pressure',
+        metric: '7,600+ official points, 30+ merged PR days, and a balanced beginner-to-critical contribution pipeline',
         link: 'https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac',
         accent: '#FF6B35',
     },
@@ -67,6 +67,7 @@ const programs: Program[] = [
 ];
 
 const focusAreas = ['Agentic AI', 'RAG', 'NLP', 'OpenCV', 'Security', 'APIs', 'Testing', 'CI/CD'];
+const difficultyMix = ['Beginner', 'Intermediate', 'Advanced', 'Critical'];
 
 const OpenSourcePrograms: React.FC = () => (
     <section id="opensource" className="opensource-section">
@@ -115,6 +116,12 @@ const OpenSourcePrograms: React.FC = () => (
             <div className="opensource-focus" aria-label="Open source focus areas">
                 {focusAreas.map((area) => (
                     <span key={area}>{area}</span>
+                ))}
+            </div>
+            <div className="opensource-difficulty" aria-label="GSSoC daily contribution mix">
+                <strong>Daily GSSoC mix:</strong>
+                {difficultyMix.map((difficulty) => (
+                    <span key={difficulty}>10 {difficulty}</span>
                 ))}
             </div>
         </Fade>

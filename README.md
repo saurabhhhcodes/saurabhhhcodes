@@ -18,6 +18,9 @@
 <a href="https://github.com/saurabhhhcodes?tab=repositories">
   <img src="https://img.shields.io/badge/Open_Source-GSSoC_2026-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026" />
 </a>
+<a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
+  <img src="https://img.shields.io/badge/GSSoC_2026-7600%2B_Official_Points-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026 7600+ official points" />
+</a>
 <a href="https://summerofcode.withgoogle.com/">
   <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Google Summer of Code 2026 Contributor" />
 </a>
@@ -59,6 +62,7 @@
 |---|---|
 | **GSSoC 2026 Global Push** | **7,600+ official points, top leaderboard pressure, and active work to convert merged PRs into scored labels** |
 | **GSSoC Tracker Footprint** | 30+ merged PR days across 13+ repositories, with Open Source + AI/Agents track work |
+| **Daily Contribution Mix** | Balanced pipeline across beginner, intermediate, advanced, and critical issues where maintainers and labels support the scope |
 | **Primary Contribution Areas** | Agentic AI, RAG, NLP, OpenCV, security hardening, backend reliability, API design, CI/testing |
 | **Contribution Standard** | Real code changes, local validation, maintainer-specific follow-up, and score labels requested after merge |
 
@@ -77,6 +81,7 @@
 | **GSSoC 2026** | 7,600+ official points, top leaderboard pressure, and active work to convert merged PRs into scored labels | [Public GSSoC profile](https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac) |
 | **Google Summer of Code 2026** | Contributor focused on production-grade implementation, tests, documentation, and maintainable architecture | [GSoC program](https://summerofcode.withgoogle.com/) |
 | **NSoC 2026** | Contributor to fast-moving Nexus Spring of Code projects with emphasis on real fixes, security, AI tooling, and backend reliability | Nexus Spring of Code 2026 |
+| **Execution Style** | Diversified PRs, issue-first work, contribution-guideline checks, focused maintainer replies, and tested implementation notes | [GitHub activity](https://github.com/saurabhhhcodes) |
 
 <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
   <img src="https://img.shields.io/badge/GSSoC_2026-7600%2B_pts_%7C_Top_Leaderboard_Push-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026 7600+ points and top leaderboard push" />
