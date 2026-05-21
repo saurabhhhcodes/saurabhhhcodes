@@ -19,24 +19,24 @@ interface ProgramStat {
 
 const programStats: ProgramStat[] = [
     {
-        label: 'GSSoC Rank',
-        value: 'Top',
-        detail: 'Leaderboard pressure active',
+        label: 'Official GSSoC Score',
+        value: '7.6K+',
+        detail: 'Current score, before pending syncs',
     },
     {
-        label: 'Official Points',
-        value: '7,600+',
-        detail: 'Tracked GSSoC score and rising',
+        label: 'Morning Target',
+        value: '12K+',
+        detail: 'Rank #1 pressure through scored merges',
     },
     {
-        label: 'Merged PR Push',
+        label: 'Daily PR Ceiling',
         value: '40',
-        detail: 'Balanced daily PR pipeline by difficulty',
+        detail: 'Only when issues, labels, and quality support it',
     },
     {
-        label: 'Repo Breadth',
-        value: '13+',
-        detail: 'Projects contributed across tracks',
+        label: 'Difficulty Mix',
+        value: '10x4',
+        detail: 'Beginner, intermediate, advanced, critical',
     },
 ];
 
@@ -74,8 +74,8 @@ const OpenSourcePrograms: React.FC = () => (
         <Fade>
             <h2 className="section-title">Open Source 2026</h2>
             <p className="opensource-lead">
-                Active contributor across GSSoC, GSoC, and NSoC, focused on real engineering work that is reviewed,
-                tested, and useful to maintainers.
+                Active contributor across GSSoC, GSoC, and NSoC, focused on real engineering work that is assigned,
+                reviewed, tested, and easy for maintainers to merge.
             </p>
             <div className="opensource-stats" aria-label="Open source program stats">
                 {programStats.map((stat) => (
@@ -119,11 +119,15 @@ const OpenSourcePrograms: React.FC = () => (
                 ))}
             </div>
             <div className="opensource-difficulty" aria-label="GSSoC daily contribution mix">
-                <strong>Daily GSSoC mix:</strong>
+                <strong>Balanced GSSoC mix:</strong>
                 {difficultyMix.map((difficulty) => (
                     <span key={difficulty}>10 {difficulty}</span>
                 ))}
             </div>
+            <p className="opensource-note">
+                Current operating priority: convert merged PRs into scored labels, push approved/green PRs over the line,
+                then pick new assigned advanced and critical issues across fresh repositories.
+            </p>
         </Fade>
     </section>
 );

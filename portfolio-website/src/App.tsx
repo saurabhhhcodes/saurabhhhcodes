@@ -41,6 +41,9 @@ function App() {
               <a className="program-badge gssoc" href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac" target="_blank" rel="noreferrer">
                 GSSoC 2026 · 7,600+ pts
               </a>
+              <a className="program-badge target" href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac" target="_blank" rel="noreferrer">
+                Target · 12,000+ by morning
+              </a>
               <a className="program-badge nsoc" href="https://github.com/saurabhhhcodes" target="_blank" rel="noreferrer">
                 NSoC 2026 · Contributor
               </a>
@@ -49,9 +52,9 @@ function App() {
               </a>
             </div>
             <div className="hero-open-source-panel" aria-label="Current open source focus">
-              <span>40 useful PR/day pipeline</span>
-              <span>Beginner · Intermediate · Advanced · Critical</span>
-              <span>AI/Agents · Backend · Security · Testing</span>
+              <span>40 useful PR/day ceiling</span>
+              <span>10 Beginner · 10 Intermediate · 10 Advanced · 10 Critical</span>
+              <span>Label conversion · Merge-ready PRs · Critical lanes</span>
             </div>
             <div className="hero-actions">
               <Button variant="primary" href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac" target="_blank" rel="noreferrer">

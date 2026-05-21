@@ -1,37 +1,67 @@
 <div align="center">
-  
-# Hi there, I'm Saurabh Kumar Bajpai 👋
 
-<img src="https://readme-typing-svg.demolab.com?size=30&duration=3000&pause=1000&color=00D9FF&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+FullStack+Developer;LLM+Orchestration+%7C+Genomic+Analysis;Building+AI-Powered+Solutions!" alt="Typing SVG" />
+<h1>Saurabh Kumar<br>Bajpai</h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<strong>AI Engineer · Open Source 2026<br>Agentic Systems</strong>
 
-</div>
+<br><br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=390&lines=AI+%7C+RAG+%7C+Backend;GSSoC+%7C+NSoC+%7C+GSoC;Reviewed+and+tested+PRs" alt="Typing SVG" />
 
-## 🏅 Open Source Momentum
+<br>
 
-<a href="https://github.com/saurabhhhcodes?tab=followers">
-  <img src="https://img.shields.io/github/followers/saurabhhhcodes?label=Followers&style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/saurabhhhcodes?tab=repositories">
-  <img src="https://img.shields.io/badge/Open_Source-GSSoC_2026-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026" />
-</a>
 <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
-  <img src="https://img.shields.io/badge/GSSoC_2026-7600%2B_Official_Points-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026 7600+ official points" />
-</a>
-<a href="https://summerofcode.withgoogle.com/">
-  <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Google Summer of Code 2026 Contributor" />
-</a>
-<a href="https://github.com/saurabhhhcodes?tab=repositories">
-  <img src="https://img.shields.io/badge/NSoC_2026-Contributor-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Nexus Spring of Code 2026 Contributor" />
-</a>
-<a href="https://github.com/saurabhhhcodes">
-  <img src="https://komarev.com/ghpvc/?username=saurabhhhcodes&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/GSSoC_2026-7.6K%2B_Points-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 7600+ official points" />
 </a>
 
 <br><br>
+
+<a href="https://github.com/saurabhhhcodes">
+  <img src="https://img.shields.io/badge/Target-12K%2B_By_Morning-00C2A8?style=for-the-badge&logo=target&logoColor=white&labelColor=101828" alt="12000+ points target" />
+</a>
+
+<br><br>
+
+<a href="https://summerofcode.withgoogle.com/">
+  <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101828" alt="GSoC 2026 Contributor" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/saurabhhhcodes">
+  <img src="https://img.shields.io/badge/NSoC_2026-Contributor-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="NSoC 2026 Contributor" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/saurabhhhcodes?tab=followers">
+  <img src="https://img.shields.io/github/followers/saurabhhhcodes?label=Followers&style=for-the-badge&logo=github&color=00D9FF&labelColor=101828" alt="GitHub Followers" />
+</a>
+
+</div>
+
+<br>
+
+### Open Source Command Center · 2026
+
+I am pushing a high-quality GSSoC/NSoC/GSoC contribution pipeline across AI, backend, security, testing, and developer tooling projects. The focus is not raw PR spam: every contribution is issue-first, guideline-aware, tested locally where possible, and written for maintainers to review quickly.
+
+**Live signals**
+
+- **Official GSSoC score:** 7,600+ points
+- **Tomorrow morning target:** 12,000+ points and rank #1 pressure
+- **Daily mix:** 10 beginner, 10 intermediate, 10 advanced, 10 critical where labels and assignments genuinely support the scope
+- **Primary lanes:** label conversion, merge-ready PRs, advanced/critical issues, and diversified repositories
+
+**2026 proof signals**
+
+- **GSSoC:** Open Source + AI/Agents track
+- **NSoC:** Nexus contributor pipeline
+- **GSoC:** production-minded contributor
+- **Technical focus:** agentic AI, RAG, NLP, OpenCV, APIs, CI
+- **Contribution standard:** assigned issues, real fixes, tests, human follow-ups
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhhhcodes&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
 
@@ -40,60 +70,15 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabhhhcodes&theme=tokyonight" alt="Repos per Language" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabhhhcodes&theme=tokyonight" alt="Most Commit Language" width="48%" />
 
-### 🎯 GitHub Achievement Targets
-
-| Achievement | How I'm Unlocking It |
-|---|---|
-| 🦈 **Pull Shark** | Shipping reviewed pull requests across active open-source repositories |
-| 🧊 **Arctic Code Vault Contributor** | Sustaining public open-source contributions and long-lived repositories |
-| ⭐ **Starstruck** | Building useful projects and contributor-friendly READMEs |
-| 🧑‍💻 **Pair Extraordinaire** | Collaborating through issues, reviews, and co-authored open-source work |
-| 🧭 **Open Source Contributor** | Contributing to GSSoC 2026, GSoC 2026, and NSoC 2026 projects in AI, backend, testing, and developer tooling |
-
 </div>
 
-## 🌐 Open Source Programs 2026
+## Open Source Programs 2026
 
-<div align="center">
+- **GirlScript Summer of Code 2026:** Contributor across Open Source + AI/Agents tracks, shipping reviewed PRs in AI/ML, RAG, agentic systems, backend reliability, security hardening, CI/testing, and documentation.
+- **Nexus Spring of Code 2026:** Contributor to fast-moving Nexus projects with focus on tested, useful, maintainable changes.
+- **Google Summer of Code 2026:** Contributor focused on production-minded implementation, clean architecture, documentation, and reviewer-friendly notes.
 
-### Live 2026 Open Source Signal
-
-| Signal | Current Snapshot |
-|---|---|
-| **GSSoC 2026 Global Push** | **7,600+ official points, top leaderboard pressure, and active work to convert merged PRs into scored labels** |
-| **GSSoC Tracker Footprint** | 30+ merged PR days across 13+ repositories, with Open Source + AI/Agents track work |
-| **Daily Contribution Mix** | Balanced pipeline across beginner, intermediate, advanced, and critical issues where maintainers and labels support the scope |
-| **Primary Contribution Areas** | Agentic AI, RAG, NLP, OpenCV, security hardening, backend reliability, API design, CI/testing |
-| **Contribution Standard** | Real code changes, local validation, maintainer-specific follow-up, and score labels requested after merge |
-
-| Program | Role | Contribution Focus |
-|---|---|---|
-| **GirlScript Summer of Code 2026** | Contributor, Open Source + AI/Agents tracks | Shipping reviewed PRs across approved projects with AI/ML, agentic AI, RAG, backend reliability, security, testing, and documentation work |
-| **Google Summer of Code 2026** | Contributor | Building production-minded open-source systems with clean architecture, tests, and maintainable implementation notes |
-| **Nexus Spring of Code 2026** | Contributor | Contributing fast-moving fixes and features across Nexus community projects while keeping PRs useful, tested, and merge-ready |
-
-**Current open-source focus:** agentic AI, RAG systems, NLP, OpenCV/computer vision, security hardening, scalable APIs, CI/testing, and contributor tooling.
-
-### 2026 Program Highlights
-
-| Track | Current Signal | Proof / Profile |
-|---|---|---|
-| **GSSoC 2026** | 7,600+ official points, top leaderboard pressure, and active work to convert merged PRs into scored labels | [Public GSSoC profile](https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac) |
-| **Google Summer of Code 2026** | Contributor focused on production-grade implementation, tests, documentation, and maintainable architecture | [GSoC program](https://summerofcode.withgoogle.com/) |
-| **NSoC 2026** | Contributor to fast-moving Nexus Spring of Code projects with emphasis on real fixes, security, AI tooling, and backend reliability | Nexus Spring of Code 2026 |
-| **Execution Style** | Diversified PRs, issue-first work, contribution-guideline checks, focused maintainer replies, and tested implementation notes | [GitHub activity](https://github.com/saurabhhhcodes) |
-
-<a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
-  <img src="https://img.shields.io/badge/GSSoC_2026-7600%2B_pts_%7C_Top_Leaderboard_Push-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026 7600+ points and top leaderboard push" />
-</a>
-<a href="https://summerofcode.withgoogle.com/">
-  <img src="https://img.shields.io/badge/GSoC_2026-Selected_Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="GSoC 2026 Selected Contributor" />
-</a>
-<a href="https://github.com/saurabhhhcodes">
-  <img src="https://img.shields.io/badge/NSoC_2026-Nexus_Contributor-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="NSoC 2026 Nexus Contributor" />
-</a>
-
-</div>
+**Current execution principle:** diversify across projects, read contribution guidelines, avoid unassigned/contested issues, and prioritize advanced/critical scored merges plus merged-PR label conversion before chasing raw count.
 
 ## 🚀 About Me
 
