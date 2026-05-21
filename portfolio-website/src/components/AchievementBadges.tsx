@@ -33,7 +33,7 @@ const achievements: Achievement[] = [
     {
         title: 'GSSoC 2026',
         icon: '🌐',
-        description: '7,600+ Points · 12K Morning Target',
+        description: '7,600+ Official Points',
         link: 'https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac',
         color: '#FF6B35',
     },

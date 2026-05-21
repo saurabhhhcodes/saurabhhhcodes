@@ -41,9 +41,6 @@ function App() {
               <a className="program-badge gssoc" href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac" target="_blank" rel="noreferrer">
                 GSSoC 2026 · 7,600+ pts
               </a>
-              <a className="program-badge target" href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac" target="_blank" rel="noreferrer">
-                Target · 12,000+ by morning
-              </a>
               <a className="program-badge nsoc" href="https://github.com/saurabhhhcodes" target="_blank" rel="noreferrer">
                 NSoC 2026 · Contributor
               </a>

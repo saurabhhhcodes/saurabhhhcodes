@@ -18,12 +18,6 @@
 
 <br><br>
 
-<a href="https://github.com/saurabhhhcodes">
-  <img src="https://img.shields.io/badge/Target-12K%2B_By_Morning-00C2A8?style=for-the-badge&logo=target&logoColor=white&labelColor=101828" alt="12000+ points target" />
-</a>
-
-<br><br>
-
 <a href="https://summerofcode.withgoogle.com/">
   <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101828" alt="GSoC 2026 Contributor" />
 </a>
@@ -51,7 +45,6 @@ I am pushing a high-quality GSSoC/NSoC/GSoC contribution pipeline across AI, bac
 **Live signals**
 
 - **Official GSSoC score:** 7,600+ points
-- **Tomorrow morning target:** 12,000+ points and rank #1 pressure
 - **Daily mix:** 10 beginner, 10 intermediate, 10 advanced, 10 critical where labels and assignments genuinely support the scope
 - **Primary lanes:** label conversion, merge-ready PRs, advanced/critical issues, and diversified repositories
 

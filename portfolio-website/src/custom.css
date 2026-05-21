@@ -80,11 +80,6 @@ body {
   box-shadow: 0 12px 30px rgba(255, 107, 53, 0.22);
 }
 
-.program-badge.target {
-  background: linear-gradient(135deg, rgba(0, 194, 168, 0.92), rgba(16, 185, 129, 0.72));
-  box-shadow: 0 12px 30px rgba(0, 194, 168, 0.2);
-}
-
 .program-badge.nsoc {
   background: linear-gradient(135deg, rgba(124, 58, 237, 0.95), rgba(167, 139, 250, 0.72));
   box-shadow: 0 12px 30px rgba(124, 58, 237, 0.22);

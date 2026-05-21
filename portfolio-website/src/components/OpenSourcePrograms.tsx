@@ -24,9 +24,9 @@ const programStats: ProgramStat[] = [
         detail: 'Current score, before pending syncs',
     },
     {
-        label: 'Morning Target',
-        value: '12K+',
-        detail: 'Rank #1 pressure through scored merges',
+        label: 'Review Focus',
+        value: 'Clean',
+        detail: 'Scoped PRs with validation notes',
     },
     {
         label: 'Daily PR Ceiling',
