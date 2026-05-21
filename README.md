@@ -6,7 +6,9 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=390&lines=AI+%7C+RAG+%7C+Backend;GSSoC+%7C+NSoC+%7C+GSoC;Reviewed+and+tested+PRs" alt="Typing SVG" />
+**AI | RAG | Backend**  
+**GSSoC | NSoC | GSoC**  
+**Reviewed and tested open-source PRs**
 
 <br>
 
@@ -483,7 +485,7 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 
 **"The best code is no code at all."** – Jeff Atwood
 
-<img src="https://readme-typing-svg.demolab.com?size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+🚀" alt="Typing SVG" />
+**Thanks for visiting my profile. Let's build useful systems and reliable open source.**
 
 </div>
 
