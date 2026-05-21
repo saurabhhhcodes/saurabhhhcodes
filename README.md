@@ -38,15 +38,16 @@
 
 <br>
 
-### Open Source Command Center · 2026
+### Open Source Work · 2026
 
-I am pushing a high-quality GSSoC/NSoC/GSoC contribution pipeline across AI, backend, security, testing, and developer tooling projects. The focus is not raw PR spam: every contribution is issue-first, guideline-aware, tested locally where possible, and written for maintainers to review quickly.
+I contribute across GSSoC, NSoC, and GSoC-aligned open-source projects with a focus on practical engineering work: AI systems, backend reliability, security hardening, tests, CI, documentation, and developer tooling.
 
-**Live signals**
+**Contribution principles**
 
-- **Official GSSoC score:** 7,600+ points
-- **Daily mix:** 10 beginner, 10 intermediate, 10 advanced, 10 critical where labels and assignments genuinely support the scope
-- **Primary lanes:** label conversion, merge-ready PRs, advanced/critical issues, and diversified repositories
+- **Issue-first:** understand the problem, project rules, and maintainer expectations before implementation.
+- **Review-friendly:** keep PRs scoped, readable, and easy to validate.
+- **Tested where possible:** include local validation notes, screenshots, or focused checks for every meaningful change.
+- **Maintainer-aware:** avoid duplicated work, respect assignment workflows, and follow up with clear technical context.
 
 **2026 proof signals**
 
@@ -54,7 +55,7 @@ I am pushing a high-quality GSSoC/NSoC/GSoC contribution pipeline across AI, bac
 - **NSoC:** Nexus contributor pipeline
 - **GSoC:** production-minded contributor
 - **Technical focus:** agentic AI, RAG, NLP, OpenCV, APIs, CI
-- **Contribution standard:** assigned issues, real fixes, tests, human follow-ups
+- **Contribution standard:** assigned issues, useful fixes, tests, clear PR notes, and respectful follow-ups
 
 <div align="center">
 
@@ -73,7 +74,7 @@ I am pushing a high-quality GSSoC/NSoC/GSoC contribution pipeline across AI, bac
 - **Nexus Spring of Code 2026:** Contributor to fast-moving Nexus projects with focus on tested, useful, maintainable changes.
 - **Google Summer of Code 2026:** Contributor focused on production-minded implementation, clean architecture, documentation, and reviewer-friendly notes.
 
-**Current execution principle:** diversify across projects, read contribution guidelines, avoid unassigned/contested issues, and prioritize advanced/critical scored merges plus merged-PR label conversion before chasing raw count.
+**Working style:** I prefer focused, maintainable contributions across multiple active repositories instead of overloading a single project with unrelated PRs.
 
 ## 🚀 About Me
 

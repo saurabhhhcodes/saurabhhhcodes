@@ -49,9 +49,9 @@ function App() {
               </a>
             </div>
             <div className="hero-open-source-panel" aria-label="Current open source focus">
-              <span>40 useful PR/day ceiling</span>
-              <span>10 Beginner · 10 Intermediate · 10 Advanced · 10 Critical</span>
-              <span>Label conversion · Merge-ready PRs · Critical lanes</span>
+              <span>Issue-first open-source contributions</span>
+              <span>AI · Backend · Security · Testing · Developer tooling</span>
+              <span>Scoped PRs with clear validation notes</span>
             </div>
             <div className="hero-actions">
               <Button variant="primary" href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac" target="_blank" rel="noreferrer">

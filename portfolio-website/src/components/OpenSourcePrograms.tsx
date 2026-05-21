@@ -19,24 +19,24 @@ interface ProgramStat {
 
 const programStats: ProgramStat[] = [
     {
-        label: 'Official GSSoC Score',
-        value: '7.6K+',
-        detail: 'Current score, before pending syncs',
+        label: 'Contribution Style',
+        value: 'Issue-first',
+        detail: 'Assigned, scoped, and maintainer-aware',
     },
     {
-        label: 'Review Focus',
+        label: 'Review Standard',
         value: 'Clean',
         detail: 'Scoped PRs with validation notes',
     },
     {
-        label: 'Daily PR Ceiling',
-        value: '40',
-        detail: 'Only when issues, labels, and quality support it',
+        label: 'Core Areas',
+        value: 'AI + Backend',
+        detail: 'Security, testing, CI, docs, tooling',
     },
     {
-        label: 'Difficulty Mix',
-        value: '10x4',
-        detail: 'Beginner, intermediate, advanced, critical',
+        label: 'Program Focus',
+        value: '2026',
+        detail: 'GSSoC, GSoC, and NSoC contributions',
     },
 ];
 
@@ -45,7 +45,7 @@ const programs: Program[] = [
         name: 'GSSoC 2026',
         role: 'Contributor · Open Source + AI/Agents',
         detail: 'Shipping reviewed PRs across approved projects in AI/ML, agentic AI, RAG, backend reliability, security, testing, and documentation.',
-        metric: '7,600+ official points, 30+ merged PR days, and a balanced beginner-to-critical contribution pipeline',
+        metric: 'Issue-first contributions with clear validation, focused scope, and maintainer-friendly review notes',
         link: 'https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac',
         accent: '#FF6B35',
     },
@@ -67,8 +67,6 @@ const programs: Program[] = [
 ];
 
 const focusAreas = ['Agentic AI', 'RAG', 'NLP', 'OpenCV', 'Security', 'APIs', 'Testing', 'CI/CD'];
-const difficultyMix = ['Beginner', 'Intermediate', 'Advanced', 'Critical'];
-
 const OpenSourcePrograms: React.FC = () => (
     <section id="opensource" className="opensource-section">
         <Fade>
@@ -118,15 +116,16 @@ const OpenSourcePrograms: React.FC = () => (
                     <span key={area}>{area}</span>
                 ))}
             </div>
-            <div className="opensource-difficulty" aria-label="GSSoC daily contribution mix">
-                <strong>Balanced GSSoC mix:</strong>
-                {difficultyMix.map((difficulty) => (
-                    <span key={difficulty}>10 {difficulty}</span>
-                ))}
+            <div className="opensource-difficulty" aria-label="Open source contribution standard">
+                <strong>Contribution standard:</strong>
+                <span>Assigned issues</span>
+                <span>Focused scope</span>
+                <span>Local validation</span>
+                <span>Clear follow-ups</span>
             </div>
             <p className="opensource-note">
-                Current operating priority: convert merged PRs into scored labels, push approved/green PRs over the line,
-                then pick new assigned advanced and critical issues across fresh repositories.
+                I focus on useful, reviewable changes across active repositories, with enough context for maintainers
+                to understand what changed and how it was tested.
             </p>
         </Fade>
     </section>
