@@ -20,12 +20,12 @@ interface ProgramStat {
 const programStats: ProgramStat[] = [
     {
         label: 'GSSoC Rank',
-        value: '#1',
-        detail: 'Contributor leaderboard snapshot',
+        value: 'Top',
+        detail: 'Leaderboard pressure active',
     },
     {
         label: 'Official Points',
-        value: '4,344+',
+        value: '7,600+',
         detail: 'Tracked GSSoC score and rising',
     },
     {
@@ -45,7 +45,7 @@ const programs: Program[] = [
         name: 'GSSoC 2026',
         role: 'Contributor · Open Source + AI/Agents',
         detail: 'Shipping reviewed PRs across approved projects in AI/ML, agentic AI, RAG, backend reliability, security, testing, and documentation.',
-        metric: 'Rank #1 snapshot with 4,344+ official points and active label conversion work',
+        metric: '7,600+ official points with active label conversion and top-rank pressure',
         link: 'https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac',
         accent: '#FF6B35',
     },

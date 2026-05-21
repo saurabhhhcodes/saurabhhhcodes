@@ -33,7 +33,7 @@ const achievements: Achievement[] = [
     {
         title: 'GSSoC 2026',
         icon: '🌐',
-        description: 'Rank #1 Snapshot · 4,344+ Points',
+        description: '7,600+ Points · Top Leaderboard Push',
         link: 'https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac',
         color: '#FF6B35',
     },

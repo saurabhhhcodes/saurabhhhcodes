@@ -57,8 +57,8 @@
 
 | Signal | Current Snapshot |
 |---|---|
-| **GSSoC 2026 Global Rank** | **Rank #1 on the contributor leaderboard snapshot, 4,344+ official points, 30+ merged PR day in progress** |
-| **GSSoC Tracker Footprint** | 30+ scored/merged PRs across 13+ repositories, with Open Source + AI/Agents track work |
+| **GSSoC 2026 Global Push** | **7,600+ official points, top leaderboard pressure, and active work to convert merged PRs into scored labels** |
+| **GSSoC Tracker Footprint** | 30+ merged PR days across 13+ repositories, with Open Source + AI/Agents track work |
 | **Primary Contribution Areas** | Agentic AI, RAG, NLP, OpenCV, security hardening, backend reliability, API design, CI/testing |
 | **Contribution Standard** | Real code changes, local validation, maintainer-specific follow-up, and score labels requested after merge |
 
@@ -74,12 +74,12 @@
 
 | Track | Current Signal | Proof / Profile |
 |---|---|---|
-| **GSSoC 2026** | Rank #1 contributor snapshot with 4,344+ official points and active work to convert merged PRs into scored labels | [Public GSSoC profile](https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac) |
+| **GSSoC 2026** | 7,600+ official points, top leaderboard pressure, and active work to convert merged PRs into scored labels | [Public GSSoC profile](https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac) |
 | **Google Summer of Code 2026** | Contributor focused on production-grade implementation, tests, documentation, and maintainable architecture | [GSoC program](https://summerofcode.withgoogle.com/) |
 | **NSoC 2026** | Contributor to fast-moving Nexus Spring of Code projects with emphasis on real fixes, security, AI tooling, and backend reliability | Nexus Spring of Code 2026 |
 
 <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
-  <img src="https://img.shields.io/badge/GSSoC_2026-Rank_%231_%7C_4344%2B_pts-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026 Rank 1 and 4344+ points" />
+  <img src="https://img.shields.io/badge/GSSoC_2026-7600%2B_pts_%7C_Top_Leaderboard_Push-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" alt="GSSoC 2026 7600+ points and top leaderboard push" />
 </a>
 <a href="https://summerofcode.withgoogle.com/">
   <img src="https://img.shields.io/badge/GSoC_2026-Selected_Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="GSoC 2026 Selected Contributor" />
