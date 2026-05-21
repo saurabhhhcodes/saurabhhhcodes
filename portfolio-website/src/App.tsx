@@ -37,6 +37,30 @@ function App() {
             <p style={{ textShadow: '0 0 5px rgba(255,255,255,0.5)' }}>
               <TypingAnimation />
             </p>
+            <div className="program-badge-row" aria-label="Open source program badges">
+              <a className="program-badge gssoc" href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac" target="_blank" rel="noreferrer">
+                GSSoC 2026 · 7,600+ pts
+              </a>
+              <a className="program-badge nsoc" href="https://github.com/saurabhhhcodes" target="_blank" rel="noreferrer">
+                NSoC 2026 · Contributor
+              </a>
+              <a className="program-badge gsoc" href="https://summerofcode.withgoogle.com/" target="_blank" rel="noreferrer">
+                GSoC 2026 · Open Source
+              </a>
+            </div>
+            <div className="hero-open-source-panel" aria-label="Current open source focus">
+              <span>40 useful PR/day pipeline</span>
+              <span>Beginner · Intermediate · Advanced · Critical</span>
+              <span>AI/Agents · Backend · Security · Testing</span>
+            </div>
+            <div className="hero-actions">
+              <Button variant="primary" href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac" target="_blank" rel="noreferrer">
+                View GSSoC Profile
+              </Button>
+              <Button variant="outline-info" href="#opensource">
+                Open Source Work
+              </Button>
+            </div>
           </Fade>
         </header>
 

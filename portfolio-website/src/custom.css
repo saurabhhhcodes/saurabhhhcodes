@@ -43,6 +43,84 @@ body {
   margin: 0 auto;
 }
 
+.program-badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin: 28px auto 0;
+  max-width: 900px;
+}
+
+.program-badge {
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 999px;
+  color: #ffffff;
+  display: inline-flex;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.2;
+  padding: 10px 16px;
+  text-decoration: none;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  white-space: nowrap;
+}
+
+.program-badge:hover {
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
+.program-badge.gssoc {
+  background: linear-gradient(135deg, rgba(255, 107, 53, 0.95), rgba(255, 142, 83, 0.72));
+  box-shadow: 0 12px 30px rgba(255, 107, 53, 0.22);
+}
+
+.program-badge.nsoc {
+  background: linear-gradient(135deg, rgba(124, 58, 237, 0.95), rgba(167, 139, 250, 0.72));
+  box-shadow: 0 12px 30px rgba(124, 58, 237, 0.22);
+}
+
+.program-badge.gsoc {
+  background: linear-gradient(135deg, rgba(66, 133, 244, 0.95), rgba(52, 168, 83, 0.7));
+  box-shadow: 0 12px 30px rgba(66, 133, 244, 0.22);
+}
+
+.hero-open-source-panel {
+  align-items: center;
+  background: rgba(10, 10, 10, 0.62);
+  border: 1px solid rgba(0, 217, 255, 0.22);
+  border-radius: 16px;
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.26);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 22px auto 0;
+  max-width: 920px;
+  padding: 14px 18px;
+}
+
+.hero-open-source-panel span {
+  color: #dbeafe;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.hero-open-source-panel span:not(:last-child)::after {
+  color: rgba(255, 255, 255, 0.32);
+  content: "|";
+  margin-left: 10px;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 28px;
+}
+
 section {
   padding: 80px 20px;
 }
@@ -178,6 +256,22 @@ footer {
 
   .App-header p {
     font-size: 20px;
+  }
+
+  .program-badge {
+    font-size: 13px;
+    white-space: normal;
+  }
+
+  .hero-open-source-panel {
+    align-items: stretch;
+    flex-direction: column;
+    max-width: 360px;
+  }
+
+  .hero-open-source-panel span:not(:last-child)::after {
+    content: '';
+    margin-left: 0;
   }
 
   .section-title {
