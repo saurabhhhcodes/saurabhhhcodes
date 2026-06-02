@@ -7,7 +7,7 @@
     "homepage": "https://github.com/saurabhhhcodes",
     "language": "TypeScript",
     "stargazers_count": 1,
-    "updated_at": "2026-06-01T02:53:41Z",
+    "updated_at": "2026-06-02T02:50:45Z",
     "topics": [
       "config",
       "github-config"
@@ -77,17 +77,6 @@
     "language": "Python",
     "stargazers_count": 0,
     "updated_at": "2026-03-16T15:13:34Z",
-    "topics": []
-  },
-  {
-    "id": 1179002899,
-    "name": "Nova Sentinel",
-    "description": "Nova Sentinel - Amazon Nova AI Hackathon 2026",
-    "html_url": "https://github.com/saurabhhhcodes/nova-sentinel",
-    "homepage": null,
-    "language": "Python",
-    "stargazers_count": 0,
-    "updated_at": "2026-03-11T15:32:34Z",
     "topics": []
   }
 ]
