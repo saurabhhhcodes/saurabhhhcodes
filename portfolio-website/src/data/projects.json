@@ -7,76 +7,10 @@
     "homepage": "https://github.com/saurabhhhcodes",
     "language": "TypeScript",
     "stargazers_count": 1,
-    "updated_at": "2026-06-02T02:50:45Z",
+    "updated_at": "2026-06-03T03:25:39Z",
     "topics": [
       "config",
       "github-config"
     ]
-  },
-  {
-    "id": 1238571641,
-    "name": "Agrivani",
-    "description": "AgriVani real-time multilingual AgriTech platform",
-    "html_url": "https://github.com/saurabhhhcodes/agrivani",
-    "homepage": null,
-    "language": "Python",
-    "stargazers_count": 0,
-    "updated_at": "2026-05-14T10:05:10Z",
-    "topics": []
-  },
-  {
-    "id": 1196343488,
-    "name": "Gsoc 2026 Deepchem Foundation Models",
-    "description": "GSoC 2026 Proposal: Scaling Biological Foundation Models in DeepChem.",
-    "html_url": "https://github.com/saurabhhhcodes/gsoc-2026-deepchem-foundation-models",
-    "homepage": null,
-    "language": "Python",
-    "stargazers_count": 0,
-    "updated_at": "2026-03-31T12:32:11Z",
-    "topics": []
-  },
-  {
-    "id": 1196341555,
-    "name": "Gsoc 2026 Cbioportal Ai Curation",
-    "description": "GSoC 2026 Proposal: AI-Assisted Curation Dashboard for cBioPortal.",
-    "html_url": "https://github.com/saurabhhhcodes/gsoc-2026-cbioportal-ai-curation",
-    "homepage": null,
-    "language": "Python",
-    "stargazers_count": 0,
-    "updated_at": "2026-03-30T16:01:33Z",
-    "topics": []
-  },
-  {
-    "id": 1196341525,
-    "name": "Gsoc 2026 Apidash Cli Mcp",
-    "description": "GSoC 2026 Proposal: CLI-first, MCP-enabled, and Agent-ready Ecosystem for API Dash.",
-    "html_url": "https://github.com/saurabhhhcodes/gsoc-2026-apidash-cli-mcp",
-    "homepage": null,
-    "language": "Dart",
-    "stargazers_count": 0,
-    "updated_at": "2026-03-30T16:01:25Z",
-    "topics": []
-  },
-  {
-    "id": 1183512983,
-    "name": "Plant Guardian Ai",
-    "description": "Next-gen context-aware plant health assistant powered by Gemini 2.5 Flash and ADK.",
-    "html_url": "https://github.com/saurabhhhcodes/plant-guardian-ai",
-    "homepage": null,
-    "language": "Python",
-    "stargazers_count": 0,
-    "updated_at": "2026-03-16T18:54:44Z",
-    "topics": []
-  },
-  {
-    "id": 1039435903,
-    "name": "Smart Plant Care Assistant",
-    "description": "AI-powered plant care assistant with computer vision analysis",
-    "html_url": "https://github.com/saurabhhhcodes/smart-plant-care-assistant",
-    "homepage": null,
-    "language": "Python",
-    "stargazers_count": 0,
-    "updated_at": "2026-03-16T15:13:34Z",
-    "topics": []
   }
 ]
