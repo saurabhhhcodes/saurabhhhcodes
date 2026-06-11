@@ -40,22 +40,11 @@
 
 ### Open Source Work · 2026
 
-I contribute across GSSoC, NSoC, and GSoC-aligned open-source projects with a focus on practical engineering work: AI systems, backend reliability, security hardening, tests, CI, documentation, and developer tooling.
+I ship working PRs across GSSoC, NSoC, and GSoC-aligned projects — AI systems, backend reliability, security hardening, testing, CI, and documentation.
 
-**Contribution principles**
-
-- **Issue-first:** understand the problem, project rules, and maintainer expectations before implementation.
-- **Review-friendly:** keep PRs scoped, readable, and easy to validate.
-- **Tested where possible:** include local validation notes, screenshots, or focused checks for every meaningful change.
-- **Maintainer-aware:** avoid duplicated work, respect assignment workflows, and follow up with clear technical context.
-
-**2026 proof signals**
-
-- **GSSoC:** Open Source + AI/Agents track
-- **NSoC:** Nexus contributor pipeline
-- **GSoC:** production-minded contributor
-- **Technical focus:** agentic AI, RAG, NLP, OpenCV, APIs, CI
-- **Contribution standard:** assigned issues, useful fixes, tests, clear PR notes, and respectful follow-ups
+<img src="https://img.shields.io/badge/PRs_Merged-50%2B-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="50+ Merged PRs" />
+<img src="https://img.shields.io/badge/Repos_Contributed-80%2B-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="80+ Repos" />
+<img src="https://img.shields.io/badge/Focus-AI_%7C_Backend_%7C_Security_%7C_Testing_%7C_Tooling-FF6B6B?style=for-the-badge&logo=code&logoColor=white&labelColor=101828" alt="Focus Areas" />
 
 <div align="center">
 
@@ -74,7 +63,6 @@ I contribute across GSSoC, NSoC, and GSoC-aligned open-source projects with a fo
 - **Nexus Spring of Code 2026:** Contributor to fast-moving Nexus projects with focus on tested, useful, maintainable changes.
 - **Google Summer of Code 2026:** Contributor focused on production-minded implementation, clean architecture, documentation, and reviewer-friendly notes.
 
-**Working style:** I prefer focused, maintainable contributions across multiple active repositories instead of overloading a single project with unrelated PRs.
 
 ## 🌟 Open Source Contributions
 
