@@ -245,19 +245,6 @@ I contribute to a wide range of open-source projects across AI/ML, web developme
 
 <br/>
 
-## 🏗️ My Projects
-
-<div align="center">
-
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| [**wanderlux**](https://github.com/saurabhhhcodes/wanderlux) | Luxury Travel Landing Page | |
-| [**prestige-estates**](https://github.com/saurabhhhcodes/prestige-estates) | Luxury Real Estate — Irvine CA | |
-| [**sentinelai**](https://github.com/saurabhhhcodes/sentinelai) | AI-powered monitoring & alerting | |
-
-</div>
-
-<br/>
 
 ## 🚀 About Me
 
