@@ -76,6 +76,150 @@ I contribute across GSSoC, NSoC, and GSoC-aligned open-source projects with a fo
 
 **Working style:** I prefer focused, maintainable contributions across multiple active repositories instead of overloading a single project with unrelated PRs.
 
+## 🌟 Open Source Contributions
+
+<div align="center">
+
+I contribute to a wide range of open-source projects across AI/ML, web development, developer tooling, security, and more.
+
+</div>
+
+<br/>
+
+### 🤖 AI/ML & Agent Systems
+
+| Project | Original Repo | Description | Live Demo |
+|---------|--------------|-------------|-----------|
+| [**AegisAI**](https://github.com/saurabhhhcodes/AegisAI) | [SdSarthak/AegisAI](https://github.com/SdSarthak/AegisAI) | Open-source AI Governance, Risk & Compliance (AI-GRC) platform | [🌐 Live](https://github.com/SdSarthak/AegisAI) |
+| [**ai-code-reviewer**](https://github.com/saurabhhhcodes/ai-code-reviewer) | [kalyan-1845/ai-code-reviewer](https://github.com/kalyan-1845/ai-code-reviewer) | AI-powered automated code review tool | |
+| [**AI-dev-assistant**](https://github.com/saurabhhhcodes/AI-dev-assistant) | [imDarshanGK/AI-dev-assistant](https://github.com/imDarshanGK/AI-dev-assistant) | AI-powered developer assistant for beginners | [🌐 Live](https://qyverixai.onrender.com) |
+| [**AI-Based-Video-Emotion-Detection**](https://github.com/saurabhhhcodes/AI-Based-Video-Emotion-Detection) | [divya16-boriwar/AI-Based-Video-Emotion-Detection](https://github.com/divya16-boriwar/AI-Based-Video-Emotion-Detection) | Video emotion detection using computer vision | |
+| [**arcmindAI**](https://github.com/saurabhhhcodes/arcmindAI) | [SATYAM-PRATIBHAN/arcmindAI](https://github.com/SATYAM-PRATIBHAN/arcmindAI) | AI-powered system architecture generator | [🌐 Live](https://arcmind-ai.netlify.app) |
+| [**Clinical-Insight-Engine**](https://github.com/saurabhhhcodes/Clinical-Insight-Engine) | [gopaljilab/Clinical-Insight-Engine](https://github.com/gopaljilab/Clinical-Insight-Engine) | Full-stack clinical decision support system | |
+| [**iloveAgents**](https://github.com/saurabhhhcodes/iloveAgents) | [AditthyaSS/iloveAgents](https://github.com/AditthyaSS/iloveAgents) | AI agents built by the community | [🌐 Live](https://iloveagents.vercel.app/) |
+| [**LogWatch-AI**](https://github.com/saurabhhhcodes/LogWatch-AI) | [kumariluckyraj/LogWatch-AI](https://github.com/kumariluckyraj/LogWatch-AI) | AI log monitoring and analysis | |
+| [**MicroAI-Paygate**](https://github.com/saurabhhhcodes/MicroAI-Paygate) | [AnkanMisra/MicroAI-Paygate](https://github.com/AnkanMisra/MicroAI-Paygate) | Crypto-monetized AI microservice architecture | [🌐 Live](https://microai-paygate.vercel.app) |
+| [**PDF-Assistant-RAG**](https://github.com/saurabhhhcodes/PDF-Assistant-RAG) | [param20h/PDF-Assistant-RAG](https://github.com/param20h/PDF-Assistant-RAG) | AI document assistant with RAG | [🌐 Live](https://param20h-pdf-assit-rag.hf.space) |
+| [**story-spark-ai**](https://github.com/saurabhhhcodes/story-spark-ai) | [ronisarkarexe/story-spark-ai](https://github.com/ronisarkarexe/story-spark-ai) | Open-source creative story generation platform | [🌐 Live](https://storysparkai.vercel.app) |
+| [**VidyaSetu**](https://github.com/saurabhhhcodes/VidyaSetu) | [MRIARC-08/VidyaSetu](https://github.com/MRIARC-08/VidyaSetu) | AI-powered NCERT study platform | [🌐 Live](https://vidya-setu-olive.vercel.app) |
+| [**AlgoBuddy**](https://github.com/saurabhhhcodes/AlgoBuddy) | [PankajSingh34/AlgoBuddy](https://github.com/PankajSingh34/AlgoBuddy) | Algorithm learning companion | |
+| [**NeuroVision**](https://github.com/saurabhhhcodes/NeuroVision) | [Brijeshthummar02/NeuroVision](https://github.com/Brijeshthummar02/NeuroVision) | Computer vision project | |
+| [**KisanAI**](https://github.com/saurabhhhcodes/KisanAI) | [asheesh109/KisanAI](https://github.com/asheesh109/KisanAI) | AI for agriculture | [🌐 Live](https://kisan-ai-m12i.vercel.app/) |
+| [**business-ai-agent**](https://github.com/saurabhhhcodes/business-ai-agent) | [mohitkumhar/business-ai-agent](https://github.com/mohitkumhar/business-ai-agent) | Business AI agent | |
+
+### 🌐 Web Apps & Full Stack
+
+| Project | Original Repo | Description | Live Demo |
+|---------|--------------|-------------|-----------|
+| [**100_days_100_web_project**](https://github.com/saurabhhhcodes/100_days_100_web_project) | [dhairyagothi/100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project) | 100 web projects from basic to intermediate | [🌐 Live](https://100-days-100-web-project.vercel.app/) |
+| [**Blood-Connect-By-ChronalLabs**](https://github.com/saurabhhhcodes/Blood-Connect-By-ChronalLabs) | [ChronalLabs/Blood-Connect-By-ChronalLabs](https://github.com/ChronalLabs/Blood-Connect-By-ChronalLabs) | Blood donation connect platform | [🌐 Live](https://blood-connect-by-chronallabs.onrender.com/) |
+| [**BiblioDrift**](https://github.com/saurabhhhcodes/BiblioDrift) | [devanshi14malhotra/BiblioDrift](https://github.com/devanshi14malhotra/BiblioDrift) | Digital bookstore experience | [🌐 Live](https://bibliodrift-dm.netlify.app/) |
+| [**CertiNova**](https://github.com/saurabhhhcodes/CertiNova) | [12fahed/CertiNova](https://github.com/12fahed/CertiNova) | Bulk certificate generator & validator | [🌐 Live](https://certinova.vercel.app) |
+| [**Checkora**](https://github.com/saurabhhhcodes/Checkora) | [Checkora/Checkora](https://github.com/Checkora/Checkora) | Chess platform with AI opponent | [🌐 Live](https://checkora.vercel.app) |
+| [**CODEVIBE-**](https://github.com/saurabhhhcodes/CODEVIBE-) | [JiyaBatra/CODEVIBE-](https://github.com/JiyaBatra/CODEVIBE-) | Interactive learning platform for beginners | [🌐 Live](https://codevibeforyou.netlify.app/) |
+| [**DevPath-Web**](https://github.com/saurabhhhcodes/DevPath-Web) | [devpathindcommunity-india/DevPath-Web](https://github.com/devpathindcommunity-india/DevPath-Web) | DevPath Community Website | [🌐 Live](https://devpath-website.web.app/) |
+| [**Draftdeckai**](https://github.com/saurabhhhcodes/Draftdeckai) | [Muneerali199/Draftdeckai](https://github.com/Muneerali199/Draftdeckai) | AI-powered document creation platform | [🌐 Live](https://draftdeckai.com) |
+| [**Easy.js_v.3.0.0**](https://github.com/saurabhhhcodes/Easy.js_v.3.0.0) | [thunderavi/Easy.js_v.3.0.0](https://github.com/thunderavi/Easy.js_v.3.0.0) | Developer-friendly backend DSL & framework | [🌐 Live](https://www.npmjs.com/package/easybackend.js) |
+| [**Eventra**](https://github.com/saurabhhhcodes/Eventra) | [SandeepVashishtha/Eventra](https://github.com/SandeepVashishtha/Eventra) | Comprehensive event management system | [🌐 Live](https://eventra.sandeepvashishtha.in) |
+| [**FlowForge**](https://github.com/saurabhhhcodes/FlowForge) | [Shriii19/FlowForge](https://github.com/Shriii19/FlowForge) | Developer collaboration platform | [🌐 Live](https://flowforge.nexly.store/) |
+| [**HELPDESK.AI**](https://github.com/saurabhhhcodes/HELPDESK.AI) | [ritesh-1918/HELPDESK.AI](https://github.com/ritesh-1918/HELPDESK.AI) | Full-stack AI helpdesk platform | [🌐 Live](https://helpdeskai1918.vercel.app) |
+| [**InternHack**](https://github.com/saurabhhhcodes/InternHack) | [Sachinchaurasiya360/InternHack](https://github.com/Sachinchaurasiya360/InternHack) | All-in-one hackathon SaaS platform | [🌐 Live](https://internhack.xyz) |
+| [**KrishiSetu**](https://github.com/saurabhhhcodes/KrishiSetu) | [aditiraj2006/KrishiSetu](https://github.com/aditiraj2006/KrishiSetu) | Farm-to-consumer traceability platform | [🌐 Live](https://krishisetu-server.onrender.com) |
+| [**MagicBoard**](https://github.com/saurabhhhcodes/MagicBoard) | [binarycodon/MagicBoard](https://github.com/binarycodon/MagicBoard) | Drawing shapes & images for SDLC diagramming | |
+| [**MedInternia**](https://github.com/saurabhhhcodes/MedInternia) | [AnirudhPhophalia/MedInternia](https://github.com/AnirudhPhophalia/MedInternia) | Medical internship platform | [🌐 Live](https://medinternia.vercel.app/) |
+| [**MooVit**](https://github.com/saurabhhhcodes/MooVit) | [ShubhangiRoy12/MooVit](https://github.com/ShubhangiRoy12/MooVit) | Smart safety assistant for visually impaired | [🌐 Live](https://moo-vit.vercel.app) |
+| [**NyayaVanni**](https://github.com/saurabhhhcodes/NyayaVanni) | [choudharyms/NyayaVanni](https://github.com/choudharyms/NyayaVanni) | Legal assistance platform | [🌐 Live](https://nyaya-vanni.vercel.app) |
+| [**OPSCORD**](https://github.com/saurabhhhcodes/OPSCORD) | [probably-ABHINAV/OPSCORD](https://github.com/probably-ABHINAV/OPSCORD) | Ops coordination tool | [🌐 Live](https://opscord-six.vercel.app) |
+| [**PiperChat01**](https://github.com/saurabhhhcodes/PiperChat01) | [chthonn/PiperChat01](https://github.com/chthonn/PiperChat01) | Discord-style real-time chat app | [🌐 Live](https://piperchat.vercel.app) |
+| [**QuickSheet**](https://github.com/saurabhhhcodes/QuickSheet) | [cemheren/QuickSheet](https://github.com/cemheren/QuickSheet) | Terminal spreadsheet / interactive desktop wallpaper | [🌐 Live](https://cemheren.github.io/QuickSheet/) |
+| [**ReadmeForge**](https://github.com/saurabhhhcodes/ReadmeForge) | [Mohit-368/ReadmeForge](https://github.com/Mohit-368/ReadmeForge) | Beautiful GitHub READMEs without Markdown knowledge | [🌐 Live](https://makeareadme.netlify.app/) |
+| [**reframe**](https://github.com/saurabhhhcodes/reframe) | [magic-peach/reframe](https://github.com/magic-peach/reframe) | Free, open-source browser video editor | [🌐 Live](https://reframe-lilac.vercel.app/) |
+| [**SafeVoice**](https://github.com/saurabhhhcodes/SafeVoice) | [Piyushydv08/SafeVoice](https://github.com/Piyushydv08/SafeVoice) | AI-powered anonymous support platform | [🌐 Live](https://safevoiceforwomen.netlify.app/) |
+| [**sahidawa-india**](https://github.com/saurabhhhcodes/sahidawa-india) | [RatLoopz/sahidawa-india](https://github.com/RatLoopz/sahidawa-india) | Medicine verification & pharmacy finder | [🌐 Live](https://sahidawa-india-web.vercel.app) |
+| [**SnapPass-AI**](https://github.com/saurabhhhcodes/SnapPass-AI) | [souma9830/SnapPass-AI](https://github.com/souma9830/SnapPass-AI) | AI-powered pass generation | [🌐 Live](https://snap-pass-ai-rho.vercel.app/) |
+| [**StackIt**](https://github.com/saurabhhhcodes/StackIt) | [Ashmita1206/StackIt](https://github.com/Ashmita1206/StackIt) | Modern full-stack Q&A platform | [🌐 Live](https://stack-it-v6rz.vercel.app/) |
+| [**SuperBrowser**](https://github.com/saurabhhhcodes/SuperBrowser) | [PandyaJeet/SuperBrowser](https://github.com/PandyaJeet/SuperBrowser) | Next-gen browsing platform with AI tools | [🌐 Live](https://superbrowser.web.app/) |
+| [**Tessera.io**](https://github.com/saurabhhhcodes/Tessera.io) | [Kushaal-k/Tessera.io](https://github.com/Kushaal-k/Tessera.io) | Collaborative developer sandbox | |
+| [**The-Leetcode-City**](https://github.com/saurabhhhcodes/The-Leetcode-City) | [Ixotic27/The-Leetcode-City](https://github.com/Ixotic27/The-Leetcode-City) | LeetCode practice platform | [🌐 Live](https://the-leetcode-city.vercel.app) |
+| [**The-Pacman-Game**](https://github.com/saurabhhhcodes/The-Pacman-Game) | [dishu4u/The-Pacman-Game](https://github.com/dishu4u/The-Pacman-Game) | Classic Pac-Man in Java Swing/AWT | |
+| [**UltimateHealth**](https://github.com/saurabhhhcodes/UltimateHealth) | [SB2318/UltimateHealth](https://github.com/SB2318/UltimateHealth) | Open-source health library & article platform | [🌐 Live](https://uhsocial.in) |
+| [**Vura**](https://github.com/saurabhhhcodes/Vura) | [omn7/Vura](https://github.com/omn7/Vura) | Event certificate generation & verification | |
+| [**Zeroly**](https://github.com/saurabhhhcodes/Zeroly) | [Sumwanyuno/Zeroly](https://github.com/Sumwanyuno/Zeroly) | Zero-waste platform | [🌐 Live](https://zeroly.netlify.app/) |
+| [**S72_Gaurav_Capstone_KampusKart**](https://github.com/saurabhhhcodes/S72_Gaurav_Capstone_KampusKart) | [Gaurav-205/S72_Gaurav_Capstone_KampusKart](https://github.com/Gaurav-205/S72_Gaurav_Capstone_KampusKart) | Campus portal — events, lost & found, clubs | [🌐 Live](https://kampuskart.netlify.app) |
+| [**otpauthentication**](https://github.com/saurabhhhcodes/otpauthentication) | [OpenTekHub/otpauthentication](https://github.com/OpenTekHub/otpauthentication) | Twilio + FastAPI OTP authentication | |
+| [**SmartClassroom**](https://github.com/saurabhhhcodes/SmartClassroom) | [Souhridya-Patra/SmartClassroom](https://github.com/Souhridya-Patra/SmartClassroom) | Automated classroom management system | |
+| [**codelockr-react**](https://github.com/saurabhhhcodes/codelockr-react) | [sleeptil3/codelockr-react](https://github.com/sleeptil3/codelockr-react) | Code snippets storage for developers | |
+| [**LuvLyricsApp**](https://github.com/saurabhhhcodes/LuvLyricsApp) | [LuvLyricsApp/LuvLyricsApp](https://github.com/LuvLyricsApp/LuvLyricsApp) | Lyrics application | |
+| [**LeadOrbit**](https://github.com/saurabhhhcodes/LeadOrbit) | [Kuldeeep18/LeadOrbit](https://github.com/Kuldeeep18/LeadOrbit) | Lead management platform | |
+
+### 🛠️ Developer Tools & Libraries
+
+| Project | Original Repo | Description | Live Demo |
+|---------|--------------|-------------|-----------|
+| [**arnio**](https://github.com/saurabhhhcodes/arnio) | [im-anishraj/arnio](https://github.com/im-anishraj/arnio) | C++-accelerated data quality toolkit for Python | [🌐 Live](https://arnio.vercel.app/) |
+| [**CodeGraphContext**](https://github.com/saurabhhhcodes/CodeGraphContext) | [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | MCP server + CLI for code graph context | [🌐 Live](https://cgc.codes) |
+| [**devtrack**](https://github.com/saurabhhhcodes/devtrack) | [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) | Developer productivity dashboard | [🌐 Live](https://devtrack-delta.vercel.app) |
+| [**dripsflow**](https://github.com/saurabhhhcodes/dripsflow) | [Ugasutun/fundflow](https://github.com/Ugasutun/fundflow) | Web3 contributor funding dashboard | [🌐 Live](https://dripsflow.vercel.app/) |
+| [**ELDA**](https://github.com/saurabhhhcodes/ELDA) | [ayushmaan-verma/ELDA](https://github.com/ayushmaan-verma/ELDA) | C++17 linear algebra library | [🌐 Live](https://elda-three.vercel.app) |
+| [**EnvForage**](https://github.com/saurabhhhcodes/EnvForage) | [rishabh0510rishabh/EnvForage](https://github.com/rishabh0510rishabh/EnvForage) | Environment variable manager | [🌐 Live](https://envforage.xyz) |
+| [**fauxx**](https://github.com/saurabhhhcodes/fauxx) | [digital-grease/fauxx](https://github.com/digital-grease/fauxx) | Data poisoning for tracking protection | |
+| [**Find**](https://github.com/saurabhhhcodes/Find) | [Abhash-Chakraborty/Find](https://github.com/Abhash-Chakraborty/Find) | Local-first AI-powered image search | |
+| [**github-profile-analyzer**](https://github.com/saurabhhhcodes/github-profile-analyzer) | [0xarchit/github-profile-analyzer](https://github.com/0xarchit/github-profile-analyzer) | AI-powered GitHub profile analyzer | [🌐 Live](https://github.0xarchit.is-a.dev) |
+| [**gitverse-nextjs**](https://github.com/saurabhhhcodes/gitverse-nextjs) | [nisshchayarathi/gitverse-nextjs](https://github.com/nisshchayarathi/gitverse-nextjs) | Interactive GitHub repo architecture map | |
+| [**gssoc-ops**](https://github.com/saurabhhhcodes/gssoc-ops) | [NachiketPatil26/gssoc-ops](https://github.com/NachiketPatil26/gssoc-ops) | Claude Code skill for GSSoC contributions | |
+| [**hybrid-recommender**](https://github.com/saurabhhhcodes/hybrid-recommender) | [leonagoel/hybrid-recommender](https://github.com/leonagoel/hybrid-recommender) | Hybrid recommender system | |
+| [**kerno**](https://github.com/saurabhhhcodes/kerno) | [optiqor/kerno](https://github.com/optiqor/kerno) | System-level incident diagnosis engine | |
+| [**LLMesh**](https://github.com/saurabhhhcodes/LLMesh) | [Nkovaturient/LLMesh](https://github.com/Nkovaturient/LLMesh) | Browser-based P2P encrypted chat mesh | [🌐 Live](https://llmesh.vercel.app) |
+| [**networkdiagram**](https://github.com/saurabhhhcodes/networkdiagram) | [kathan-majithia/networkdiagram](https://github.com/kathan-majithia/networkdiagram) | Python library for CPM/PERT network diagrams | [🌐 Live](https://pypi.org/project/networkdiagram/) |
+| [**Project-Arbiter**](https://github.com/saurabhhhcodes/Project-Arbiter) | [Sid-352/Project-Arbiter](https://github.com/Sid-352/Project-Arbiter) | Automation engine in Rust | |
+| [**prompt-engineering-skill**](https://github.com/saurabhhhcodes/prompt-engineering-skill) | [PhAlves23/prompt-engineering-skill](https://github.com/PhAlves23/prompt-engineering-skill) | Claude Code prompt engineering skill | |
+| [**py-vetlog-buddy**](https://github.com/saurabhhhcodes/py-vetlog-buddy) | [josdem/py-vetlog-buddy](https://github.com/josdem/py-vetlog-buddy) | Data analysis for Vetlog database | [🌐 Live](https://vetlog.org/) |
+| [**remote-monitor**](https://github.com/saurabhhhcodes/remote-monitor) | [LMLiam/remote-monitor](https://github.com/LMLiam/remote-monitor) | Go TUI for remote system monitoring | |
+| [**RepoReaper**](https://github.com/saurabhhhcodes/RepoReaper) | [kanak227/RepoReaper](https://github.com/kanak227/RepoReaper) | Bulk repo management tool | [🌐 Live](https://reporeaper-frontend.onrender.com) |
+| [**Saas-workspace-api**](https://github.com/saurabhhhcodes/Saas-workspace-api) | [riya-kaurav/Saas-workspace-api](https://github.com/riya-kaurav/Saas-workspace-api) | Auth, JWT & RBAC backend demo | |
+| [**tokenfirewall**](https://github.com/saurabhhhcodes/tokenfirewall) | [Ruthwik000/tokenfirewall](https://github.com/Ruthwik000/tokenfirewall) | LLM cost enforcement middleware for Node.js | [🌐 Live](https://www.npmjs.com/package/tokenfirewall) |
+| [**trx**](https://github.com/saurabhhhcodes/trx) | [pie-314/trx](https://github.com/pie-314/trx) | TUI package manager | [🌐 Live](https://trx.pidev.tech) |
+| [**Truxify**](https://github.com/saurabhhhcodes/Truxify) | [KanishJebaMathewM/Truxify](https://github.com/KanishJebaMathewM/Truxify) | Open-source Flutter logistics platform | |
+| [**vodka**](https://github.com/saurabhhhcodes/vodka) | [DevanshuTripathi/vodka](https://github.com/DevanshuTripathi/vodka) | Modern Go web framework with hot-reload | [🌐 Live](https://vodka-go.vercel.app) |
+
+### 📚 Learning & DSA
+
+| Project | Original Repo | Description | Live Demo |
+|---------|--------------|-------------|-----------|
+| [**450-dsa**](https://github.com/saurabhhhcodes/450-dsa) | [mohitkumhar/450-dsa](https://github.com/mohitkumhar/450-dsa) | 450+ DSA problems covering all patterns | [🌐 Live](https://450-ds.vercel.app) |
+| [**dsaTracker**](https://github.com/saurabhhhcodes/dsaTracker) | [ashish-066/dsaTracker](https://github.com/ashish-066/dsaTracker) | DSA progress tracker | [🌐 Live](https://dsa-tracker-nu-lilac.vercel.app) |
+| [**GSoC-Org-Finder-**](https://github.com/saurabhhhcodes/GSoC-Org-Finder-) | [S3DFX-CYBER/GSoC-Org-Finder-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) | Find your perfect GSoC 2026 organization | [🌐 Live](https://findmygsoc.vercel.app/) |
+| [**hpc-clustering-framework**](https://github.com/saurabhhhcodes/hpc-clustering-framework) | [Izpiz06/hpc-clustering-framework](https://github.com/Izpiz06/hpc-clustering-framework) | HPC ML optimization & GPU acceleration | |
+| [**innovation-lab-examples**](https://github.com/saurabhhhcodes/innovation-lab-examples) | [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) | Fetch.ai Innovation Lab examples | |
+| [**openCSE**](https://github.com/saurabhhhcodes/openCSE) | [pushkarscripts/openCSE](https://github.com/pushkarscripts/openCSE) | Free, open CSE subject documentation | [🌐 Live](https://opencse.vercel.app/) |
+| [**ScoutBot**](https://github.com/saurabhhhcodes/ScoutBot) | [TechHub-Extensions/ScoutBot](https://github.com/TechHub-Extensions/ScoutBot) | Opportunity list for Nigerian students | [🌐 Live](https://techhub-extensions.github.io/ScoutBot/) |
+| [**StudyPlan**](https://github.com/saurabhhhcodes/StudyPlan) | [Charushi06/StudyPlan](https://github.com/Charushi06/StudyPlan) | Study planning platform | [🌐 Live](https://studyplan-jvgd.onrender.com/) |
+| [**med-genie**](https://github.com/saurabhhhcodes/med-genie) | [aayushraj1010/med-genie](https://github.com/aayushraj1010/med-genie) | Medical study companion | [🌐 Live](https://med-genie-five.vercel.app) |
+
+### 🔒 Security & Governance
+
+| Project | Original Repo | Description | Live Demo |
+|---------|--------------|-------------|-----------|
+| [**ADIUVARE**](https://github.com/saurabhhhcodes/ADIUVARE) | [0-Shimanshu/ADIUVARE](https://github.com/0-Shimanshu/ADIUVARE) | Dynamic risk-scoring security layer for Python web apps | |
+| [**SecuScan**](https://github.com/saurabhhhcodes/SecuScan) | [utksh1/SecuScan](https://github.com/utksh1/SecuScan) | Security scanning tool | |
+| [**ReGenX**](https://github.com/saurabhhhcodes/ReGenX) | [Shruti070107/ReGenX](https://github.com/Shruti070107/ReGenX) | Bio-waste logistics, ESG & carbon intelligence | |
+
+### 🌾 Agriculture & Healthcare
+
+| Project | Original Repo | Description | Live Demo |
+|---------|--------------|-------------|-----------|
+| [**Agri-Vision**](https://github.com/saurabhhhcodes/Agri-Vision) | [neeru24/Agri-Vision](https://github.com/neeru24/Agri-Vision) | AI cotton crop analysis with deep learning | [🌐 Live](https://agri-vision-3.onrender.com/) |
+
+<div align="center">
+
+<br/>
+<img src="https://img.shields.io/badge/Open_Source_Contributions-80%2B-00D9FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="80+ Open Source Contributions" />
+<img src="https://img.shields.io/badge/Projects_Contributed-80%2B-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="80+ Projects" />
+
+</div>
+
+<br/>
+
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -483,4 +627,4 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 
 </div>
 
-<!-- Last updated: June 11, 2026 at 15:40 UTC -->
+<!-- Last updated: June 11, 2026 at 16:10 UTC -->
