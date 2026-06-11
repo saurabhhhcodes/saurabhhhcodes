@@ -13,10 +13,37 @@
 <br>
 
 <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
-  <img src="https://img.shields.io/badge/GSSoC_2026-7.6K%2B_Points-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 7600+ official points" />
+  <img src="https://img.shields.io/badge/GSSoC_2026-35.9K%2B_Points-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 35900+ official points" />
 </a>
 
 <br><br>
+
+<a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rank_1.png" width="80px" alt="GSSoC Rank 1" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_3.png" width="80px" alt="GSSoC Top 3" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_10.png" width="80px" alt="GSSoC Top 10" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_50.png" width="80px" alt="GSSoC Top 50" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_100.png" width="80px" alt="GSSoC Top 100" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-elite.png" width="80px" alt="GSSoC Elite" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-gssoc_champion.png" width="80px" alt="GSSoC Champion" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-power_contributor.png" width="80px" alt="GSSoC Power Contributor" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-prolific.png" width="80px" alt="GSSoC Prolific" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-legend.png" width="80px" alt="GSSoC Legend" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-on_a_roll.png" width="80px" alt="GSSoC On a Roll" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-building_momentum.png" width="80px" alt="GSSoC Building Momentum" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rising_star.png" width="80px" alt="GSSoC Rising Star" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-point_scorer.png" width="80px" alt="GSSoC Point Scorer" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_hunter.png" width="80px" alt="GSSoC Bounty Hunter" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_master.png" width="80px" alt="GSSoC Bounty Master" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-role_contributor.png" width="80px" alt="GSSoC Contributor" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-profile_complete.png" width="80px" alt="GSSoC Profile Complete" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-discord_verified.png" width="80px" alt="GSSoC Discord Verified" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-first_steps.png" width="80px" alt="GSSoC First Steps" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-getting_started.png" width="80px" alt="GSSoC Getting Started" />
+  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-week_one.png" width="80px" alt="GSSoC Week One" />
+</a>
+
+<br>
 
 <a href="https://summerofcode.withgoogle.com/">
   <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101828" alt="GSoC 2026 Contributor" />
