@@ -1,65 +1,73 @@
 <div align="center">
 
-<h1>Saurabh Kumar<br>Bajpai</h1>
+<h1>Saurabh Kumar Bajpai</h1>
 
-<strong>AI Engineer · Open Source 2026<br>Agentic Systems</strong>
+<strong>AI Engineer · Open Source Contributor · Agentic Systems</strong>
+
+<br>
+
+<img src="https://img.shields.io/badge/GSSoC_2026-%23_8_Rank-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 Rank #8" />
+<img src="https://img.shields.io/badge/Score-35.9K-00D9FF?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="35.9K Points" />
+<img src="https://img.shields.io/badge/PRs_Merged-312-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=101828" alt="312 PRs Merged" />
+<img src="https://img.shields.io/badge/Projects-71-20BEFF?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="71 Projects" />
+<img src="https://img.shields.io/badge/Bounties-6-FF6B6B?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="6 Bounties" />
 
 <br><br>
 
-**AI | RAG | Backend**  
-**GSSoC | NSoC | GSoC**  
-**Reviewed and tested open-source PRs**
+**AI · RAG · Backend · Security · Testing · CI/CD**  
+**GSSoC #8 · GSoC 2026 · NSoC 2026**
 
 <br>
 
 <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
-  <img src="https://img.shields.io/badge/GSSoC_2026-35.9K%2B_Points-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 35900+ official points" />
+  <img src="https://img.shields.io/badge/GSSoC_2026_Profile-Rank_%238_%E2%80%A2_35.9K_Pts-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 Rank #8" />
 </a>
-
-<br><br>
-
-<a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rank_1.png" width="80px" alt="GSSoC Rank 1" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_3.png" width="80px" alt="GSSoC Top 3" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_10.png" width="80px" alt="GSSoC Top 10" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_50.png" width="80px" alt="GSSoC Top 50" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_100.png" width="80px" alt="GSSoC Top 100" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-elite.png" width="80px" alt="GSSoC Elite" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-gssoc_champion.png" width="80px" alt="GSSoC Champion" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-power_contributor.png" width="80px" alt="GSSoC Power Contributor" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-prolific.png" width="80px" alt="GSSoC Prolific" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-legend.png" width="80px" alt="GSSoC Legend" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-on_a_roll.png" width="80px" alt="GSSoC On a Roll" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-building_momentum.png" width="80px" alt="GSSoC Building Momentum" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rising_star.png" width="80px" alt="GSSoC Rising Star" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-point_scorer.png" width="80px" alt="GSSoC Point Scorer" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_hunter.png" width="80px" alt="GSSoC Bounty Hunter" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_master.png" width="80px" alt="GSSoC Bounty Master" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-role_contributor.png" width="80px" alt="GSSoC Contributor" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-profile_complete.png" width="80px" alt="GSSoC Profile Complete" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-discord_verified.png" width="80px" alt="GSSoC Discord Verified" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-first_steps.png" width="80px" alt="GSSoC First Steps" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-getting_started.png" width="80px" alt="GSSoC Getting Started" />
-  <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-week_one.png" width="80px" alt="GSSoC Week One" />
-</a>
-
-<br>
 
 <a href="https://summerofcode.withgoogle.com/">
   <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101828" alt="GSoC 2026 Contributor" />
 </a>
 
-<br><br>
-
 <a href="https://github.com/saurabhhhcodes">
   <img src="https://img.shields.io/badge/NSoC_2026-Contributor-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="NSoC 2026 Contributor" />
 </a>
 
-<br><br>
-
 <a href="https://github.com/saurabhhhcodes?tab=followers">
   <img src="https://img.shields.io/github/followers/saurabhhhcodes?label=Followers&style=for-the-badge&logo=github&color=00D9FF&labelColor=101828" alt="GitHub Followers" />
 </a>
+
+<br><br>
+
+<div align="center">
+  <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rank_1.png" width="65px" alt="Rank 1" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_3.png" width="65px" alt="Top 3" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_10.png" width="65px" alt="Top 10" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_50.png" width="65px" alt="Top 50" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_100.png" width="65px" alt="Top 100" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-elite.png" width="65px" alt="Elite" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-gssoc_champion.png" width="65px" alt="Champion" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-power_contributor.png" width="65px" alt="Power Contributor" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-prolific.png" width="65px" alt="Prolific" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-legend.png" width="65px" alt="Legend" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-on_a_roll.png" width="65px" alt="On a Roll" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-building_momentum.png" width="65px" alt="Building Momentum" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rising_star.png" width="65px" alt="Rising Star" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-point_scorer.png" width="65px" alt="Point Scorer" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_hunter.png" width="65px" alt="Bounty Hunter" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_master.png" width="65px" alt="Bounty Master" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-role_contributor.png" width="65px" alt="Contributor" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-profile_complete.png" width="65px" alt="Profile Complete" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-discord_verified.png" width="65px" alt="Discord Verified" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-first_steps.png" width="65px" alt="First Steps" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-getting_started.png" width="65px" alt="Getting Started" />
+    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-week_one.png" width="65px" alt="Week One" />
+  </a>
+</div>
 
 </div>
 
@@ -121,6 +129,7 @@ I contribute to a wide range of open-source projects across AI/ML, web developme
 | [**NeuroVision**](https://github.com/saurabhhhcodes/NeuroVision) | [Brijeshthummar02/NeuroVision](https://github.com/Brijeshthummar02/NeuroVision) | Computer vision project | |
 | [**KisanAI**](https://github.com/saurabhhhcodes/KisanAI) | [asheesh109/KisanAI](https://github.com/asheesh109/KisanAI) | AI for agriculture | [🌐 Live](https://kisan-ai-m12i.vercel.app/) |
 | [**business-ai-agent**](https://github.com/saurabhhhcodes/business-ai-agent) | [mohitkumhar/business-ai-agent](https://github.com/mohitkumhar/business-ai-agent) | Business AI agent | |
+| [**career-pilot**](https://github.com/saurabhhhcodes/career-pilot) | [anurag3407/career-pilot](https://github.com/anurag3407/career-pilot) | AI-powered career platform for resume optimization & mock interviews | |
 
 ### 🌐 Web Apps & Full Stack
 
@@ -183,6 +192,7 @@ I contribute to a wide range of open-source projects across AI/ML, web developme
 | [**gitverse-nextjs**](https://github.com/saurabhhhcodes/gitverse-nextjs) | [nisshchayarathi/gitverse-nextjs](https://github.com/nisshchayarathi/gitverse-nextjs) | Interactive GitHub repo architecture map | |
 | [**gssoc-ops**](https://github.com/saurabhhhcodes/gssoc-ops) | [NachiketPatil26/gssoc-ops](https://github.com/NachiketPatil26/gssoc-ops) | Claude Code skill for GSSoC contributions | |
 | [**hybrid-recommender**](https://github.com/saurabhhhcodes/hybrid-recommender) | [leonagoel/hybrid-recommender](https://github.com/leonagoel/hybrid-recommender) | Hybrid recommender system | |
+| [**Jatin-lean**](https://github.com/saurabhhhcodes/Jatin-lean) | [decodejatin/Jatin-lean](https://github.com/decodejatin/Jatin-lean) | Lean development toolkit | |
 | [**kerno**](https://github.com/saurabhhhcodes/kerno) | [optiqor/kerno](https://github.com/optiqor/kerno) | System-level incident diagnosis engine | |
 | [**LLMesh**](https://github.com/saurabhhhcodes/LLMesh) | [Nkovaturient/LLMesh](https://github.com/Nkovaturient/LLMesh) | Browser-based P2P encrypted chat mesh | [🌐 Live](https://llmesh.vercel.app) |
 | [**networkdiagram**](https://github.com/saurabhhhcodes/networkdiagram) | [kathan-majithia/networkdiagram](https://github.com/kathan-majithia/networkdiagram) | Python library for CPM/PERT network diagrams | [🌐 Live](https://pypi.org/project/networkdiagram/) |
@@ -230,6 +240,20 @@ I contribute to a wide range of open-source projects across AI/ML, web developme
 <br/>
 <img src="https://img.shields.io/badge/Open_Source_Contributions-80%2B-00D9FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="80+ Open Source Contributions" />
 <img src="https://img.shields.io/badge/Projects_Contributed-80%2B-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="80+ Projects" />
+
+</div>
+
+<br/>
+
+## 🏗️ My Projects
+
+<div align="center">
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| [**wanderlux**](https://github.com/saurabhhhcodes/wanderlux) | Luxury Travel Landing Page | |
+| [**prestige-estates**](https://github.com/saurabhhhcodes/prestige-estates) | Luxury Real Estate — Irvine CA | |
+| [**sentinelai**](https://github.com/saurabhhhcodes/sentinelai) | AI-powered monitoring & alerting | |
 
 </div>
 
