@@ -81,6 +81,14 @@ I ship working PRs across GSSoC, NSoC, and GSoC-aligned projects — AI systems,
 <img src="https://img.shields.io/badge/Repos_Contributed-80%2B-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="80+ Repos" />
 <img src="https://img.shields.io/badge/Focus-AI_%7C_Backend_%7C_Security_%7C_Testing_%7C_Tooling-FF6B6B?style=for-the-badge&logo=code&logoColor=white&labelColor=101828" alt="Focus Areas" />
 
+<br><br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+</div>
+
+<br>
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhhhcodes&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
@@ -491,6 +499,14 @@ graph TD
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="AI agents working" />
+</div>
+
+<br>
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -608,6 +624,14 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 <img src="https://img.shields.io/badge/AI_Integrations-8+-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integrations" />
 
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Let's connect" />
+</div>
+
+<br>
 
 ## 📫 Let's Connect!
 
