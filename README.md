@@ -91,7 +91,7 @@ I ship working PRs across GSSoC, NSoC, and GSoC-aligned projects — AI systems,
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhhhcodes&theme=tokyonight" alt="GitHub Profile Summary" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhhhcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Profile" width="96%" />
 
 <br>
 
