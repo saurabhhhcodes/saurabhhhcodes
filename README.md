@@ -84,7 +84,7 @@ I ship working PRs across GSSoC, NSoC, and GSoC-aligned projects — AI systems,
 <br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Developer coding" />
 </div>
 
 <br>
@@ -502,7 +502,7 @@ graph TD
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="AI agents working" />
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="300" alt="AI Agent" />
 </div>
 
 <br>
@@ -628,7 +628,7 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Let's connect" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" alt="Developer connecting" />
 </div>
 
 <br>
