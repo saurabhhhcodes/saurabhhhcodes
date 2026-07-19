@@ -628,7 +628,7 @@ A modern API-first platform for managing workspaces, assets, kits, and retrieval
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" alt="Developer connecting" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Developer connecting" />
 </div>
 
 <br>
