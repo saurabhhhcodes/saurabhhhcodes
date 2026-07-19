@@ -511,117 +511,82 @@ graph TD
 
 <div align="center">
 
-### 🏆 **[Deal Doctor](https://github.com/saurabhhhcodes/deal-doctor)** - Agent.AI Global Challenge Winner
-**🌐 Autonomous HubSpot CRM Automation System**
-- 🤖 **Tech Stack**: Agent.AI, HubSpot API, Multi-Agent System, Autonomous Workflows
-- 🎯 **Features**: Automated deal pipeline management, intelligent lead scoring, autonomous follow-ups
-- 📊 **Impact**: Winner of Agent.AI Global Challenge for innovative autonomous CRM automation
-- 🌟 **Highlights**: Multi-agent orchestration, real-time CRM updates, intelligent decision-making
-- 🏆 **Status**: Award-winning production-ready autonomous agent system
-- 🔗 **Recognition**: Global Agent.AI Challenge Winner
+### 🏆 **[Chatlly RAG Assistant](https://github.com/saurabhhhcodes/chatlly)** — Enterprise RAG Knowledge Assistant
+**🌐 [LIVE PLATFORM](https://pal.chatlly.com) — Production-ready RAG + AgentKit for regulated industries**
+- **Stack**: FastAPI, Next.js, Chroma, OpenAI, AgentKit, OCR
+- **Features**: Multi-format ingestion (PDF, CSV, DOCX), OAuth/SSO, conversational memory, agentic reasoning
+- **Security**: Bearer token auth, citations, metadata tracking, Docker deployment
 
 ---
 
-### 🥗 **[NutriSync](https://github.com/saurabhhhcodes/nutrisync)** - AI-Powered Nutrition & Fitness Tracker
-**🌐 [LIVE APP](https://nutrisync.vercel.app) - Comprehensive nutrition and fitness tracking platform**
-- 🤖 **Tech Stack**: React, Node.js, MongoDB, OpenAI API, Nutrition API
-- 🎯 **Features**: AI-powered meal planning, calorie tracking, personalized workout recommendations
-- 📊 **Capabilities**: Barcode scanning, recipe suggestions, progress analytics, macro tracking
-- 🌟 **Highlights**: Real-time nutrition data, custom meal plans, fitness goal tracking
-- 🏆 **Status**: Production-ready with comprehensive health and fitness features
-- 🔬 **AI Integration**: Personalized recommendations, intelligent meal suggestions
+### 📅 **[AI Outlook Calendar Agent](https://github.com/saurabhhhcodes/ai-outlook-calendar-agent)** — Multi-Tenant Calendar Management
+**🌐 [LIVE APP](https://ai-outlook-calendar-agent.streamlit.app) — Autonomous NLP agents for Outlook automation**
+- **Stack**: Microsoft Graph API, LangChain, OAuth, Multi-tenant Architecture
+- **Impact**: 40% reduction in administrative overhead for calendar management
+- **Security**: OAuth integration, secure API access, tenant isolation
 
 ---
 
-### 💻 **[You.Fyi](https://you-fyi.onrender.com/ui/)**
-A modern API-first platform for managing workspaces, assets, kits, and retrieval-augmented generation (RAG) with OpenAI LLM integration.
-- 🛠️ **Tech Stack**: Python
+### 🧬 **[OpenBioGen-AI](https://github.com/saurabhhhcodes/OpenBioGen-AI)** — Advanced AI Bioinformatics Platform
+**🌐 [LIVE DEMO](https://openbiogen-ai.streamlit.app/) — AI-powered bioinformatics system**
+- **Stack**: Streamlit, LangChain, HuggingFace Transformers, Tavily API
+- **Features**: Gene-disease analysis, clinical decision support, network analysis
+- **AI**: Open-source LLMs, scientific literature search, evidence-based recommendations
 
 ---
 
-### 📅 **[AI Outlook Calendar Agent](https://github.com/saurabhhhcodes/ai-outlook-calendar-agent)** - Multi-Tenant Calendar Management
-**🌐 [LIVE APP](https://ai-outlook-calendar-agent.streamlit.app) - Autonomous NLP agents for Microsoft Outlook calendar automation**
-- 🤖 **Tech Stack**: Microsoft Graph API, LangChain, Multi-tenant Architecture, OAuth
-- 🎯 **Features**: Personal/business email login, automatic event scheduling, NLP processing
-- 📊 **Impact**: 40% reduction in administrative overhead for calendar management
-- 🌟 **Highlights**: Multi-tenant support, autonomous agent deployment, secure authentication
-- 🏆 **Status**: Production deployment with enterprise-grade security
-- 🔐 **Security**: OAuth integration, secure API access, tenant isolation
+### 🧬 **[GeneInsight Platform](https://github.com/saurabhhhcodes/geneinsight-platform)** — AI-Enhanced SaaS Bioinformatics
+**🌐 [LIVE SAAS](https://geneinsight-platform.vercel.app/) — Multi-tenant bioinformatics with LangChain AI**
+- **Stack**: Next.js 15, Spring Boot 3.2, Python Flask, LangChain, PostgreSQL
+- **Features**: Conversational AI, molecular docking, 3D visualization, COVID-19 analysis
+- **Business**: SaaS with subscription billing ($0–$199/mo)
 
----
+</div>
 
-### 💬 **[Chatlly RAG Assistant](https://github.com/saurabhhhcodes/chatlly)** - Enterprise RAG Knowledge Assistant
-**🌐 [LIVE PLATFORM](https://pal.chatlly.com) - Production-ready RAG + AgentKit demo for regulated industries**
-- 🤖 **Tech Stack**: FastAPI, Next.js, Chroma, OpenAI, AgentKit, OCR (Tesseract)
-- 🎯 **Features**: Multi-format ingestion (PDF, CSV, DOCX), OAuth/SSO, conversational memory
-- 📊 **Capabilities**: Agentic reasoning, multi-step workflows, secure knowledge retrieval
-- 🌟 **Highlights**: Bearer token auth, citations, metadata tracking, Docker deployment
-- 🏆 **Status**: Client delivery ready with enterprise security features
-- 🔒 **Security**: Regulated industry compliance, secure document processing
+<br>
 
----
+## 🌟 Featured Open Source Contributions
 
-### 🔬 **[Catalyst Bio](https://github.com/saurabhhhcodes/catalyst-bio)** - Next-Generation Bioinformatics Platform
-**Complete rewrite of GeneInsight with multi-agent architecture**
-- 🧬 **Tech Stack**: Streamlit, FastAPI, Multi-Agent System, Machine Learning, Chroma DB
-- 🎯 **Features**: Genomics, Transcriptomics, Proteomics, Drug Discovery, Structural Biology
-- 🤖 **AI Architecture**: Master Agent, Data Collection, Analysis, Modeling, Visualization Agents
-- 🌟 **Highlights**: 24 specialized modules, user authentication, API access, interactive plots
-- 🚀 **Status**: Production-ready with comprehensive bioinformatics workflows
-- 🔬 **Capabilities**: ADMET prediction, molecular docking, phylogenetic analysis, BLAST search
+<div align="center">
 
----
+### 🤖 AI & Agents
 
-### 🧬 **[OpenBioGen-AI](https://github.com/saurabhhhcodes/OpenBioGen-AI)** - Advanced Professional Bioinformatics Platform
-**🌐 [LIVE DEMO](https://openbiogen-ai.streamlit.app/) - Complete AI-powered bioinformatics system**
-- 🤖 **Tech Stack**: Streamlit, LangChain, HuggingFace Transformers, Tavily API, Python
-- 🎯 **Features**: Gene-disease association analysis, clinical decision support, network analysis
-- 📊 **Capabilities**: Multi-database integration (UniProt, KEGG, Reactome, NCBI), batch processing
-- 🌟 **Highlights**: Memory system (semantic, episodic, procedural), performance optimization, security auditing
-- 🏆 **Status**: Production-ready with advanced AI features and clinical applications
-- 🔬 **AI/ML**: Open-source LLMs, scientific literature search, evidence-based recommendations
+| Project | Contribution | Original Repo |
+|---------|-------------|---------------|
+| [**AegisAI**](https://github.com/saurabhhhcodes/AegisAI) | [PR: Security fixes, markdown sanitization](https://github.com/SdSarthak/AegisAI/pull/677) | [SdSarthak/AegisAI](https://github.com/SdSarthak/AegisAI) |
+| [**MicroAI-Paygate**](https://github.com/saurabhhhcodes/MicroAI-Paygate) | [PR: Streaming endpoint, Redis nonce store](https://github.com/AnkanMisra/MicroAI-Paygate/pull/193) | [AnkanMisra/MicroAI-Paygate](https://github.com/AnkanMisra/MicroAI-Paygate) |
+| [**PDF-Assistant-RAG**](https://github.com/saurabhhhcodes/PDF-Assistant-RAG) | [PR: Frontend tests, skeleton loading, mobile chat](https://github.com/param20h/PDF-Assistant-RAG/pull/385) | [param20h/PDF-Assistant-RAG](https://github.com/param20h/PDF-Assistant-RAG) |
+| [**story-spark-ai**](https://github.com/saurabhhhcodes/story-spark-ai) | AI-powered creative story generation platform | [ronisarkarexe/story-spark-ai](https://github.com/ronisarkarexe/story-spark-ai) |
 
----
+### 🛠️ Developer Tools & Backend
 
-### 🧬 **[GeneInsight Platform](https://github.com/saurabhhhcodes/geneinsight-platform)** - AI-Enhanced SaaS Bioinformatics
-**🌐 [LIVE SAAS](https://geneinsight-platform.vercel.app/) - Multi-tenant bioinformatics platform**
-- 🔬 **Tech Stack**: Next.js 15, Spring Boot 3.2, Python Flask, LangChain, PostgreSQL
-- 🎯 **Features**: Conversational AI assistant, molecular docking, 3D visualization, COVID-19 analysis
-- 📊 **Impact**: SaaS platform with subscription billing, multi-tenant architecture
-- 🌟 **Highlights**: LangChain AI chat, automatic sequence detection, real-time 3D molecular viewer
-- 🏆 **Status**: Production SaaS with pricing plans ($0-$199/mo) and enterprise features
-- 🤖 **AI Integration**: DialoGPT-small, context-aware responses, specialized viral protein analysis
+| Project | Contribution | Original Repo |
+|---------|-------------|---------------|
+| [**Truxify**](https://github.com/saurabhhhcodes/Truxify) | [PR: Escrow contracts, API validation, WebSocket fixes](https://github.com/KanishJebaMathewM/Truxify/pull/415) | [KanishJebaMathewM/Truxify](https://github.com/KanishJebaMathewM/Truxify) |
+| [**SecuScan**](https://github.com/saurabhhhcodes/SecuScan) | [PR: Command sanitization, pagination encoding](https://github.com/utksh1/SecuScan/pull/625) | [utksh1/SecuScan](https://github.com/utksh1/SecuScan) |
+| [**kerno**](https://github.com/saurabhhhcodes/kerno) | [PR: Testcontainers integration harness](https://github.com/optiqor/kerno/pull/164) | [optiqor/kerno](https://github.com/optiqor/kerno) |
+| [**ELDA**](https://github.com/saurabhhhcodes/ELDA) | [PR: Matrix validation, inverse pivot fixes](https://github.com/ayushmaan-verma/ELDA/pull/26) | [ayushmaan-verma/ELDA](https://github.com/ayushmaan-verma/ELDA) |
 
----
+### 🌐 Web Apps
 
-### 🌱 **[Smart Plant Care Assistant](https://github.com/saurabhhhcodes/smart-plant-care-assistant-1)** - AI Plant Health Monitor
-**🌐 [LIVE APP](https://smart-plant-care-langchain.streamlit.app/) - AI-powered plant care with real LLMs**
-- 🔬 **Tech Stack**: Streamlit, LangChain, OpenCV, Multiple LLM providers (OpenAI, Anthropic, Meta)
-- 🎯 **Features**: Image analysis with confidence scores, AI chat assistant, plant health diagnostics
-- 📈 **Capabilities**: Disease detection, personalized care recommendations, mobile-friendly interface
-- 🌟 **Highlights**: 20 free trials, subscription packages, email notifications, user authentication
-- 🚀 **Status**: Production-ready with multiple LLM provider support
-- 🤖 **AI Features**: Computer vision analysis, confidence scoring, context-aware plant care advice
+| Project | Contribution | Original Repo |
+|---------|-------------|---------------|
+| [**InternHack**](https://github.com/saurabhhhcodes/InternHack) | [PR: Score validation, application actions](https://github.com/Sachinchaurasiya360/InternHack/pull/1436) | [Sachinchaurasiya360/InternHack](https://github.com/Sachinchaurasiya360/InternHack) |
+| [**FlowForge**](https://github.com/saurabhhhcodes/FlowForge) | Developer collaboration platform | [Shriii19/FlowForge](https://github.com/Shriii19/FlowForge) |
+| [**VidyaSetu**](https://github.com/saurabhhhcodes/VidyaSetu) | [PR: Auth fixes, NCERT chapter rendering](https://github.com/MRIARC-08/VidyaSetu/pull/230) | [MRIARC-08/VidyaSetu](https://github.com/MRIARC-08/VidyaSetu) |
 
----
+### 🏥 Healthcare & Agriculture
 
-### 📱 **Laundrify Application** - On-Demand Laundry Service
-**Full-stack mobile application for laundry service management**
-- 📱 **Tech Stack**: React Native, Spring Boot, Real-time Tracking, Payment Integration
-- 🎯 **Features**: Order tracking, integrated payments, service scheduling, user management
-- 🌟 **Highlights**: Real-time order updates, secure payment processing, mobile-first design
-- 🚀 **Status**: Complete full-stack implementation with production features
-- 💳 **Payments**: Integrated payment gateway, order management, service tracking
+| Project | Contribution | Original Repo |
+|---------|-------------|---------------|
+| [**Clinical-Insight-Engine**](https://github.com/saurabhhhcodes/Clinical-Insight-Engine) | [PR: CSV sanitizer, rate limiting](https://github.com/gopaljilab/Clinical-Insight-Engine/pull/809) | [gopaljilab/Clinical-Insight-Engine](https://github.com/gopaljilab/Clinical-Insight-Engine) |
+| [**MedInternia**](https://github.com/saurabhhhcodes/MedInternia) | [PR: Medical case evaluation, banner upload](https://github.com/AnirudhPhophalia/MedInternia/pull/178) | [AnirudhPhophalia/MedInternia](https://github.com/AnirudhPhophalia/MedInternia) |
+| [**Agri-Vision**](https://github.com/saurabhhhcodes/Agri-Vision) | AI cotton crop analysis with deep learning | [neeru24/Agri-Vision](https://github.com/neeru24/Agri-Vision) |
 
-
-
-
-### 📊 Project Statistics
-<img src="https://img.shields.io/badge/Total_Projects-278+-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
-<img src="https://img.shields.io/badge/Languages_Used-12+-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
-<img src="https://img.shields.io/badge/Live_Deployments-5+-20BEFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Deployments" />
-<img src="https://img.shields.io/badge/SaaS_Platforms-2+-00D9FF?style=for-the-badge&logo=stripe&logoColor=white" alt="SaaS Platforms" />
-<img src="https://img.shields.io/badge/AI_Integrations-8+-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integrations" />
+<br/>
+<img src="https://img.shields.io/badge/Merged_PRs-312-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="312 Merged PRs" />
+<img src="https://img.shields.io/badge/Projects_Contributed-71-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="71 Projects" />
+<img src="https://img.shields.io/badge/GSSoC_Rank-%238-FF6B35?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="GSSoC Rank #8" />
 
 </div>
 
