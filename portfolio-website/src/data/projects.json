@@ -7,11 +7,22 @@
     "homepage": "https://github.com/saurabhhhcodes",
     "language": "TypeScript",
     "stargazers_count": 2,
-    "updated_at": "2026-07-22T01:55:42Z",
+    "updated_at": "2026-07-23T02:03:33Z",
     "topics": [
       "config",
       "github-config"
     ]
+  },
+  {
+    "id": 1196341555,
+    "name": "Gsoc 2026 Cbioportal Ai Curation",
+    "description": "GSoC 2026 Proposal: AI-Assisted Curation Dashboard for cBioPortal.",
+    "html_url": "https://github.com/saurabhhhcodes/gsoc-2026-cbioportal-ai-curation",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 1,
+    "updated_at": "2026-07-22T15:35:11Z",
+    "topics": []
   },
   {
     "id": 1039435903,
