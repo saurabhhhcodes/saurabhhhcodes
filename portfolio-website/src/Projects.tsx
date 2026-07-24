@@ -7,6 +7,20 @@ import './Projects.css';
 const projects = [
   {
     id: 0,
+    name: "Prestige Estates — Ultra-Luxury Real Estate Web Platform 🏰",
+    html_url: "https://github.com/saurabhhhcodes/prestige-estates",
+    demo_url: "https://legendary-tapioca-50caa6.netlify.app",
+    description: "🏰 LIVE APP: Ultra-luxury real estate web platform designed for high-end Irvine, CA properties. Features interactive property showcases, search filters, luxury photo galleries, glassmorphic UI cards, and responsive design system. Tech Stack: HTML5, Vanilla CSS3, JavaScript, Netlify CLI",
+  },
+  {
+    id: 1,
+    name: "Wanderlux Landing — Bespoke Travel Experience Platform ✈️",
+    html_url: "https://github.com/saurabhhhcodes/wanderlux-landing",
+    demo_url: "https://animated-profiterole-542134.netlify.app",
+    description: "✈️ LIVE APP: Ultra-luxury bespoke travel destination platform. Features curated itineraries (Amalfi Coast, Kyoto, Patagonia), booking/enquiry modal workflow, micro-animations, HD imagery, and dark modern aesthetic. Tech Stack: HTML5, CSS3, Unsplash HD Media, JavaScript, Netlify CLI",
+  },
+  {
+    id: 2,
     name: "Deal Doctor - Agent.AI Global Challenge Winner 🏆",
     html_url: "https://github.com/saurabhhhcodes/deal-doctor",
     demo_url: "https://agent.ai/agent/thedealdoctor",
