@@ -258,7 +258,7 @@ I contribute to a wide range of open-source projects across AI/ML, web developme
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 ```javascript
 const saurabh = {
@@ -542,6 +542,20 @@ graph TD
 - **Stack**: Next.js 15, Spring Boot 3.2, Python Flask, LangChain, PostgreSQL
 - **Features**: Conversational AI, molecular docking, 3D visualization, COVID-19 analysis
 - **Business**: SaaS with subscription billing ($0–$199/mo)
+
+---
+
+### 🏰 **[Prestige Estates](https://github.com/saurabhhhcodes/prestige-estates)** — Ultra-Luxury Real Estate Web Platform
+**🌐 [LIVE WEBSITE](https://legendary-tapioca-50caa6.netlify.app) — Modern luxury real estate showcase for Irvine, CA**
+- **Stack**: HTML5, Vanilla CSS3, JavaScript, Glassmorphism, Modern Typography
+- **Features**: Interactive property listings, search filters, luxury photo galleries, enquiry modals
+
+---
+
+### ✈️ **[Wanderlux Landing](https://github.com/saurabhhhcodes/wanderlux-landing)** — Ultra-Luxury Bespoke Travel Landing
+**🌐 [LIVE WEBSITE](https://animated-profiterole-542134.netlify.app) — Bespoke travel experiences platform**
+- **Stack**: HTML5, CSS3, Unsplash HD Media, Micro-animations, Custom Design System
+- **Features**: Curated destination showcases (Amalfi Coast, Kyoto, Patagonia), booking modals, dark aesthetic
 
 </div>
 
