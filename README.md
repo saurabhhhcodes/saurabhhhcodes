@@ -6,21 +6,20 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/GSSoC_2026-%23_8_Rank-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 Rank #8" />
-<img src="https://img.shields.io/badge/Score-35.9K-00D9FF?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="35.9K Points" />
-<img src="https://img.shields.io/badge/PRs_Merged-312-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=101828" alt="312 PRs Merged" />
-<img src="https://img.shields.io/badge/Projects-71-20BEFF?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="71 Projects" />
-<img src="https://img.shields.io/badge/Bounties-6-FF6B6B?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="6 Bounties" />
+<img src="https://img.shields.io/badge/GSSoC_2026-%23_6_Rank-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 Rank #6" />
+<img src="https://img.shields.io/badge/Score-155.5K-00D9FF?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="155.5K Points" />
+<img src="https://img.shields.io/badge/Tier-S_Tier-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=101828" alt="S Tier Contributor" />
+<img src="https://img.shields.io/badge/Tracks-Open_Source_+_AI/Agents-20BEFF?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="Open Source + AI/Agents" />
 
 <br><br>
 
 **AI · RAG · Backend · Security · Testing · CI/CD**  
-**GSSoC #8 · GSoC 2026 · NSoC 2026**
+**GSSoC #6 (S-Tier) · GSoC 2026 · NSoC 2026**
 
 <br>
 
 <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
-  <img src="https://img.shields.io/badge/GSSoC_2026_Profile-Rank_%238_%E2%80%A2_35.9K_Pts-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 Rank #8" />
+  <img src="https://img.shields.io/badge/GSSoC_2026_Profile-Rank_%236_%E2%80%A2_155.5K_Pts-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 Rank #6" />
 </a>
 <a href="https://summerofcode.withgoogle.com/">
   <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101828" alt="GSoC 2026 Contributor" />
@@ -520,7 +519,7 @@ graph TD
 <br/>
 <img src="https://img.shields.io/badge/Merged_PRs-500%2B-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="500+ Merged PRs" />
 <img src="https://img.shields.io/badge/Projects_Contributed-44-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="44 Projects" />
-<img src="https://img.shields.io/badge/GSSoC_Rank-%238-FF6B35?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="GSSoC Rank #8" />
+<img src="https://img.shields.io/badge/GSSoC_Rank-%236-FF6B35?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="GSSoC Rank #6" />
 
 </div>
 
