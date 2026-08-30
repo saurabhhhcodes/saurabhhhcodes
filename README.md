@@ -423,7 +423,7 @@ graph TD
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Systems
 
 <div align="center">
 
@@ -434,47 +434,79 @@ graph TD
 
 ---
 
-### 🏆 **[Chatlly RAG Assistant](https://pal.chatlly.com/)** — Enterprise RAG Knowledge Assistant
-**🌐 [LIVE PLATFORM](https://pal.chatlly.com/) — Production-ready RAG + AgentKit for regulated industries**
+### 🏆 **[Deal Doctor](https://agent.ai/agent/thedealdoctor)** — Agent.AI Global Challenge Winner
+**🌐 [AGENT.AI LIVE AGENT](https://agent.ai/agent/thedealdoctor) — Autonomous HubSpot CRM Automation System**
+- **Stack**: Agent.AI, HubSpot API, Multi-Agent System, Autonomous Orchestration
+- **Features**: Intelligent deal pipeline management, automated lead scoring, autonomous follow-ups & CRM synchronization
+
+---
+
+### 🏆 **[Chatlly RAG Assistant](https://pal.chatlly.com/)** — Enterprise Knowledge Assistant
+**🌐 [LIVE PLATFORM](https://pal.chatlly.com/) · [GitHub](https://github.com/saurabhhhcodes/Chatlly)**
 - **Stack**: FastAPI, Next.js, Chroma, OpenAI, AgentKit, OCR
-- **Features**: Multi-format ingestion (PDF, CSV, DOCX), OAuth/SSO, conversational memory, agentic reasoning
-- **Security**: Bearer token auth, citations, metadata tracking, Docker deployment
+- **Features**: Multi-format document ingestion (PDF, CSV, DOCX), OAuth/SSO, conversational memory, agentic reasoning
+- **Security**: Bearer token auth, source citations, metadata tracking, Docker deployment
+
+---
+
+### 🧠 **[HelixMind](https://helixmind.onrender.com)** — Gemini 2.0 Flash Thinking AI Platform
+**🌐 [LIVE APP](https://helixmind.onrender.com) · [GitHub](https://github.com/saurabhhhcodes/HelixMind)**
+- **Stack**: React, Flask, Google Gemini 2.0 Flash Thinking API, Render
+- **Features**: Real-time streaming reasoning traces, multi-turn cognitive workflows, high-precision problem solving
+
+---
+
+### 🤖 **[Sahayak.AI](https://sahayak-ai.vercel.app)** — Open-Source Multi-LLM Assistant Platform
+**🌐 [LIVE PLATFORM](https://sahayak-ai.vercel.app) · [GitHub](https://github.com/saurabhhhcodes/SahayakAI)**
+- **Stack**: React, FastAPI, LangChain, Multi-LLM Fallback (Groq, Claude, OpenRouter, HuggingFace)
+- **Features**: Video search, image generation, mermaid diagram rendering, zero rate-limit fallback routing
 
 ---
 
 ### 📅 **[AI Outlook Calendar Agent](https://ai-outlook-calendar-agent.streamlit.app/)** — Multi-Tenant Calendar Management
-**🌐 [LIVE APP](https://ai-outlook-calendar-agent.streamlit.app/) — Autonomous NLP agents for Outlook automation**
-- **Stack**: Microsoft Graph API, LangChain, OAuth, Multi-tenant Architecture
-- **Impact**: 40% reduction in administrative overhead for calendar management
-- **Security**: OAuth integration, secure API access, tenant isolation
+**🌐 [LIVE APP](https://ai-outlook-calendar-agent.streamlit.app/) · [GitHub](https://github.com/saurabhhhcodes/ai-outlook-calendar-agent)**
+- **Stack**: Microsoft Graph API, LangChain, OAuth 2.0, Multi-tenant Architecture
+- **Impact**: 40% reduction in administrative overhead for calendar management with personal/work account auth
 
 ---
 
-### 🧬 **[OpenBioGen-AI](https://openbiogen-ai.streamlit.app/)** — Advanced AI Bioinformatics Platform
-**🌐 [LIVE DEMO](https://openbiogen-ai.streamlit.app/) — AI-powered bioinformatics system**
-- **Stack**: Streamlit, LangChain, HuggingFace Transformers, Tavily API
-- **Features**: Gene-disease analysis, clinical decision support, network analysis
-- **AI**: Open-source LLMs, scientific literature search, evidence-based recommendations
+### 🧬 **[OpenBioGen-AI](https://openbiogen-ai.streamlit.app/)** — Professional Bioinformatics Platform
+**🌐 [LIVE DEMO](https://openbiogen-ai.streamlit.app/) · [GitHub](https://github.com/saurabhhhcodes/OpenBioGen-AI)**
+- **Stack**: Streamlit, LangChain, HuggingFace Transformers, Tavily API, PubMed/OMIM ETL
+- **Features**: Gene-disease association prediction, clinical decision support, network analysis, retrieval explainability
 
 ---
 
 ### 🧬 **[GeneInsight Platform](https://geneinsight-platform.vercel.app/)** — AI-Enhanced SaaS Bioinformatics
-**🌐 [LIVE SAAS](https://geneinsight-platform.vercel.app/) — Multi-tenant bioinformatics with LangChain AI**
+**🌐 [LIVE SAAS](https://geneinsight-platform.vercel.app/) · [GitHub](https://github.com/saurabhhhcodes/geneinsight-platform)**
 - **Stack**: Next.js 15, Spring Boot 3.2, Python Flask, LangChain, PostgreSQL
-- **Features**: Conversational AI, molecular docking, 3D visualization, COVID-19 analysis
-- **Business**: SaaS with subscription billing ($0–$199/mo)
+- **Features**: Conversational AI assistant, molecular docking, 3D visualization, COVID-19 genomic analysis
+
+---
+
+### 🌱 **[Smart Plant Care Assistant](https://smart-plant-care-langchain.streamlit.app/)** — AI Plant Health Monitor
+**🌐 [LIVE APP](https://smart-plant-care-langchain.streamlit.app/) · [GitHub](https://github.com/saurabhhhcodes/smart-plant-care-assistant)**
+- **Stack**: Streamlit, LangChain, OpenCV, Multi-LLM Vision (OpenAI, Anthropic, Meta)
+- **Features**: Plant disease detection from leaf images, confidence scores, custom care treatment recommendations
+
+---
+
+### 🥗 **[NutriSync](https://aistudio.google.com/app/drive/1sl1Lf2U2UIRE1p9nPMjDzUvSqmT6iORt?showPreview=true&showAssistant=true)** — Dietary Intelligence & Fitness Platform
+**🌐 [LIVE APP](https://aistudio.google.com/app/drive/1sl1Lf2U2UIRE1p9nPMjDzUvSqmT6iORt?showPreview=true&showAssistant=true) · [GitHub](https://github.com/saurabhhhcodes/Nutri-Sync)**
+- **Stack**: React, Node.js, MongoDB, OpenAI API, Nutrition Intelligence APIs
+- **Features**: AI-driven meal planning, barcode calorie scanning, personalized workout routines, progress analytics
 
 ---
 
 ### 🏰 **[Prestige Estates](https://legendary-tapioca-50caa6.netlify.app)** — Ultra-Luxury Real Estate Web Platform
-**🌐 [LIVE WEBSITE](https://legendary-tapioca-50caa6.netlify.app) — Modern luxury real estate showcase for Irvine, CA**
-- **Stack**: HTML5, Vanilla CSS3, JavaScript, Glassmorphism, Modern Typography
-- **Features**: Interactive property listings, search filters, luxury photo galleries, enquiry modals
+**🌐 [LIVE WEBSITE](https://legendary-tapioca-50caa6.netlify.app) · [GitHub](https://github.com/saurabhhhcodes/prestige-estates)**
+- **Stack**: HTML5, Vanilla CSS3, JavaScript, Glassmorphic UI, Netlify CLI
+- **Features**: Interactive property showcase for Irvine CA, search filters, luxury photo galleries, enquiry modals
 
 ---
 
 ### ✈️ **[Wanderlux Landing](https://animated-profiterole-542134.netlify.app)** — Ultra-Luxury Bespoke Travel Landing
-**🌐 [LIVE WEBSITE](https://animated-profiterole-542134.netlify.app) — Bespoke travel experiences platform**
+**🌐 [LIVE WEBSITE](https://animated-profiterole-542134.netlify.app) · [GitHub](https://github.com/saurabhhhcodes/wanderlux-landing)**
 - **Stack**: HTML5, CSS3, Unsplash HD Media, Micro-animations, Custom Design System
 - **Features**: Curated destination showcases (Amalfi Coast, Kyoto, Patagonia), booking modals, dark aesthetic
 
