@@ -7,7 +7,7 @@
     "homepage": "https://github.com/saurabhhhcodes",
     "language": "TypeScript",
     "stargazers_count": 2,
-    "updated_at": "2026-08-29T05:00:50Z",
+    "updated_at": "2026-08-30T02:50:07Z",
     "topics": [
       "config",
       "github-config"
@@ -33,6 +33,61 @@
     "language": "Python",
     "stargazers_count": 0,
     "updated_at": "2026-07-21T21:18:24Z",
+    "topics": []
+  },
+  {
+    "id": 1238571641,
+    "name": "Agrivani",
+    "description": "AgriVani real-time multilingual AgriTech platform",
+    "html_url": "https://github.com/saurabhhhcodes/agrivani",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2026-05-14T10:05:10Z",
+    "topics": []
+  },
+  {
+    "id": 1196343488,
+    "name": "Gsoc 2026 Deepchem Foundation Models",
+    "description": "GSoC 2026 Proposal: Scaling Biological Foundation Models in DeepChem.",
+    "html_url": "https://github.com/saurabhhhcodes/gsoc-2026-deepchem-foundation-models",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2026-03-31T12:32:11Z",
+    "topics": []
+  },
+  {
+    "id": 1196341525,
+    "name": "Gsoc 2026 Apidash Cli Mcp",
+    "description": "GSoC 2026 Proposal: CLI-first, MCP-enabled, and Agent-ready Ecosystem for API Dash.",
+    "html_url": "https://github.com/saurabhhhcodes/gsoc-2026-apidash-cli-mcp",
+    "homepage": null,
+    "language": "Dart",
+    "stargazers_count": 0,
+    "updated_at": "2026-03-30T16:01:25Z",
+    "topics": []
+  },
+  {
+    "id": 1183512983,
+    "name": "Plant Guardian Ai",
+    "description": "Next-gen context-aware plant health assistant powered by Gemini 2.5 Flash and ADK.",
+    "html_url": "https://github.com/saurabhhhcodes/plant-guardian-ai",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2026-03-16T18:54:44Z",
+    "topics": []
+  },
+  {
+    "id": 1179002899,
+    "name": "Nova Sentinel",
+    "description": "Nova Sentinel - Amazon Nova AI Hackathon 2026",
+    "html_url": "https://github.com/saurabhhhcodes/nova-sentinel",
+    "homepage": null,
+    "language": "Python",
+    "stargazers_count": 0,
+    "updated_at": "2026-03-11T15:32:34Z",
     "topics": []
   }
 ]
