@@ -1,3 +1,5 @@
+> 🏆 Tracking all GitHub badges live in [BADGES.md](./BADGES.md) · ⭐ Star this repo if it helped you (2/16 to Starstruck) · 🤝 Pair log in [PAIR_LOG.md](./PAIR_LOG.md)
+
 <div align="center">
 
 # Saurabh Kumar Bajpai
