@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/GSSoC_2026-%23_6_Rank-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 Rank #6" />
 <img src="https://img.shields.io/badge/Score-155.5K-00D9FF?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="155.5K Points" />
 <img src="https://img.shields.io/badge/Tier-S_Tier-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=101828" alt="S Tier Contributor" />
 <img src="https://img.shields.io/badge/Tracks-Open_Source_+_AI/Agents-20BEFF?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="Open Source + AI/Agents" />
@@ -14,12 +13,11 @@
 <br><br>
 
 **AI · RAG · Backend · Security · Testing · CI/CD**  
-**GSSoC #6 (S-Tier) · GSoC 2026 · NSoC 2026**
+** · GSoC 2026 · NSoC 2026**
 
 <br>
 
-
-  <img src="https://img.shields.io/badge/GSSoC_2026_Profile-Rank_%236_%E2%80%A2_155.5K_Pts-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 Rank #6" />
+  
 
 <a href="https://summerofcode.withgoogle.com/">
   <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101828" alt="GSoC 2026 Contributor" />
@@ -35,33 +33,33 @@
 
 <div align="center">
   
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rank_1.png" width="65px" alt="Rank 1" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_3.png" width="65px" alt="Top 3" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_10.png" width="65px" alt="Top 10" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_50.png" width="65px" alt="Top 50" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_100.png" width="65px" alt="Top 100" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-elite.png" width="65px" alt="Elite" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-gssoc_champion.png" width="65px" alt="Champion" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-power_contributor.png" width="65px" alt="Power Contributor" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-prolific.png" width="65px" alt="Prolific" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-legend.png" width="65px" alt="Legend" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-on_a_roll.png" width="65px" alt="On a Roll" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-building_momentum.png" width="65px" alt="Building Momentum" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rising_star.png" width="65px" alt="Rising Star" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-point_scorer.png" width="65px" alt="Point Scorer" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_hunter.png" width="65px" alt="Bounty Hunter" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_master.png" width="65px" alt="Bounty Master" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   
 </div>
 
 <div align="center">
   
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-role_contributor.png" width="65px" alt="Contributor" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-profile_complete.png" width="65px" alt="Profile Complete" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-discord_verified.png" width="65px" alt="Discord Verified" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-first_steps.png" width="65px" alt="First Steps" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-getting_started.png" width="65px" alt="Getting Started" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-week_one.png" width="65px" alt="Week One" />
+    
+    
+    
+    
+    
+    
   
 </div>
 
@@ -98,10 +96,9 @@ I ship working PRs across GSSoC, NSoC, and GSoC-aligned projects — AI systems,
 
 ## Open Source Programs 2026
 
-- **GirlScript Summer of Code 2026:** Contributor across Open Source + AI/Agents tracks, shipping reviewed PRs in AI/ML, RAG, agentic systems, backend reliability, security hardening, CI/testing, and documentation.
+- **:** Contributor across Open Source + AI/Agents tracks, shipping reviewed PRs in AI/ML, RAG, agentic systems, backend reliability, security hardening, CI/testing, and documentation.
 - **Nexus Spring of Code 2026:** Contributor to fast-moving Nexus projects with focus on tested, useful, maintainable changes.
 - **Google Summer of Code 2026:** Contributor focused on production-minded implementation, clean architecture, documentation, and reviewer-friendly notes.
-
 
 ## 🌟 Verified Open Source Contributions
 
@@ -177,7 +174,6 @@ Every repository below represents verified, reviewed, and merged pull requests a
 
 <br/>
 
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
@@ -199,8 +195,8 @@ const saurabh = {
     bioinformatics: ["BioPython", "Bioconductor", "BLAST", "SAMtools", "GATK"],
     tools: ["Git", "Docker", "AWS", "Firebase", "Vercel", "Streamlit", "VS Code", "IntelliJ IDEA"],
     coreCompetencies: ["System Design", "Data Structures & Algorithms", "A2A Development", "MLOps", "RAG", "Conversational AI"],
-    openSourcePrograms: ["GSSoC 2026", "Google Summer of Code 2026", "Nexus Spring of Code 2026"],
-    achievements: ["Agent.AI Global Challenge Winner", "GSSoC 2026 Top Contributor", "GSoC 2026 Contributor", "NSoC 2026 Contributor", "TCS HackerQuest Season 10 Round 2 Qualifier", "Google ADK Contributor", "Candidate Master on Codeforces (Top 5%)", "Top 10% on LeetCode"],
+    openSourcePrograms: ["", "Google Summer of Code 2026", "Nexus Spring of Code 2026"],
+    achievements: ["Agent.AI Global Challenge Winner", " Top Contributor", "GSoC 2026 Contributor", "NSoC 2026 Contributor", "TCS HackerQuest Season 10 Round 2 Qualifier", "Google ADK Contributor", "Candidate Master on Codeforces (Top 5%)", "Top 10% on LeetCode"],
     currentlyLearning: ["Google Agent Development Kit (ADK)", "Advanced LLM Orchestration", "Multi-Agent Systems", "Multimodal AI"],
     lookingFor: "High-impact AI/ML Engineering Opportunities at Leading Tech Companies",
     funFact: "I build autonomous agent systems that can talk to each other while solving competitive programming problems! 🤖🧬🚀"
@@ -374,8 +370,7 @@ Ships to all five — e.g. WashFlow (Web, Android, iOS).
 - **Testing**: Added unit tests in Python and Go, improving stability and code coverage
 - **Technologies**: Python, Go, Agent-to-Agent (A2A) Communication, Multi-Agent Systems
 
-### 🌐 **Open Source Contributor** | GSSoC 2026, GSoC 2026 & NSoC 2026 | 2026 – Present
-- **Program Contributions**: Contributing across GirlScript Summer of Code, Google Summer of Code, and Nexus Spring of Code with production-focused PRs
+### 🌐 **Open Source Contributor** | , GSoC 2026 & NSoC 2026 | 2026 – Present
 - **AI/ML & Agentic Systems**: Building and improving RAG workflows, agent orchestration, NLP features, OpenCV utilities, and multimodal AI components
 - **Security & Reliability**: Shipping security fixes, backend reliability improvements, tests, CI cleanup, documentation, and maintainability upgrades
 - **Contribution Discipline**: Reading project guidelines, working on assigned/non-contested issues, keeping PRs reviewed, tested, labeled, and merge-ready
@@ -560,7 +555,6 @@ graph TD
 <br/>
 <img src="https://img.shields.io/badge/Merged_PRs-500%2B-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" alt="500+ Merged PRs" />
 <img src="https://img.shields.io/badge/Projects_Contributed-44-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="44 Projects" />
-<img src="https://img.shields.io/badge/GSSoC_Rank-%236-FF6B35?style=for-the-badge&logo=star&logoColor=white&labelColor=101828" alt="GSSoC Rank #6" />
 
 </div>
 
@@ -615,6 +609,5 @@ graph TD
 **Thanks for visiting my profile. Let's build useful systems and reliable open source.**
 
 </div>
-
 
 <!-- Last updated: October 07, 2026 at 14:03 UTC -->
