@@ -18,9 +18,9 @@
 
 <br>
 
-<a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
+
   <img src="https://img.shields.io/badge/GSSoC_2026_Profile-Rank_%236_%E2%80%A2_155.5K_Pts-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=101828" alt="GSSoC 2026 Rank #6" />
-</a>
+
 <a href="https://summerofcode.withgoogle.com/">
   <img src="https://img.shields.io/badge/GSoC_2026-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101828" alt="GSoC 2026 Contributor" />
 </a>
@@ -34,7 +34,7 @@
 <br><br>
 
 <div align="center">
-  <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
+  
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rank_1.png" width="65px" alt="Rank 1" />
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_3.png" width="65px" alt="Top 3" />
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_10.png" width="65px" alt="Top 10" />
@@ -51,18 +51,18 @@
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-point_scorer.png" width="65px" alt="Point Scorer" />
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_hunter.png" width="65px" alt="Bounty Hunter" />
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_master.png" width="65px" alt="Bounty Master" />
-  </a>
+  
 </div>
 
 <div align="center">
-  <a href="https://gssoc.girlscript.org/profile/6a73d848-056f-4043-a79b-83dfc87113ac">
+  
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-role_contributor.png" width="65px" alt="Contributor" />
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-profile_complete.png" width="65px" alt="Profile Complete" />
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-discord_verified.png" width="65px" alt="Discord Verified" />
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-first_steps.png" width="65px" alt="First Steps" />
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-getting_started.png" width="65px" alt="Getting Started" />
     <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-week_one.png" width="65px" alt="Week One" />
-  </a>
+  
 </div>
 
 </div>

@@ -271,7 +271,9 @@ def main():
         
         print(f"Found {len(projects)} projects.")
         
-        update_portfolio_data(user_data, projects)
+        # Portfolio now lives in a private repo; only the profile README is updated here.
+        
+        # update_portfolio_data(user_data, projects)
         update_readme(user_data, projects)
         
         print("Done!")
