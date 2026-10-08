@@ -35,33 +35,33 @@
 
 <div align="center">
   
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rank_1.png" width="65px" alt="Rank 1" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_3.png" width="65px" alt="Top 3" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_10.png" width="65px" alt="Top 10" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_50.png" width="65px" alt="Top 50" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_100.png" width="65px" alt="Top 100" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-elite.png" width="65px" alt="Elite" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-gssoc_champion.png" width="65px" alt="Champion" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-power_contributor.png" width="65px" alt="Power Contributor" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-prolific.png" width="65px" alt="Prolific" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-legend.png" width="65px" alt="Legend" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-on_a_roll.png" width="65px" alt="On a Roll" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-building_momentum.png" width="65px" alt="Building Momentum" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rising_star.png" width="65px" alt="Rising Star" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-point_scorer.png" width="65px" alt="Point Scorer" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_hunter.png" width="65px" alt="Bounty Hunter" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_master.png" width="65px" alt="Bounty Master" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rank_1.png" width="65px" alt="Rank 1" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_3.png" width="65px" alt="Top 3" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_10.png" width="65px" alt="Top 10" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_50.png" width="65px" alt="Top 50" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-top_100.png" width="65px" alt="Top 100" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-elite.png" width="65px" alt="Elite" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-gssoc_champion.png" width="65px" alt="Champion" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-power_contributor.png" width="65px" alt="Power Contributor" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-prolific.png" width="65px" alt="Prolific" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-legend.png" width="65px" alt="Legend" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-on_a_roll.png" width="65px" alt="On a Roll" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-building_momentum.png" width="65px" alt="Building Momentum" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-rising_star.png" width="65px" alt="Rising Star" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-point_scorer.png" width="65px" alt="Point Scorer" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_hunter.png" width="65px" alt="Bounty Hunter" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-bounty_master.png" width="65px" alt="Bounty Master" />
   
 </div>
 
 <div align="center">
   
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-role_contributor.png" width="65px" alt="Contributor" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-profile_complete.png" width="65px" alt="Profile Complete" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-discord_verified.png" width="65px" alt="Discord Verified" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-first_steps.png" width="65px" alt="First Steps" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-getting_started.png" width="65px" alt="Getting Started" />
-    <img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-week_one.png" width="65px" alt="Week One" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-role_contributor.png" width="65px" alt="Contributor" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-profile_complete.png" width="65px" alt="Profile Complete" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-discord_verified.png" width="65px" alt="Discord Verified" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-first_steps.png" width="65px" alt="First Steps" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-getting_started.png" width="65px" alt="Getting Started" />
+<img src="https://raw.githubusercontent.com/saurabhhhcodes/saurabhhhcodes/main/assets/gssoc-badges/gssoc-badge-week_one.png" width="65px" alt="Week One" />
   
 </div>
 
